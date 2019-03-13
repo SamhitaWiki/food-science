@@ -1,0 +1,2238 @@
+recipe_id,key,Value
+4,Energy,95 cal
+4,Protein,0.5 g
+4,Carbohydrates,3 g
+4,Fiber,1 g
+4,Fat,9.1 g
+4,Cholesterol,0 mg
+4,Sodium,277.7 mg
+5,Energy,95 cal
+5,Protein,0.5 g
+5,Carbohydrates,3 g
+5,Fiber,1 g
+5,Fat,9.1 g
+5,Cholesterol,0 mg
+5,Sodium,0.8 mg
+6,Energy,380 cal
+6,Protein,1.3 g
+6,Carbohydrates,35.5 g
+6,Fiber,1.5 g
+6,Fat,25.8 g
+6,Cholesterol,0 mg
+6,Sodium,15557.8 mg
+7,Energy,89 cal
+7,Protein,0.2 g
+7,Carbohydrates,22.4 g
+7,Fiber,0.8 g
+7,Fat,0.1 g
+7,Cholesterol,0 mg
+7,Sodium,0.9 mg
+8,Energy,237 cal
+8,Protein,5.8 g
+8,Carbohydrates,27.3 g
+8,Fiber,4.2 g
+8,Fat,11.6 g
+8,Cholesterol,0 mg
+8,Vitamin A,1273.8 mcg
+8,Vitamin B1,0.2 mg
+8,Vitamin B2,0.1 mg
+8,Vitamin B3,1.1 mg
+8,Vitamin C,7 mg
+8,Folic Acid,36.6 mcg
+8,Calcium,20.3 mg
+8,Iron,1.9 mg
+8,Magnesium,0 mg
+8,Phosphorus,0 mg
+8,Sodium,28.9 mg
+8,Potassium,268.4 mg
+8,Zinc,0.6 mg
+9,Energy,69 cal
+9,Protein,0.3 g
+9,Carbohydrates,15.2 g
+9,Fiber,0.1 g
+9,Fat,0.8 g
+9,Cholesterol,0 mg
+9,Sodium,85.7 mg
+10,Energy,56 cal
+10,Protein,0.1 g
+10,Carbohydrates,7.5 g
+10,Fiber,0.3 g
+10,Fat,3.1 g
+10,Cholesterol,0 mg
+10,Sodium,0.3 mg
+11,Energy,149 cal
+11,Protein,2.4 g
+11,Carbohydrates,24.4 g
+11,Fiber,0.3 g
+11,Fat,3.4 g
+11,Cholesterol,8 mg
+11,Sodium,18.6 mg
+13,Energy,328 cal
+13,Protein,4.8 g
+13,Carbohydrates,13.3 g
+13,Fiber,6.4 g
+13,Fat,27.6 g
+13,Cholesterol,5.3 mg
+13,Sodium,22.4 mg
+14,Energy,272 cal
+14,Protein,9.4 g
+14,Carbohydrates,6.8 g
+14,Fiber,0 g
+14,Fat,21.9 g
+14,Cholesterol,0 mg
+14,Vitamin A,333.9 mcg
+14,Vitamin B1,-0.5 mg
+14,Vitamin B2,-0.5 mg
+14,Vitamin B3,-0.5 mg
+14,Vitamin C,2.1 mg
+14,Folic Acid,2.8 mcg
+14,Calcium,364.2 mg
+14,Iron,0.1 mg
+14,Magnesium,0 mg
+14,Phosphorus,0 mg
+14,Sodium,9.5 mg
+14,Potassium,45 mg
+14,Zinc,0 mg
+15,Energy,295 cal
+15,Protein,9.4 g
+15,Carbohydrates,6.8 g
+15,Fiber,0 g
+15,Fat,24.4 g
+15,Cholesterol,8 mg
+15,Sodium,9.5 mg
+17,Energy,28 cal
+17,Protein,0.9 g
+17,Carbohydrates,1.5 g
+17,Fiber,0 g
+17,Fat,1.5 g
+17,Cholesterol,3.4 mg
+17,Sodium,4.3 mg
+18,Energy,215 cal
+18,Protein,3.1 g
+18,Carbohydrates,6 g
+18,Fiber,4 g
+18,Fat,19.2 g
+18,Cholesterol,6 mg
+18,Sodium,18 mg
+19,Energy,475 cal
+19,Protein,6.1 g
+19,Carbohydrates,66.9 g
+19,Fiber,5.9 g
+19,Fat,20.2 g
+19,Cholesterol,0 mg
+19,Sodium,7784.3 mg
+20,Energy,381 cal
+20,Protein,13.4 g
+20,Carbohydrates,12.8 g
+20,Fiber,0.2 g
+20,Fat,29 g
+20,Cholesterol,12 mg
+20,Sodium,16.8 mg
+21,Energy,642 cal
+21,Protein,15.3 g
+21,Carbohydrates,98.6 g
+21,Fiber,4.9 g
+21,Fat,20.1 g
+21,Cholesterol,0 mg
+21,Vitamin A,272.2 mcg
+21,Vitamin B1,-0.4 mg
+21,Vitamin B2,-0.4 mg
+21,Vitamin B3,1.9 mg
+21,Vitamin C,1.6 mg
+21,Folic Acid,11 mcg
+21,Calcium,280.5 mg
+21,Iron,0.9 mg
+21,Magnesium,0 mg
+21,Phosphorus,0 mg
+21,Sodium,4.8 mg
+21,Potassium,22.5 mg
+21,Zinc,1.6 mg
+22,Energy,32 cal
+22,Protein,1.3 g
+22,Carbohydrates,5.1 g
+22,Fiber,0.5 g
+22,Fat,0.7 g
+22,Cholesterol,0 mg
+22,Sodium,1.4 mg
+23,Energy,114 cal
+23,Protein,3.8 g
+23,Carbohydrates,21.7 g
+23,Fiber,1.8 g
+23,Fat,1.4 g
+23,Cholesterol,0 mg
+23,Sodium,6.9 mg
+24,Energy,73 cal
+24,Protein,2.7 g
+24,Carbohydrates,10.7 g
+24,Fiber,1.7 g
+24,Fat,2.2 g
+24,Cholesterol,0 mg
+24,Sodium,6.5 mg
+25,Energy,115 cal
+25,Protein,0.2 g
+25,Carbohydrates,27.5 g
+25,Fiber,0 g
+25,Fat,0.4 g
+25,Cholesterol,0 mg
+25,Sodium,258.4 mg
+27,Energy,219 cal
+27,Protein,5.9 g
+27,Carbohydrates,4 g
+27,Fiber,0.1 g
+27,Fat,19.9 g
+27,Cholesterol,8.1 mg
+27,Sodium,28.1 mg
+28,Energy,234 cal
+28,Protein,8.6 g
+28,Carbohydrates,10 g
+28,Fiber,0 g
+28,Fat,13 g
+28,Cholesterol,32 mg
+28,Sodium,38 mg
+30,Energy,82 cal
+30,Protein,1.7 g
+30,Carbohydrates,4.9 g
+30,Fiber,1.3 g
+30,Fat,6.2 g
+30,Cholesterol,0 mg
+30,Vitamin A,62.3 mcg
+30,Vitamin B1,0 mg
+30,Vitamin B2,0 mg
+30,Vitamin B3,0.2 mg
+30,Vitamin C,0.1 mg
+30,Folic Acid,12.1 mcg
+30,Calcium,4.6 mg
+30,Iron,0.4 mg
+30,Magnesium,0 mg
+30,Phosphorus,0 mg
+30,Sodium,6 mg
+30,Potassium,59 mg
+30,Zinc,0.1 mg
+31,Energy,0 cal
+31,Protein,0 g
+31,Carbohydrates,0 g
+31,Fiber,0 g
+31,Fat,0 g
+31,Cholesterol,0 mg
+31,Sodium,0 mg
+32,Energy,178 cal
+32,Protein,3.9 g
+32,Carbohydrates,23.6 g
+32,Fiber,4 g
+32,Fat,8.1 g
+32,Cholesterol,0 mg
+32,Sodium,6.5 mg
+33,Energy,96 cal
+33,Protein,1.8 g
+33,Carbohydrates,7.1 g
+33,Fiber,0.2 g
+33,Fat,7.4 g
+33,Cholesterol,0 mg
+33,Sodium,1.3 mg
+34,Energy,568 cal
+34,Protein,10.5 g
+34,Carbohydrates,31.1 g
+34,Fiber,1.5 g
+34,Fat,44.6 g
+34,Cholesterol,0.1 mg
+34,Sodium,1.5 mg
+35,Energy,208 cal
+35,Protein,2.6 g
+35,Carbohydrates,30.5 g
+35,Fiber,2.5 g
+35,Fat,8 g
+35,Cholesterol,0 mg
+35,Sodium,5.5 mg
+36,Energy,54 cal
+36,Protein,3.1 g
+36,Carbohydrates,7.9 g
+36,Fiber,2 g
+36,Fat,1.2 g
+36,Cholesterol,0 mg
+36,Sodium,3.5 mg
+37,Energy,130 cal
+37,Protein,4.1 g
+37,Carbohydrates,13.6 g
+37,Fiber,6 g
+37,Fat,6.6 g
+37,Cholesterol,1.4 mg
+37,Sodium,71.6 mg
+39,Energy,88 cal
+39,Protein,2.9 g
+39,Carbohydrates,11.5 g
+39,Fiber,2.3 g
+39,Fat,3.7 g
+39,Cholesterol,0 mg
+39,Sodium,5.9 mg
+40,Energy,218 cal
+40,Protein,2.9 g
+40,Carbohydrates,48.2 g
+40,Fiber,8.3 g
+40,Fat,1.4 g
+40,Cholesterol,0 mg
+40,Sodium,68 mg
+42,Energy,190 cal
+42,Protein,3.7 g
+42,Carbohydrates,2.6 g
+42,Fiber,1.2 g
+42,Fat,18.4 g
+42,Cholesterol,0 mg
+42,Sodium,251 mg
+44,Energy,227 cal
+44,Protein,5.5 g
+44,Carbohydrates,25.5 g
+44,Fiber,1 g
+44,Fat,9.7 g
+44,Cholesterol,12 mg
+44,Sodium,31.6 mg
+45,Energy,388 cal
+45,Protein,8.6 g
+45,Carbohydrates,18.1 g
+45,Fiber,2.8 g
+45,Fat,32.3 g
+45,Cholesterol,0 mg
+45,Sodium,4.2 mg
+46,Energy,169 cal
+46,Protein,3.5 g
+46,Carbohydrates,1.8 g
+46,Fiber,2 g
+46,Fat,16.5 g
+46,Cholesterol,0 mg
+46,Sodium,0 mg
+47,Energy,266 cal
+47,Protein,5.2 g
+47,Carbohydrates,8.1 g
+47,Fiber,2.3 g
+47,Fat,23.7 g
+47,Cholesterol,0 mg
+47,Vitamin A,157 mcg
+47,Vitamin B1,0.1 mg
+47,Vitamin B2,0.1 mg
+47,Vitamin B3,0.8 mg
+47,Vitamin C,9.3 mg
+47,Folic Acid,8.3 mcg
+47,Calcium,60.2 mg
+47,Iron,1.3 mg
+47,Magnesium,0 mg
+47,Phosphorus,0 mg
+47,Sodium,2.6 mg
+47,Potassium,70 mg
+47,Zinc,0.7 mg
+48,Energy,127 cal
+48,Protein,3.6 g
+48,Carbohydrates,15.1 g
+48,Fiber,0.6 g
+48,Fat,6.2 g
+48,Cholesterol,0 mg
+48,Sodium,1.4 mg
+49,Energy,78 cal
+49,Protein,1.5 g
+49,Carbohydrates,8.7 g
+49,Fiber,0.1 g
+49,Fat,4 g
+49,Cholesterol,0 mg
+49,Vitamin A,102.3 mcg
+49,Vitamin B1,0 mg
+49,Vitamin B2,0 mg
+49,Vitamin B3,0.3 mg
+49,Vitamin C,0 mg
+49,Folic Acid,0.2 mcg
+49,Calcium,12.8 mg
+49,Iron,0.3 mg
+49,Magnesium,0 mg
+49,Phosphorus,0 mg
+49,Sodium,26 mg
+49,Potassium,13.4 mg
+49,Zinc,0.1 mg
+50,Energy,103 cal
+50,Protein,2.1 g
+50,Carbohydrates,10.4 g
+50,Fiber,0.1 g
+50,Fat,5.8 g
+50,Cholesterol,7.9 mg
+50,Sodium,26 mg
+51,Energy,95 cal
+51,Protein,3.1 g
+51,Carbohydrates,2.3 g
+51,Fiber,1.2 g
+51,Fat,8.4 g
+51,Cholesterol,0 mg
+51,Sodium,251 mg
+52,Energy,381 cal
+52,Protein,5.3 g
+52,Carbohydrates,17.2 g
+52,Fiber,1.9 g
+52,Fat,32.7 g
+52,Cholesterol,65 mg
+52,Sodium,292.6 mg
+53,Energy,342 cal
+53,Protein,6.2 g
+53,Carbohydrates,49.6 g
+53,Fiber,8 g
+53,Fat,13.9 g
+53,Cholesterol,0 mg
+53,Sodium,165.2 mg
+54,Energy,102 cal
+54,Protein,4.4 g
+54,Carbohydrates,2.9 g
+54,Fiber,1.3 g
+54,Fat,8.3 g
+54,Cholesterol,0 mg
+54,Sodium,1.3 mg
+55,Energy,146 cal
+55,Protein,4.2 g
+55,Carbohydrates,6.2 g
+55,Fiber,0.3 g
+55,Fat,11.8 g
+55,Cholesterol,0 mg
+55,Sodium,0.2 mg
+56,Energy,132 cal
+56,Protein,2.8 g
+56,Carbohydrates,15 g
+56,Fiber,0.5 g
+56,Fat,5.7 g
+56,Cholesterol,0 mg
+56,Vitamin A,226.7 mcg
+56,Vitamin B1,0 mg
+56,Vitamin B2,0.1 mg
+56,Vitamin B3,0.2 mg
+56,Vitamin C,10.1 mg
+56,Folic Acid,3.6 mcg
+56,Calcium,120.2 mg
+56,Iron,0.5 mg
+56,Magnesium,0 mg
+56,Phosphorus,0 mg
+56,Sodium,11.4 mg
+56,Potassium,65.4 mg
+56,Zinc,0.1 mg
+57,Energy,131 cal
+57,Protein,4.2 g
+57,Carbohydrates,2.1 g
+57,Fiber,0.3 g
+57,Fat,11.8 g
+57,Cholesterol,0 mg
+57,Sodium,0 mg
+58,Energy,339 cal
+58,Protein,9.8 g
+58,Carbohydrates,25.1 g
+58,Fiber,0.2 g
+58,Fat,18.2 g
+58,Cholesterol,26.7 mg
+58,Sodium,31.7 mg
+59,Energy,224 cal
+59,Protein,3.4 g
+59,Carbohydrates,24.9 g
+59,Fiber,0.4 g
+59,Fat,12.2 g
+59,Cholesterol,0 mg
+59,Sodium,0.4 mg
+60,Energy,700 cal
+60,Protein,10.4 g
+60,Carbohydrates,97.7 g
+60,Fiber,0.9 g
+60,Fat,29.5 g
+60,Cholesterol,0.1 mg
+60,Sodium,0 mg
+61,Energy,1191 cal
+61,Protein,15.9 g
+61,Carbohydrates,201.6 g
+61,Fiber,1 g
+61,Fat,35.2 g
+61,Cholesterol,0.1 mg
+61,Sodium,9 mg
+62,Energy,31 cal
+62,Protein,0.9 g
+62,Carbohydrates,1.1 g
+62,Fiber,0 g
+62,Fat,2.7 g
+62,Cholesterol,0.8 mg
+62,Sodium,1 mg
+63,Energy,31 cal
+63,Protein,0.9 g
+63,Carbohydrates,1.1 g
+63,Fiber,0 g
+63,Fat,2.7 g
+63,Cholesterol,0.8 mg
+63,Sodium,1 mg
+64,Energy,98 cal
+64,Protein,2.1 g
+64,Carbohydrates,8.1 g
+64,Fiber,0.1 g
+64,Fat,6.1 g
+64,Cholesterol,2.3 mg
+64,Sodium,2.7 mg
+65,Energy,99 cal
+65,Protein,2 g
+65,Carbohydrates,8.1 g
+65,Fiber,0.9 g
+65,Fat,6.6 g
+65,Cholesterol,3.8 mg
+65,Sodium,18.7 mg
+66,Energy,1056 cal
+66,Protein,10 g
+66,Carbohydrates,99.2 g
+66,Fiber,1.3 g
+66,Fat,68.7 g
+66,Cholesterol,159.4 mg
+66,Sodium,549 mg
+67,Energy,75 cal
+67,Protein,1.6 g
+67,Carbohydrates,6 g
+67,Fiber,0.6 g
+67,Fat,4.9 g
+67,Cholesterol,0 mg
+67,Sodium,0.3 mg
+69,Energy,131 cal
+69,Protein,2 g
+69,Carbohydrates,13.7 g
+69,Fiber,2.4 g
+69,Fat,7.6 g
+69,Cholesterol,0 mg
+69,Sodium,144.9 mg
+70,Energy,157 cal
+70,Protein,2.8 g
+70,Carbohydrates,20.4 g
+70,Fiber,2.2 g
+70,Fat,6.2 g
+70,Cholesterol,6 mg
+70,Sodium,13.1 mg
+72,Energy,120 cal
+72,Protein,2.1 g
+72,Carbohydrates,15.7 g
+72,Fiber,1.5 g
+72,Fat,5.4 g
+72,Cholesterol,0.6 mg
+72,Sodium,11.6 mg
+73,Energy,357 cal
+73,Protein,4.7 g
+73,Carbohydrates,53.5 g
+73,Fiber,6.3 g
+73,Fat,12.6 g
+73,Cholesterol,0 mg
+73,Vitamin A,643.4 mcg
+73,Vitamin B1,0.2 mg
+73,Vitamin B2,0.1 mg
+73,Vitamin B3,1.5 mg
+73,Vitamin C,41.5 mg
+73,Folic Acid,16 mcg
+73,Calcium,182.5 mg
+73,Iron,1.4 mg
+73,Magnesium,0 mg
+73,Phosphorus,0 mg
+73,Sodium,117.3 mg
+73,Potassium,641.4 mg
+73,Zinc,0.4 mg
+76,Energy,205 cal
+76,Protein,1.9 g
+76,Carbohydrates,11.8 g
+76,Fiber,2.7 g
+76,Fat,16.8 g
+76,Cholesterol,0 mg
+76,Sodium,12.3 mg
+77,Energy,525 cal
+77,Protein,15.5 g
+77,Carbohydrates,50.4 g
+77,Fiber,11.4 g
+77,Fat,29.1 g
+77,Cholesterol,0 mg
+77,Sodium,54.4 mg
+78,Energy,398 cal
+78,Protein,5 g
+78,Carbohydrates,52 g
+78,Fiber,4.8 g
+78,Fat,18.8 g
+78,Cholesterol,0 mg
+78,Sodium,14.3 mg
+80,Energy,212 cal
+80,Protein,2.5 g
+80,Carbohydrates,33.2 g
+80,Fiber,2.7 g
+80,Fat,7.7 g
+80,Cholesterol,0 mg
+80,Sodium,155.1 mg
+81,Energy,465 kcal
+81,Protein,7.5 gm
+81,Carbohydrate,32.6 gm
+81,Fat,32.7 gm
+82,Energy,669 cal
+82,Protein,8.2 g
+82,Carbohydrates,58.6 g
+82,Fiber,4.2 g
+82,Fat,43.8 g
+82,Cholesterol,8 mg
+82,Sodium,43.6 mg
+83,Energy,122 cal
+83,Protein,3.1 g
+83,Carbohydrates,12.3 g
+83,Fiber,0.4 g
+83,Fat,6.7 g
+83,Cholesterol,1.9 mg
+83,Vitamin A,60.8 mcg
+83,Vitamin B1,0 mg
+83,Vitamin B2,0 mg
+83,Vitamin B3,0.4 mg
+83,Vitamin C,3.9 mg
+83,Folic Acid,3.9 mcg
+83,Calcium,50.9 mg
+83,Iron,0.4 mg
+83,Magnesium,0 mg
+83,Phosphorus,0 mg
+83,Sodium,55.8 mg
+83,Potassium,62.8 mg
+83,Zinc,0.1 mg
+84,Energy,240 kcal
+84,Protein,4.7 gm
+84,Carbohydrate,25.3 gm
+84,Fat,13.4 gm
+84,Fibre,1.6 gm
+84,Vitamin A,138.5 mcg
+84,Vitamin C,7.9 mg
+84,Calcium,66.1 mg
+84,Iron,0.9 mg
+84,Folic Acid,8.5 mcg
+86,Energy,150 cal
+86,Protein,1 g
+86,Carbohydrates,14 g
+86,Fiber,1.1 g
+86,Fat,10.1 g
+86,Cholesterol,0 mg
+86,Vitamin A,243.1 mcg
+86,Vitamin B1,0.1 mg
+86,Vitamin B2,0 mg
+86,Vitamin B3,0.8 mg
+86,Vitamin C,13.1 mg
+86,Folic Acid,10.4 mcg
+86,Calcium,9.8 mg
+86,Iron,0.3 mg
+86,Magnesium,0 mg
+86,Phosphorus,0 mg
+86,Sodium,7.9 mg
+86,Potassium,156.6 mg
+86,Zinc,0.3 mg
+87,Energy,148 cal
+87,Protein,2.8 g
+87,Carbohydrates,28.1 g
+87,Fiber,2.2 g
+87,Fat,2.7 g
+87,Cholesterol,0 mg
+87,Vitamin A,32.2 mcg
+87,Vitamin B1,0 mg
+87,Vitamin B2,0 mg
+87,Vitamin B3,1 mg
+87,Vitamin C,13.3 mg
+87,Calcium,10.8 mg
+87,Iron,0.5 mg
+87,Folic Acid,5.3 mcg
+87,Sodium,11.7 mg
+87,Potassium,68.1 mg
+87,Zinc,0.6 mg
+88,Energy,303 cal
+88,Protein,5.1 g
+88,Carbohydrates,55.1 g
+88,Fiber,3.6 g
+88,Fat,6.9 g
+88,Cholesterol,0 mg
+88,Vitamin A,68.2 mcg
+88,Vitamin B1,0.1 mg
+88,Vitamin B2,0.1 mg
+88,Vitamin B3,1.6 mg
+88,Vitamin C,13.3 mg
+88,Folic Acid,8.1 mcg
+88,Calcium,14.3 mg
+88,Iron,0.8 mg
+88,Magnesium,0 mg
+88,Phosphorus,0 mg
+88,Sodium,11.7 mg
+88,Potassium,68.1 mg
+88,Zinc,1 mg
+89,Energy,318 cal
+89,Protein,5.2 g
+89,Carbohydrates,56.4 g
+89,Fiber,3.7 g
+89,Fat,7.9 g
+89,Cholesterol,0 mg
+89,Sodium,15.6 mg
+90,Energy,244 cal
+90,Protein,3.3 g
+90,Carbohydrates,23.5 g
+90,Fiber,3.4 g
+90,Fat,15.6 g
+90,Cholesterol,0 mg
+90,Sodium,11.1 mg
+91,Energy,341 cal
+91,Protein,3.6 g
+91,Carbohydrates,30.5 g
+91,Fiber,4.7 g
+91,Fat,22.9 g
+91,Cholesterol,0 mg
+91,Sodium,8764.5 mg
+92,Energy,208 cal
+92,Protein,3 g
+92,Carbohydrates,23.7 g
+92,Fiber,3.7 g
+92,Fat,11.3 g
+92,Cholesterol,0 mg
+92,Sodium,39.9 mg
+93,Energy,223 cal
+93,Protein,2.4 g
+93,Carbohydrates,14.2 g
+93,Fiber,1.8 g
+93,Fat,16.9 g
+93,Cholesterol,0 mg
+93,Vitamin A,447.4 mcg
+93,Vitamin B1,0.2 mg
+93,Vitamin B2,0.1 mg
+93,Vitamin B3,0.7 mg
+93,Vitamin C,41.9 mg
+93,Folic Acid,16 mcg
+93,Calcium,79.8 mg
+93,Iron,0.8 mg
+93,Magnesium,0 mg
+93,Phosphorus,0 mg
+93,Sodium,12.6 mg
+93,Potassium,188.9 mg
+93,Zinc,0.3 mg
+94,Energy,109 cal
+94,Protein,3.3 g
+94,Carbohydrates,9.6 g
+94,Fiber,0.8 g
+94,Fat,6.4 g
+94,Cholesterol,0 mg
+94,Sodium,4.7 mg
+95,Energy,95 cal
+95,Protein,1.5 g
+95,Carbohydrates,20.7 g
+95,Fiber,2.4 g
+95,Fat,0.7 g
+95,Cholesterol,1.9 mg
+95,Sodium,15.6 mg
+96,Energy,169 cal
+96,Protein,0.9 g
+96,Carbohydrates,12 g
+96,Fiber,0.9 g
+96,Fat,13.1 g
+96,Cholesterol,0 mg
+96,Vitamin A,128.5 mcg
+96,Vitamin B1,0.1 mg
+96,Vitamin B2,0 mg
+96,Vitamin B3,0.6 mg
+96,Vitamin C,9.3 mg
+96,Folic Acid,8.8 mcg
+96,Calcium,9.5 mg
+96,Iron,0.3 mg
+96,Magnesium,0 mg
+96,Phosphorus,0 mg
+96,Sodium,5.7 mg
+96,Potassium,131.3 mg
+96,Zinc,0.3 mg
+97,Energy,86 cal
+97,Protein,1.1 g
+97,Carbohydrates,7.8 g
+97,Fiber,0.1 g
+97,Fat,5.6 g
+97,Cholesterol,0 mg
+97,Vitamin A,52.6 mcg
+97,Vitamin B1,0 mg
+97,Vitamin B2,0 mg
+97,Vitamin B3,0.3 mg
+97,Vitamin C,0.3 mg
+97,Folic Acid,0.3 mcg
+97,Calcium,2.5 mg
+97,Iron,0.3 mg
+97,Magnesium,0 mg
+97,Phosphorus,0 mg
+97,Sodium,1.1 mg
+97,Potassium,17.6 mg
+97,Zinc,0.1 mg
+98,Energy,194 cal
+98,Protein,2.2 g
+98,Carbohydrates,34.8 g
+98,Fiber,2.4 g
+98,Fat,5.2 g
+98,Cholesterol,0 mg
+98,Sodium,15.2 mg
+99,Energy,221 cal
+99,Protein,5 g
+99,Carbohydrates,36.3 g
+99,Fiber,1 g
+99,Fat,6 g
+99,Cholesterol,13.3 mg
+99,Sodium,50.7 mg
+100,Energy,76 cal
+100,Protein,1.3 g
+100,Carbohydrates,10.7 g
+100,Fiber,0.5 g
+100,Fat,3.1 g
+100,Cholesterol,0 mg
+100,Sodium,2.6 mg
+101,Energy,478 cal
+101,Protein,8.8 g
+101,Carbohydrates,24.5 g
+101,Fiber,1.5 g
+101,Fat,37.2 g
+101,Cholesterol,0 mg
+101,Vitamin A,307.9 mcg
+101,Vitamin B1,0.3 mg
+101,Vitamin B2,0.1 mg
+101,Vitamin B3,1.2 mg
+101,Vitamin C,13.3 mg
+101,Folic Acid,14.5 mcg
+101,Calcium,134.1 mg
+101,Iron,2 mg
+101,Magnesium,0 mg
+101,Phosphorus,0 mg
+101,Sodium,17.1 mg
+101,Potassium,224.4 mg
+101,Zinc,1.9 mg
+102,Energy,174 cal
+102,Protein,2.1 g
+102,Carbohydrates,23.9 g
+102,Fiber,2.8 g
+102,Fat,7.8 g
+102,Cholesterol,0 mg
+102,Sodium,18.3 mg
+103,Energy,243 cal
+103,Protein,2.4 g
+103,Carbohydrates,12.6 g
+103,Fiber,4.1 g
+103,Fat,20.4 g
+103,Cholesterol,0 mg
+103,Sodium,33.5 mg
+104,Energy,222 cal
+104,Protein,3.8 g
+104,Carbohydrates,24.4 g
+104,Fiber,4.1 g
+104,Fat,12.6 g
+104,Cholesterol,0 mg
+104,Sodium,12 mg
+105,Energy,160 cal
+105,Protein,3.4 g
+105,Carbohydrates,24.8 g
+105,Fiber,0.9 g
+105,Fat,5.3 g
+105,Cholesterol,0 mg
+105,Vitamin A,239.6 mcg
+105,Vitamin B1,0.1 mg
+105,Vitamin B2,0 mg
+105,Vitamin B3,0.8 mg
+105,Vitamin C,8.7 mg
+105,Folic Acid,4.4 mcg
+105,Calcium,27.6 mg
+105,Iron,0.8 mg
+105,Magnesium,0 mg
+105,Phosphorus,0 mg
+105,Sodium,7.7 mg
+105,Potassium,90.1 mg
+105,Zinc,0.3 mg
+106,Energy,92 cal
+106,Protein,4.8 g
+106,Carbohydrates,15 g
+106,Fiber,3.4 g
+106,Fat,1.6 g
+106,Cholesterol,0 mg
+106,Sodium,5.8 mg
+106,Energy,204 cal
+106,Protein,5.3 g
+106,Carbohydrates,23.9 g
+106,Fiber,4.2 g
+106,Fat,9.6 g
+106,Cholesterol,1.2 mg
+106,Sodium,16.6 mg
+107,Energy,99 cal
+107,Protein,2.8 g
+107,Carbohydrates,13.1 g
+107,Fiber,3.4 g
+107,Fat,3.9 g
+107,Cholesterol,0 mg
+107,Sodium,10.3 mg
+108,Energy,244 cal
+108,Protein,6.7 g
+108,Carbohydrates,27.2 g
+108,Fiber,7.1 g
+108,Fat,11.9 g
+108,Cholesterol,1.2 mg
+108,Sodium,14.7 mg
+109,Energy,225 cal
+109,Protein,7.7 g
+109,Carbohydrates,20.8 g
+109,Fiber,5.4 g
+109,Fat,11.9 g
+109,Cholesterol,4 mg
+109,Sodium,16.7 mg
+110,Energy,155 cal
+110,Protein,3.7 g
+110,Carbohydrates,17.7 g
+110,Fiber,4.4 g
+110,Fat,7.7 g
+110,Cholesterol,0 mg
+110,Sodium,12.6 mg
+111,Energy,154 cal
+111,Protein,3.7 g
+111,Carbohydrates,17.5 g
+111,Fiber,4.4 g
+111,Fat,7.7 g
+111,Cholesterol,0 mg
+111,Sodium,12.5 mg
+112,Energy,152 cal
+112,Protein,3.7 g
+112,Carbohydrates,17 g
+112,Fiber,4.5 g
+112,Fat,7.7 g
+112,Cholesterol,0 mg
+112,Sodium,13.6 mg
+113,Energy,487 cal
+113,Protein,12.8 g
+113,Carbohydrates,52.9 g
+113,Fiber,9.7 g
+113,Fat,24.9 g
+113,Cholesterol,0 mg
+113,Sodium,48.1 mg
+114,Energy,203 cal
+114,Protein,2.5 g
+114,Carbohydrates,13 g
+114,Fiber,3 g
+114,Fat,15.7 g
+114,Cholesterol,0 mg
+114,Sodium,58.5 mg
+115,Energy,154 cal
+115,Protein,1.9 g
+115,Carbohydrates,10.1 g
+115,Fiber,2.3 g
+115,Fat,11.8 g
+115,Cholesterol,0 mg
+115,Vitamin A,3904.3 mcg
+115,Vitamin B1,0.1 mg
+115,Vitamin B2,0.2 mg
+115,Vitamin B3,0.8 mg
+115,Vitamin C,25.2 mg
+115,Folic Acid,89.8 mcg
+115,Calcium,53.2 mg
+115,Iron,0.9 mg
+115,Magnesium,0 mg
+115,Phosphorus,0 mg
+115,Sodium,44 mg
+115,Potassium,229 mg
+115,Zinc,0.4 mg
+116,Energy,170 cal
+116,Protein,4.5 g
+116,Carbohydrates,22 g
+116,Fiber,4 g
+116,Fat,7.4 g
+116,Cholesterol,0.8 mg
+116,Sodium,14.5 mg
+117,Energy,148 cal
+117,Protein,4.5 g
+117,Carbohydrates,22 g
+117,Fiber,4 g
+117,Fat,4.9 g
+117,Cholesterol,0.8 mg
+117,Sodium,14.5 mg
+118,Energy,387 cal
+118,Protein,9.7 g
+118,Carbohydrates,16.9 g
+118,Fiber,2.9 g
+118,Fat,31.3 g
+118,Cholesterol,0 mg
+118,Sodium,109.8 mg
+119,Energy,242 cal
+119,Protein,9.1 g
+119,Carbohydrates,20.9 g
+119,Fiber,3 g
+119,Fat,13.6 g
+119,Cholesterol,0 mg
+119,Sodium,8.3 mg
+120,Energy,340 cal
+120,Protein,10 g
+120,Carbohydrates,24.8 g
+120,Fiber,2.7 g
+120,Fat,22.4 g
+120,Cholesterol,0 mg
+120,Sodium,11 mg
+121,Energy,177 cal
+121,Protein,3.3 g
+121,Carbohydrates,22.6 g
+121,Fiber,3.3 g
+121,Fat,8.5 g
+121,Cholesterol,0 mg
+121,Sodium,7.5 mg
+122,Energy,154 cal
+122,Protein,3.3 g
+122,Carbohydrates,22.6 g
+122,Fiber,3.3 g
+122,Fat,6 g
+122,Cholesterol,0 mg
+122,Sodium,7.5 mg
+123,Energy,141 cal
+123,Protein,2.3 g
+123,Carbohydrates,16.5 g
+123,Fiber,1.7 g
+123,Fat,7.1 g
+123,Cholesterol,1.2 mg
+123,Sodium,13.6 mg
+124,Energy,348 cal
+124,Protein,1.5 g
+124,Carbohydrates,20.8 g
+124,Fiber,1.6 g
+124,Fat,28.8 g
+124,Cholesterol,0 mg
+124,Sodium,10.1 mg
+125,Energy,112 cal
+125,Protein,1.5 g
+125,Carbohydrates,20.8 g
+125,Fiber,1.6 g
+125,Fat,2.6 g
+125,Cholesterol,0 mg
+125,Sodium,10.1 mg
+126,Energy,179 cal
+126,Protein,1.5 g
+126,Carbohydrates,20.8 g
+126,Fiber,1.6 g
+126,Fat,10.1 g
+126,Cholesterol,0 mg
+126,Sodium,10.1 mg
+127,Energy,89 cal
+127,Protein,1.4 g
+127,Carbohydrates,12.4 g
+127,Fiber,1.6 g
+127,Fat,3.8 g
+127,Cholesterol,0 mg
+127,Vitamin A,78.4 mcg
+127,Vitamin B1,0 mg
+127,Vitamin B2,0 mg
+127,Vitamin B3,0.6 mg
+127,Vitamin C,10.1 mg
+127,Folic Acid,8.9 mcg
+127,Calcium,8.5 mg
+127,Iron,0.4 mg
+127,Magnesium,0 mg
+127,Phosphorus,0 mg
+127,Sodium,6.1 mg
+127,Potassium,130.3 mg
+127,Zinc,0.3 mg
+128,Energy,40 cal
+128,Protein,0.4 g
+128,Carbohydrates,3.9 g
+128,Fiber,0.4 g
+128,Fat,2.5 g
+128,Cholesterol,0 mg
+128,Vitamin A,61.6 mcg
+128,Vitamin B1,0 mg
+128,Vitamin B2,0 mg
+128,Vitamin B3,0.2 mg
+128,Vitamin C,4.3 mg
+128,Folic Acid,2.7 mcg
+128,Calcium,4.4 mg
+128,Iron,0.1 mg
+128,Magnesium,0 mg
+128,Phosphorus,0 mg
+128,Sodium,2.1 mg
+128,Potassium,46.7 mg
+128,Zinc,0.1 mg
+129,Energy,567 cal
+129,Protein,9.9 g
+129,Carbohydrates,60.7 g
+129,Fiber,1.9 g
+129,Fat,34.4 g
+129,Cholesterol,23.3 mg
+129,Vitamin A,720.9 mcg
+129,Vitamin B1,0.3 mg
+129,Vitamin B2,0.2 mg
+129,Vitamin B3,1.6 mg
+129,Vitamin C,16.1 mg
+129,Folic Acid,15.8 mcg
+129,Calcium,165 mg
+129,Iron,2.3 mg
+129,Magnesium,0 mg
+129,Phosphorus,0 mg
+129,Sodium,712.6 mg
+129,Potassium,203.4 mg
+129,Zinc,0.6 mg
+130,Energy,747 cal
+130,Protein,25.4 g
+130,Carbohydrates,86.3 g
+130,Fiber,17.9 g
+130,Fat,32.4 g
+130,Cholesterol,8 mg
+130,Sodium,94 mg
+131,Energy,299 cal
+131,Protein,2.5 g
+131,Carbohydrates,34.8 g
+131,Fiber,2.6 g
+131,Fat,16.8 g
+131,Cholesterol,0 mg
+131,Sodium,16.9 mg
+132,Energy,134 cal
+132,Protein,2.2 g
+132,Carbohydrates,16.2 g
+132,Fiber,0.3 g
+132,Fat,6.7 g
+132,Cholesterol,4.6 mg
+132,Sodium,18.7 mg
+133,Energy,273 cal
+133,Protein,2.2 g
+133,Carbohydrates,62.4 g
+133,Fiber,2.6 g
+133,Fat,1.5 g
+133,Cholesterol,0 mg
+133,Sodium,96 mg
+138,Energy,282 cal
+138,Protein,10.6 g
+138,Carbohydrates,53.2 g
+138,Fiber,0.9 g
+138,Fat,4.9 g
+138,Cholesterol,0 mg
+138,Sodium,624.2 mg
+139,Energy,719 cal
+139,Protein,13.6 g
+139,Carbohydrates,86.2 g
+139,Fiber,2.3 g
+139,Fat,36.6 g
+139,Cholesterol,0 mg
+139,Vitamin A,496.6 mcg
+139,Vitamin B1,0.3 mg
+139,Vitamin B2,0.1 mg
+139,Vitamin B3,0.5 mg
+139,Vitamin C,70.7 mg
+139,Folic Acid,25.1 mcg
+139,Calcium,24.6 mg
+139,Iron,0.8 mg
+139,Magnesium,0 mg
+139,Phosphorus,0 mg
+139,Sodium,618.5 mg
+139,Potassium,66.1 mg
+139,Zinc,0.3 mg
+140,Energy,123 cal
+140,Protein,2.5 g
+140,Carbohydrates,19 g
+140,Fiber,2.1 g
+140,Fat,5.1 g
+140,Cholesterol,0 mg
+140,Vitamin A,153.1 mcg
+140,Vitamin B1,0.1 mg
+140,Vitamin B2,0.1 mg
+140,Vitamin B3,0.1 mg
+140,Vitamin C,22.3 mg
+140,Folic Acid,18.8 mcg
+140,Calcium,10.4 mg
+140,Iron,0.5 mg
+140,Magnesium,0 mg
+140,Phosphorus,0 mg
+140,Sodium,5.1 mg
+140,Potassium,129.6 mg
+140,Zinc,0.3 mg
+141,Energy,179 cal
+141,Protein,2.7 g
+141,Carbohydrates,34.6 g
+141,Fiber,1.1 g
+141,Fat,2.9 g
+141,Cholesterol,0 mg
+141,Sodium,388 mg
+143,Energy,353 cal
+143,Protein,8.7 g
+143,Carbohydrates,36 g
+143,Fiber,6.3 g
+143,Fat,19.3 g
+143,Cholesterol,0 mg
+143,Vitamin A,205.9 mcg
+143,Vitamin B1,0.2 mg
+143,Vitamin B2,0.1 mg
+143,Vitamin B3,1 mg
+143,Vitamin C,1.9 mg
+143,Folic Acid,60.5 mcg
+143,Calcium,25.8 mg
+143,Iron,2.2 mg
+143,Magnesium,0 mg
+143,Phosphorus,0 mg
+143,Sodium,30.3 mg
+143,Potassium,306.6 mg
+143,Zinc,0.7 mg
+145,Energy,521 cal
+145,Protein,19.3 g
+145,Carbohydrates,71.4 g
+145,Fiber,14.5 g
+145,Fat,17.5 g
+145,Cholesterol,0 mg
+145,Sodium,67.5 mg
+146,Energy,7 cal
+146,Protein,0.1 g
+146,Carbohydrates,1.5 g
+146,Fiber,0.2 g
+146,Fat,0 g
+146,Cholesterol,0 mg
+146,Sodium,1.3 mg
+147,Energy,20 cal
+147,Protein,0.2 g
+147,Carbohydrates,4.8 g
+147,Fiber,1.2 g
+147,Fat,0 g
+147,Cholesterol,0 mg
+147,Sodium,389.3 mg
+148,Energy,37 cal
+148,Protein,0.2 g
+148,Carbohydrates,9.4 g
+148,Fiber,1.3 g
+148,Fat,0 g
+148,Cholesterol,0 mg
+148,Sodium,2.1 mg
+150,Energy,20 cal
+150,Protein,0.2 g
+150,Carbohydrates,4.8 g
+150,Fiber,1.2 g
+150,Fat,0 g
+150,Cholesterol,0 mg
+150,Sodium,1.8 mg
+151,Energy,71 cal
+151,Protein,0.1 g
+151,Carbohydrates,17.4 g
+151,Fiber,0.7 g
+151,Fat,0 g
+151,Cholesterol,0 mg
+151,Sodium,1.1 mg
+152,Energy,54 cal
+152,Protein,0.1 g
+152,Carbohydrates,13.3 g
+152,Fiber,0.6 g
+152,Fat,0 g
+152,Cholesterol,0 mg
+152,Sodium,0.8 mg
+153,Energy,174 cal
+153,Protein,0.4 g
+153,Carbohydrates,18.1 g
+153,Fiber,2.4 g
+153,Fat,11.1 g
+153,Cholesterol,0 mg
+153,Sodium,3.5 mg
+154,Energy,73 cal
+154,Protein,0 g
+154,Carbohydrates,18.1 g
+154,Fiber,0 g
+154,Fat,0 g
+154,Cholesterol,0 mg
+154,Sodium,0 mg
+155,Energy,117 cal
+155,Protein,4.4 g
+155,Carbohydrates,9.6 g
+155,Fiber,0.1 g
+155,Fat,6.8 g
+155,Cholesterol,0 mg
+155,Sodium,0 mg
+156,Energy,117 cal
+156,Protein,4.4 g
+156,Carbohydrates,9.6 g
+156,Fiber,0.1 g
+156,Fat,6.8 g
+156,Cholesterol,0 mg
+156,Sodium,0 mg
+157,Energy,194 cal
+157,Protein,5.6 g
+157,Carbohydrates,12.3 g
+157,Fiber,5.4 g
+157,Fat,12.7 g
+157,Cholesterol,6 mg
+157,Sodium,23 mg
+158,Energy,134 cal
+158,Protein,1.7 g
+158,Carbohydrates,31.6 g
+158,Fiber,3 g
+158,Fat,0.1 g
+158,Cholesterol,0 mg
+158,Sodium,1.1 mg
+159,Energy,125 cal
+159,Protein,2.6 g
+159,Carbohydrates,27 g
+159,Fiber,3.3 g
+159,Fat,0.7 g
+159,Cholesterol,0 mg
+159,Sodium,16.7 mg
+160,Energy,87 cal
+160,Protein,0.6 g
+160,Carbohydrates,20.2 g
+160,Fiber,1.4 g
+160,Fat,0.4 g
+160,Cholesterol,0.1 mg
+160,Sodium,0.1 mg
+161,Energy,66 cal
+161,Protein,0.1 g
+161,Carbohydrates,14.2 g
+161,Fiber,0.2 g
+161,Fat,1 g
+161,Cholesterol,0 mg
+161,Sodium,0.6 mg
+162,Energy,301 cal
+162,Protein,10.9 g
+162,Carbohydrates,38.7 g
+162,Fiber,0.2 g
+162,Fat,8.4 g
+162,Cholesterol,20 mg
+162,Sodium,100.8 mg
+163,Energy,106 cal
+163,Protein,2.6 g
+163,Carbohydrates,7.8 g
+163,Fiber,1.5 g
+163,Fat,7.5 g
+163,Cholesterol,0 mg
+163,Sodium,1.2 mg
+164,Energy,152 cal
+164,Protein,4.2 g
+164,Carbohydrates,15.1 g
+164,Fiber,1.1 g
+164,Fat,8.7 g
+164,Cholesterol,0 mg
+164,Sodium,1.1 mg
+165,Energy,366 cal
+165,Protein,10.8 g
+165,Carbohydrates,35.6 g
+165,Fiber,2.5 g
+165,Fat,15.3 g
+165,Cholesterol,37.2 mg
+165,Sodium,46.7 mg
+166,Energy,461 cal
+166,Protein,8.8 g
+166,Carbohydrates,54.6 g
+166,Fiber,5.2 g
+166,Fat,24.6 g
+166,Cholesterol,0 mg
+166,Sodium,5 mg
+167,Energy,309 cal
+167,Protein,3.3 g
+167,Carbohydrates,20.7 g
+167,Fiber,2.3 g
+167,Fat,23.5 g
+167,Cholesterol,0 mg
+167,Vitamin A,227.9 mcg
+167,Vitamin B1,0.1 mg
+167,Vitamin B2,0.1 mg
+167,Vitamin B3,0.8 mg
+167,Vitamin C,2.2 mg
+167,Folic Acid,0.5 mcg
+167,Calcium,77.3 mg
+167,Iron,1 mg
+167,Magnesium,0 mg
+167,Phosphorus,0 mg
+167,Sodium,1.6 mg
+167,Potassium,7.7 mg
+167,Zinc,0.4 mg
+168,Energy,606 cal
+168,Protein,10.7 g
+168,Carbohydrates,95.6 g
+168,Fiber,3.4 g
+168,Fat,18.6 g
+168,Cholesterol,16 mg
+168,Sodium,21.8 mg
+169,Energy,94 cal
+169,Protein,1.3 g
+169,Carbohydrates,21.6 g
+169,Fiber,1.9 g
+169,Fat,0.3 g
+169,Cholesterol,0 mg
+169,Sodium,20.4 mg
+170,Energy,291 cal
+170,Protein,7.3 g
+170,Carbohydrates,38.2 g
+170,Fiber,4.6 g
+170,Fat,8.8 g
+170,Cholesterol,0.1 mg
+170,Sodium,125.9 mg
+171,Energy,20 cal
+171,Protein,1.3 g
+171,Carbohydrates,2.7 g
+171,Fiber,1.8 g
+171,Fat,0.4 g
+171,Cholesterol,0 mg
+171,Sodium,31.7 mg
+172,Energy,150 cal
+172,Protein,0.9 g
+172,Carbohydrates,33.9 g
+172,Fiber,8.2 g
+172,Fat,1.2 g
+172,Cholesterol,0 mg
+172,Sodium,64.8 mg
+173,Energy,373 cal
+173,Protein,12.1 g
+173,Carbohydrates,31.5 g
+173,Fiber,6 g
+173,Fat,20.8 g
+173,Cholesterol,0 mg
+173,Sodium,32.2 mg
+175,Energy,145 cal
+175,Protein,2 g
+175,Carbohydrates,27.9 g
+175,Fiber,0.8 g
+175,Fat,2.4 g
+175,Cholesterol,0 mg
+175,Sodium,129.2 mg
+176,Energy,2975 cal
+176,Protein,39 g
+176,Carbohydrates,326.3 g
+176,Fiber,60.5 g
+176,Fat,168.2 g
+176,Cholesterol,0 mg
+176,Vitamin A,225 mcg
+176,Vitamin B1,0.4 mg
+176,Vitamin B2,0.5 mg
+176,Vitamin B3,9.3 mg
+176,Vitamin C,3.4 mg
+176,Folic Acid,70.3 mcg
+176,Calcium,68.8 mg
+176,Iron,8.2 mg
+176,Magnesium,0 mg
+176,Phosphorus,0 mg
+176,Sodium,0 mg
+176,Potassium,0 mg
+176,Zinc,4.5 mg
+177,Protein,2.4 g
+177,Cho,18.1 g
+177,Fat,3 g
+178,Energy,99 cal
+178,Protein,1.6 g
+178,Carbohydrates,19.2 g
+178,Fiber,0.9 g
+178,Fat,1.8 g
+178,Cholesterol,0 mg
+178,Sodium,1.6 mg
+179,Energy,121 cal
+179,Protein,1.7 g
+179,Carbohydrates,16 g
+179,Fiber,2.2 g
+179,Fat,5.5 g
+179,Cholesterol,0 mg
+179,Sodium,3.5 mg
+180,Energy,201 cal
+180,Protein,8.4 g
+180,Carbohydrates,25 g
+180,Fiber,10.1 g
+180,Fat,12.9 g
+180,Cholesterol,0 mg
+180,Sodium,32.5 mg
+181,Energy,22 cal
+181,Protein,0.2 g
+181,Carbohydrates,4.6 g
+181,Fiber,0.3 g
+181,Fat,0.2 g
+181,Cholesterol,0.5 mg
+181,Sodium,3.4 mg
+182,Energy,800 cal
+182,Protein,25.7 g
+182,Carbohydrates,81.4 g
+182,Fiber,12.9 g
+182,Fat,41.8 g
+182,Cholesterol,0.1 mg
+182,Sodium,41.1 mg
+183,Energy,121 cal
+183,Protein,2.5 g
+183,Carbohydrates,15.2 g
+183,Fiber,0.9 g
+183,Fat,5.2 g
+183,Cholesterol,9.1 mg
+183,Sodium,111.8 mg
+184,Energy,189 cal
+184,Protein,2.4 g
+184,Carbohydrates,32.5 g
+184,Fiber,8.6 g
+184,Fat,5.5 g
+184,Cholesterol,0 mg
+184,Sodium,69.1 mg
+185,Energy,96 calories
+185,Protein,3.6 gm
+185,Carbohydrates,12.6 gm
+185,Fat,3.5 gm
+185,Vitamin A,384.2 mcg
+185,Calcium,60.0 mg
+186,Energy,185 cal
+186,Protein,3.7 g
+186,Carbohydrates,26.1 g
+186,Fiber,5.3 g
+186,Fat,5.5 g
+186,Cholesterol,12 mg
+186,Sodium,46.7 mg
+187,Energy,109 cal
+187,Protein,0.5 g
+187,Carbohydrates,25.6 g
+187,Fiber,2.7 g
+187,Fat,0.5 g
+187,Cholesterol,0.1 mg
+187,Sodium,16.3 mg
+188,Energy,36 cal
+188,Protein,1.3 g
+188,Carbohydrates,7.2 g
+188,Fiber,1.9 g
+188,Fat,0.3 g
+188,Cholesterol,0 mg
+188,Sodium,49 mg
+189,Energy,89 cal
+189,Protein,4.7 g
+189,Carbohydrates,16.3 g
+189,Fiber,1.6 g
+189,Fat,0.7 g
+189,Cholesterol,0 mg
+189,Sodium,58.5 mg
+190,Energy,453 cal
+190,Protein,0.3 g
+190,Carbohydrates,119 g
+190,Fiber,1.3 g
+190,Fat,0.7 g
+190,Cholesterol,0 mg
+190,Sodium,14.2 mg
+191,Energy,186 cal
+191,Protein,3.8 g
+191,Carbohydrates,31.7 g
+191,Fiber,1.7 g
+191,Fat,3.7 g
+191,Cholesterol,8 mg
+191,Sodium,20.7 mg
+192,Energy,160 cal
+192,Protein,0.4 g
+192,Carbohydrates,37.1 g
+192,Fiber,6.8 g
+192,Fat,1.1 g
+192,Cholesterol,0 mg
+192,Sodium,58.8 mg
+193,Energy,141 cal
+193,Protein,5.6 g
+193,Carbohydrates,14.4 g
+193,Fiber,0.8 g
+193,Fat,6.8 g
+193,Cholesterol,0 mg
+193,Sodium,52.1 mg
+195,Energy,103 cal
+195,Protein,1.3 g
+195,Carbohydrates,23.1 g
+195,Fiber,7.9 g
+195,Fat,0.6 g
+195,Cholesterol,0 mg
+195,Sodium,65.2 mg
+197,Energy,110 cal
+197,Protein,0.7 g
+197,Carbohydrates,24.2 g
+197,Fiber,10.1 g
+197,Fat,1.1 g
+197,Cholesterol,0 mg
+197,Sodium,40.8 mg
+198,Energy,159 cal
+198,Protein,5 g
+198,Carbohydrates,17.9 g
+198,Fiber,3.7 g
+198,Fat,7.6 g
+198,Cholesterol,0 mg
+198,Sodium,40.1 mg
+199,Energy,592 cal
+199,Protein,12.6 g
+199,Carbohydrates,63.7 g
+199,Fiber,1.9 g
+199,Fat,29.8 g
+199,Cholesterol,16 mg
+199,Sodium,52.6 mg
+200,Energy,72 cal
+200,Protein,4 g
+200,Carbohydrates,12.4 g
+200,Fiber,1.4 g
+200,Fat,0.7 g
+200,Cholesterol,0 mg
+200,Sodium,60.2 mg
+202,Energy,175 cal
+202,Protein,4.4 g
+202,Carbohydrates,18.8 g
+202,Fiber,1.4 g
+202,Fat,6.7 g
+202,Cholesterol,16 mg
+202,Sodium,31.2 mg
+203,Energy,127 cal
+203,Protein,1.8 g
+203,Carbohydrates,22.9 g
+203,Fiber,2.3 g
+203,Fat,3.3 g
+203,Cholesterol,9.2 mg
+203,Sodium,37.7 mg
+204,Energy,219 cal
+204,Protein,6 g
+204,Carbohydrates,26.7 g
+204,Fiber,3.7 g
+204,Fat,7.6 g
+204,Cholesterol,16 mg
+204,Sodium,43.6 mg
+205,Energy,69 cal
+205,Protein,3.5 g
+205,Carbohydrates,11.7 g
+205,Fiber,2.2 g
+205,Fat,0.9 g
+205,Cholesterol,0 mg
+205,Sodium,49.6 mg
+206,Energy,145 cal
+206,Protein,5.4 g
+206,Carbohydrates,27 g
+206,Fiber,5.5 g
+206,Fat,1.7 g
+206,Cholesterol,0 mg
+206,Sodium,94.1 mg
+207,Energy,252 cal
+207,Protein,2.2 g
+207,Carbohydrates,40.5 g
+207,Fiber,1.3 g
+207,Fat,9 g
+207,Cholesterol,26.7 mg
+207,Sodium,101.1 mg
+209,Energy,258 cal
+209,Protein,2.6 g
+209,Carbohydrates,38.7 g
+209,Fiber,4.1 g
+209,Fat,10.5 g
+209,Cholesterol,30 mg
+209,Sodium,118.3 mg
+210,Energy,129 cal
+210,Protein,2.6 g
+210,Carbohydrates,15.9 g
+210,Fiber,2.1 g
+210,Fat,6.2 g
+210,Cholesterol,0 mg
+210,Sodium,13.6 mg
+211,Energy,357 cal
+211,Protein,2.4 g
+211,Carbohydrates,52.5 g
+211,Fiber,2.8 g
+211,Fat,15.2 g
+211,Cholesterol,45 mg
+211,Sodium,174.5 mg
+212,Energy,64 cal
+212,Protein,0.6 g
+212,Carbohydrates,14.1 g
+212,Fiber,5.2 g
+212,Fat,0.5 g
+212,Cholesterol,0 mg
+212,Sodium,33.7 mg
+213,Energy,4 cal
+213,Protein,0.1 g
+213,Carbohydrates,0.8 g
+213,Fiber,0.8 g
+213,Fat,0 g
+213,Cholesterol,0 mg
+213,Sodium,3 mg
+214,Energy,119 cal
+214,Protein,1.2 g
+214,Carbohydrates,26.9 g
+214,Fiber,4.7 g
+214,Fat,0.7 g
+214,Cholesterol,0 mg
+214,Sodium,39.7 mg
+215,Energy,139 cal
+215,Protein,2.6 g
+215,Carbohydrates,26.5 g
+215,Fiber,6.3 g
+215,Fat,2.9 g
+215,Cholesterol,0 mg
+215,Sodium,71.6 mg
+216,Energy,111 cal
+216,Protein,0.3 g
+216,Carbohydrates,26.9 g
+216,Fiber,3.4 g
+216,Fat,0.6 g
+216,Cholesterol,0 mg
+216,Sodium,33.6 mg
+217,Energy,355 cal
+217,Protein,6.3 g
+217,Carbohydrates,34.1 g
+217,Fiber,2.4 g
+217,Fat,20.2 g
+217,Cholesterol,8 mg
+217,Sodium,28 mg
+218,Energy,49 cal
+218,Protein,0.8 g
+218,Carbohydrates,7.9 g
+218,Fiber,0.2 g
+218,Fat,1.6 g
+218,Cholesterol,3.4 mg
+218,Sodium,19.9 mg
+219,Energy,111 cal
+219,Protein,1.1 g
+219,Carbohydrates,23.6 g
+219,Fiber,0.3 g
+219,Fat,1.3 g
+219,Cholesterol,0.2 mg
+219,Sodium,3.1 mg
+220,Energy,31 cal
+220,Protein,0.1 g
+220,Carbohydrates,7.3 g
+220,Fiber,0.6 g
+220,Fat,0.1 g
+220,Cholesterol,0 mg
+220,Sodium,5.3 mg
+221,Energy,63 cal
+221,Protein,0 g
+221,Carbohydrates,15.5 g
+221,Fiber,0.5 g
+221,Fat,0.1 g
+221,Cholesterol,0 mg
+221,Sodium,4.7 mg
+222,Energy,108 cal
+222,Protein,0.4 g
+222,Carbohydrates,24.4 g
+222,Fiber,5.7 g
+222,Fat,1 g
+222,Cholesterol,0 mg
+222,Sodium,48.9 mg
+223,Energy,89 cal
+223,Protein,1.8 g
+223,Carbohydrates,18.9 g
+223,Fiber,3.8 g
+223,Fat,0.9 g
+223,Cholesterol,1.1 mg
+223,Sodium,24.3 mg
+225,Energy,246 cal
+225,Protein,4.6 g
+225,Carbohydrates,37 g
+225,Fiber,3.8 g
+225,Fat,7.1 g
+225,Cholesterol,16 mg
+225,Sodium,52.3 mg
+226,Energy,3520 cal
+226,Protein,43.8 g
+226,Carbohydrates,473.9 g
+226,Fiber,13.3 g
+226,Fat,160.4 g
+226,Cholesterol,425.1 mg
+226,Sodium,1534.7 mg
+227,Energy,35 cal
+227,Protein,0.1 g
+227,Carbohydrates,7.9 g
+227,Fiber,1.9 g
+227,Fat,0.3 g
+227,Cholesterol,0 mg
+227,Vitamin A,0 mcg
+227,Vitamin B1,0 mg
+227,Vitamin B2,0 mg
+227,Vitamin B3,0 mg
+227,Vitamin C,0.6 mg
+227,Folic Acid,0 mcg
+227,Calcium,5.9 mg
+227,Iron,0.4 mg
+227,Magnesium,0 mg
+227,Phosphorus,0 mg
+227,Sodium,16.4 mg
+227,Potassium,44 mg
+227,Zinc,0 mg
+228,Energy,83 cal
+228,Protein,7 g
+228,Carbohydrates,12.9 g
+228,Fiber,0.7 g
+228,Fat,0.3 g
+228,Cholesterol,0 mg
+228,Sodium,106.2 mg
+229,Energy,299 cal
+229,Protein,8.8 g
+229,Carbohydrates,20.8 g
+229,Fiber,0.7 g
+229,Fat,16.5 g
+229,Cholesterol,24 mg
+229,Sodium,33.1 mg
+230,Energy,89 cal
+230,Protein,1.7 g
+230,Carbohydrates,16.1 g
+230,Fiber,3 g
+230,Fat,2.2 g
+230,Cholesterol,1 mg
+230,Sodium,18.7 mg
+231,Energy,109 cal
+231,Protein,1.7 g
+231,Carbohydrates,17.5 g
+231,Fiber,3.8 g
+231,Fat,2.7 g
+231,Cholesterol,5.3 mg
+231,Sodium,33.4 mg
+232,Energy,95 cal
+232,Protein,1.4 g
+232,Carbohydrates,20.6 g
+232,Fiber,4.5 g
+232,Fat,0.7 g
+232,Cholesterol,0 mg
+232,Sodium,55.9 mg
+233,Energy,354 cal
+233,Protein,4.1 g
+233,Carbohydrates,65.5 g
+233,Fiber,2.8 g
+233,Fat,7.9 g
+233,Cholesterol,4.8 mg
+233,Sodium,30.1 mg
+235,Energy,103 cal
+235,Protein,0.3 g
+235,Carbohydrates,23.3 g
+235,Fiber,5.6 g
+235,Fat,0.9 g
+235,Cholesterol,0 mg
+235,Sodium,48.7 mg
+236,Energy,70 cal
+236,Protein,0.3 g
+236,Carbohydrates,15.8 g
+236,Fiber,3.7 g
+236,Fat,0.6 g
+236,Cholesterol,0 mg
+236,Sodium,32 mg
+237,Energy,150 cal
+237,Protein,2.2 g
+237,Carbohydrates,26.8 g
+237,Fiber,1 g
+237,Fat,2.8 g
+237,Cholesterol,6.4 mg
+237,Sodium,10.8 mg
+238,Energy,18 cal
+238,Protein,0.4 g
+238,Carbohydrates,2.3 g
+238,Fiber,1 g
+238,Fat,0.7 g
+238,Cholesterol,0 mg
+238,Vitamin A,63.2 mcg
+238,Vitamin B1,0 mg
+238,Vitamin B2,0 mg
+238,Vitamin B3,0.1 mg
+238,Vitamin C,8 mg
+238,Folic Acid,6.6 mcg
+238,Calcium,19.7 mg
+238,Iron,0.7 mg
+238,Magnesium,0 mg
+238,Phosphorus,0 mg
+238,Sodium,1.7 mg
+238,Potassium,48.3 mg
+238,Zinc,0.1 mg
+239,Energy,246 cal
+239,Protein,3.4 g
+239,Carbohydrates,24 g
+239,Fiber,1.2 g
+239,Fat,15.1 g
+239,Cholesterol,0 mg
+239,Vitamin A,162 mcg
+239,Vitamin B1,0.1 mg
+239,Vitamin B2,0 mg
+239,Vitamin B3,0.5 mg
+239,Vitamin C,1.4 mg
+239,Folic Acid,60.8 mcg
+239,Calcium,46.8 mg
+239,Iron,0.5 mg
+239,Magnesium,0 mg
+239,Phosphorus,0 mg
+239,Sodium,10.1 mg
+239,Potassium,625.5 mg
+239,Zinc,0.4 mg
+240,Energy,457 cal
+240,Protein,7.6 g
+240,Carbohydrates,33 g
+240,Fiber,3.1 g
+240,Fat,31.7 g
+240,Cholesterol,6.9 mg
+240,Sodium,29.2 mg
+241,Energy,246 cal
+241,Protein,4.4 g
+241,Carbohydrates,34.1 g
+241,Fiber,1.3 g
+241,Fat,10.2 g
+241,Cholesterol,0 mg
+241,Sodium,12.3 mg
+242,Energy,194 cal
+242,Protein,5.9 g
+242,Carbohydrates,29.4 g
+242,Fiber,3.2 g
+242,Fat,5.9 g
+242,Cholesterol,0 mg
+242,Vitamin A,225 mcg
+242,Vitamin B1,0.2 mg
+242,Vitamin B2,0.1 mg
+242,Vitamin B3,0.7 mg
+242,Vitamin C,3.2 mg
+242,Folic Acid,74.2 mcg
+242,Calcium,51.3 mg
+242,Iron,1.2 mg
+242,Magnesium,0 mg
+242,Phosphorus,0 mg
+242,Sodium,20.2 mg
+242,Potassium,653.5 mg
+242,Zinc,0.5 mg
+243,Energy,62 cal
+243,Protein,2.2 g
+243,Carbohydrates,7 g
+243,Fiber,2.1 g
+243,Fat,2.8 g
+243,Cholesterol,0 mg
+243,Sodium,12.7 mg
+246,Energy,66 cal
+246,Protein,4.3 g
+246,Carbohydrates,8.7 g
+246,Fiber,1.2 g
+246,Fat,2.2 g
+246,Cholesterol,5.8 mg
+246,Vitamin A,9.8 mcg
+246,Vitamin B1,0 mg
+246,Vitamin B2,0 mg
+246,Vitamin B3,0.2 mg
+246,Vitamin C,2.1 mg
+246,Folic Acid,18 mcg
+246,Calcium,67.2 mg
+246,Iron,0.5 mg
+246,Magnesium,0 mg
+246,Phosphorus,0 mg
+246,Sodium,160.7 mg
+246,Potassium,92.2 mg
+246,Zinc,0.2 mg
+247,Energy,57 cal
+247,Protein,2.6 g
+247,Carbohydrates,9.4 g
+247,Fiber,0.8 g
+247,Fat,1.2 g
+247,Cholesterol,1.4 mg
+247,Vitamin A,38.9 mcg
+247,Vitamin B1,0 mg
+247,Vitamin B2,0 mg
+247,Vitamin B3,0.6 mg
+247,Vitamin C,2.5 mg
+247,Folic Acid,19.6 mcg
+247,Calcium,26.5 mg
+247,Iron,1.1 mg
+247,Magnesium,0 mg
+247,Phosphorus,0 mg
+247,Sodium,46.1 mg
+247,Potassium,89.3 mg
+247,Zinc,0.2 mg
+248,Energy,57 cal
+248,Protein,2.6 g
+248,Carbohydrates,9.4 g
+248,Fiber,0.8 g
+248,Fat,1.2 g
+248,Cholesterol,1.4 mg
+248,Vitamin A,38.9 mcg
+248,Vitamin B1,0 mg
+248,Vitamin B2,0 mg
+248,Vitamin B3,0.6 mg
+248,Vitamin C,2.5 mg
+248,Folic Acid,19.6 mcg
+248,Calcium,26.5 mg
+248,Iron,1.1 mg
+248,Magnesium,0 mg
+248,Phosphorus,0 mg
+248,Sodium,46.1 mg
+248,Potassium,89.3 mg
+248,Zinc,0.2 mg
+249,Energy,309 cal
+249,Protein,12.7 g
+249,Carbohydrates,9.9 g
+249,Fiber,1.1 g
+249,Fat,24 g
+249,Cholesterol,52.3 mg
+249,Sodium,539.7 mg
+250,Energy,13 cal
+250,Protein,0.8 g
+250,Carbohydrates,1.2 g
+250,Fiber,0.2 g
+250,Fat,0.6 g
+250,Cholesterol,2 mg
+250,Sodium,23.3 mg
+252,Energy,91 cal
+252,Protein,0.7 g
+252,Carbohydrates,21.8 g
+252,Fiber,1.7 g
+252,Fat,0.1 g
+252,Cholesterol,0 mg
+252,Sodium,16.9 mg
+253,Energy,165 cal
+253,Protein,40.8 g
+253,Carbohydrates,28.9 g
+253,Fiber,2.9 g
+253,Fat,3.1 g
+253,Cholesterol,2.9 mg
+253,Sodium,41.4 mg
+254,Energy,65 cal
+254,Protein,0.8 g
+254,Carbohydrates,6.7 g
+254,Fiber,0.1 g
+254,Fat,3.9 g
+254,Cholesterol,0.4 mg
+254,Sodium,1.7 mg
+255,Energy,336 cal
+255,Protein,2.6 g
+255,Carbohydrates,46.5 g
+255,Fiber,2.6 g
+255,Fat,15.7 g
+255,Cholesterol,0 mg
+255,Sodium,4.3 mg
+256,Energy,460 cal
+256,Protein,3.9 g
+256,Carbohydrates,58.4 g
+256,Fiber,4 g
+256,Fat,23.9 g
+256,Cholesterol,0 mg
+256,Sodium,6.5 mg
+257,Energy,144 cal
+257,Protein,1 g
+257,Carbohydrates,12.5 g
+257,Fiber,1.1 g
+257,Fat,10.2 g
+257,Cholesterol,0 mg
+257,Sodium,1.7 mg
+258,Energy,196 calories
+258,Protein,7.8 gm
+258,Carbohydrates,21.4 gm
+258,Fat,8.9 gm
+258,Vitamin A,1086.4 mcg
+258,Iron,2.0 mg
+258,Fibre,2.5 gm
+259,Energy,162 cal
+259,Protein,3.3 g
+259,Carbohydrates,10.5 g
+259,Fiber,4.8 g
+259,Fat,11.4 g
+259,Cholesterol,0 mg
+259,Vitamin A,244.7 mcg
+259,Vitamin B1,0 mg
+259,Vitamin B2,0.1 mg
+259,Vitamin B3,0.5 mg
+259,Vitamin C,24.5 mg
+259,Folic Acid,16.6 mcg
+259,Calcium,61.6 mg
+259,Iron,1.5 mg
+259,Magnesium,0 mg
+259,Phosphorus,0 mg
+259,Sodium,10.1 mg
+259,Potassium,165.9 mg
+259,Zinc,0.2 mg
+260,Energy,71 cal
+260,Protein,2 g
+260,Carbohydrates,5.1 g
+260,Fiber,3.4 g
+260,Fat,4.5 g
+260,Cholesterol,2 mg
+260,Sodium,9.3 mg
+261,Energy,130 cal
+261,Protein,1.7 g
+261,Carbohydrates,16.4 g
+261,Fiber,3.7 g
+261,Fat,7 g
+261,Cholesterol,0 mg
+261,Sodium,48 mg
+262,Energy,93 cal
+262,Protein,1.4 g
+262,Carbohydrates,8.2 g
+262,Fiber,0.1 g
+262,Fat,6.1 g
+262,Cholesterol,0 mg
+262,Vitamin A,30.8 mcg
+262,Vitamin B1,0 mg
+262,Vitamin B2,0 mg
+262,Vitamin B3,0.5 mg
+262,Vitamin C,0.7 mg
+262,Folic Acid,0 mcg
+262,Calcium,5 mg
+262,Iron,0.4 mg
+262,Magnesium,0 mg
+262,Phosphorus,0 mg
+262,Sodium,1 mg
+262,Potassium,18.8 mg
+262,Zinc,0.1 mg
+263,Energy,106 cal
+263,Protein,1.7 g
+263,Carbohydrates,8.4 g
+263,Fiber,0.1 g
+263,Fat,7.4 g
+263,Cholesterol,0 mg
+263,Vitamin A,8.3 mcg
+263,Vitamin B1,0 mg
+263,Vitamin B2,0 mg
+263,Vitamin B3,0.8 mg
+263,Vitamin C,1 mg
+263,Folic Acid,0 mcg
+263,Calcium,7.1 mg
+263,Iron,0.5 mg
+263,Magnesium,0 mg
+263,Phosphorus,0 mg
+263,Sodium,1 mg
+263,Potassium,20.5 mg
+263,Zinc,0.1 mg
+264,Energy,652 cal
+264,Protein,9.8 g
+264,Carbohydrates,111.1 g
+264,Fiber,5.3 g
+264,Fat,18.6 g
+264,Cholesterol,0 mg
+264,Vitamin A,1.2 mcg
+264,Vitamin B1,0.1 mg
+264,Vitamin B2,0.2 mg
+264,Vitamin B3,3.7 mg
+264,Vitamin C,0.8 mg
+264,Folic Acid,9.6 mcg
+264,Calcium,49.9 mg
+264,Iron,1.6 mg
+264,Magnesium,0 mg
+264,Phosphorus,0 mg
+264,Sodium,0 mg
+264,Potassium,5.4 mg
+264,Zinc,1.8 mg
+265,Energy,39 cal
+265,Protein,0.6 g
+265,Carbohydrates,6.9 g
+265,Fiber,0.3 g
+265,Fat,0.9 g
+265,Cholesterol,0 mg
+265,Vitamin A,0.1 mcg
+265,Vitamin B1,0 mg
+265,Vitamin B2,0 mg
+265,Vitamin B3,0.2 mg
+265,Vitamin C,0 mg
+265,Folic Acid,0.6 mcg
+265,Calcium,3 mg
+265,Iron,0.1 mg
+265,Magnesium,0 mg
+265,Phosphorus,0 mg
+265,Sodium,0 mg
+265,Potassium,0.3 mg
+265,Zinc,0.1 mg
+266,Energy,140 cal
+266,Protein,2.5 g
+266,Carbohydrates,3.2 g
+266,Fiber,0.9 g
+266,Fat,8.6 g
+266,Cholesterol,0 mg
+266,Sodium,4.1 mg
+267,Energy,269 cal
+267,Protein,2.1 g
+267,Carbohydrates,3.3 g
+267,Fiber,1.1 g
+267,Fat,27.5 g
+267,Cholesterol,0 mg
+267,Sodium,7.6 mg
+268,Energy,492 cal
+268,Protein,8.8 g
+268,Carbohydrates,24.1 g
+268,Fiber,0 g
+268,Fat,52.4 g
+268,Cholesterol,0 mg
+268,Sodium,2.6 mg
+269,Energy,251 cal
+269,Protein,1.1 g
+269,Carbohydrates,19.8 g
+269,Fiber,0.6 g
+269,Fat,18.4 g
+269,Cholesterol,0 mg
+269,Sodium,25.3 mg
+270,Energy,210 cal
+270,Protein,3.1 g
+270,Carbohydrates,13.5 g
+270,Fiber,0.6 g
+270,Fat,14.9 g
+270,Cholesterol,8 mg
+270,Sodium,23.3 mg
+271,Energy,38 cal
+271,Protein,0.3 g
+271,Carbohydrates,0.4 g
+271,Fiber,0.1 g
+271,Fat,3.9 g
+271,Cholesterol,0 mg
+271,Sodium,0.6 mg
+272,Energy,31 cal
+272,Protein,0.3 g
+272,Carbohydrates,0.3 g
+272,Fiber,0 g
+272,Fat,3.3 g
+272,Cholesterol,0 mg
+272,Sodium,0.2 mg
+273,Energy,47 cal
+273,Protein,0.7 g
+273,Carbohydrates,0.8 g
+273,Fiber,0 g
+273,Fat,4.3 g
+273,Cholesterol,1.5 mg
+273,Sodium,1.9 mg
+274,Energy,169 cal
+274,Protein,1.6 g
+274,Carbohydrates,15.1 g
+274,Fiber,1.9 g
+274,Fat,11.5 g
+274,Cholesterol,0 mg
+274,Sodium,0.8 mg
+275,Energy,252 cal
+275,Protein,1.9 g
+275,Carbohydrates,23.1 g
+275,Fiber,0.1 g
+275,Fat,16.9 g
+275,Cholesterol,0 mg
+275,Sodium,34.3 mg
+276,Energy,118 cal
+276,Protein,1.5 g
+276,Carbohydrates,14.6 g
+276,Fiber,0.9 g
+276,Fat,6.1 g
+276,Cholesterol,0 mg
+276,Sodium,27.7 mg
+277,Energy,23 cal
+277,Protein,0.2 g
+277,Carbohydrates,0.1 g
+277,Fiber,0 g
+277,Fat,2.4 g
+277,Cholesterol,0 mg
+277,Sodium,0 mg
+278,Energy,140 cal
+278,Protein,2.2 g
+278,Carbohydrates,19.7 g
+278,Fiber,2 g
+278,Fat,6.8 g
+278,Cholesterol,0 mg
+278,Sodium,6.8 mg
+279,Energy,95 cal
+279,Protein,1.6 g
+279,Carbohydrates,13.3 g
+279,Fiber,1.5 g
+279,Fat,4.5 g
+279,Cholesterol,0 mg
+279,Sodium,4.7 mg
+280,Energy,168 cal
+280,Protein,1.9 g
+280,Carbohydrates,13.3 g
+280,Fiber,4.5 g
+280,Fat,11.9 g
+280,Cholesterol,0 mg
+280,Sodium,34.3 mg
+281,Energy,101 cal
+281,Protein,1.7 g
+281,Carbohydrates,6.3 g
+281,Fiber,1.2 g
+281,Fat,7.7 g
+281,Cholesterol,0 mg
+281,Sodium,70.3 mg
+282,Energy,302 cal
+282,Protein,4.9 g
+282,Carbohydrates,11.2 g
+282,Fiber,5.4 g
+282,Fat,26.9 g
+282,Cholesterol,0 mg
+282,Sodium,37 mg
+283,Energy,400 cal
+283,Protein,13.5 g
+283,Carbohydrates,27.8 g
+283,Fiber,1.4 g
+283,Fat,25.7 g
+283,Cholesterol,15.8 mg
+283,Vitamin A,164.9 mcg
+283,Vitamin B1,0.1 mg
+283,Vitamin B2,0.1 mg
+283,Vitamin B3,0.5 mg
+283,Vitamin C,10.1 mg
+283,Folic Acid,7.5 mcg
+283,Calcium,197.7 mg
+283,Iron,0.6 mg
+283,Magnesium,0 mg
+283,Phosphorus,0 mg
+283,Sodium,437.9 mg
+283,Potassium,59.4 mg
+283,Zinc,0.2 mg
+284,Energy,176 cal
+284,Protein,6.5 g
+284,Carbohydrates,7.5 g
+284,Fiber,0 g
+284,Fat,9.8 g
+284,Cholesterol,0 mg
+284,Vitamin A,240 mcg
+284,Vitamin B1,0.1 mg
+284,Vitamin B2,0.2 mg
+284,Vitamin B3,0.2 mg
+284,Vitamin C,1.5 mg
+284,Folic Acid,8.4 mcg
+284,Calcium,315 mg
+284,Iron,0.3 mg
+284,Magnesium,0 mg
+284,Phosphorus,0 mg
+284,Sodium,28.5 mg
+284,Potassium,135 mg
+284,Zinc,0 mg

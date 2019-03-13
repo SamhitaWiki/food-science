@@ -1,0 +1,653 @@
+ingredient_id,name
+1,Green asparagus
+2,Lemongrass
+3,Roses
+4,Asparagus
+5,Lavash
+6,Kabuli chana (white chick peas)
+7,Grated raw mango
+8,Turmeric powder (haldi)
+9,Fenugreek (methi) seeds
+10,Fenugreek seeds (methi) powder
+11,Fennel seeds (saunf)
+12,Asafoetida (hing)
+13,Nigella seeds (kalonji)
+14,Whole dry kashmiri red chillies
+15,Chilli powder
+16,Mustard (rai / sarson) oil
+17,Salt
+18,Raw mangoes
+19,Split fenugreek seeds (methi na kuria)
+20,Split mustard seeds (rai na kuria)
+21,Raw mango cubes
+22,Sugar
+23,Mint leaves (phudina)
+24,Crushed ice
+25,Mango cubes
+26,Oil
+27,Besan (bengal gram flour)
+28,Rice flour (chawal ka atta)
+29,Carom seeds (ajwain)
+30,Chopped raw mango
+31,Sambhaar
+32,Peeled and sliced almonds
+33,Poppy seeds (khus-khus)
+34,Coriander (dhania) powder
+35,Curds (dahi)
+36,Chopped mint leaves (phudina)
+37,Ice-cubes
+38,Grated raw mangoes
+39,Cumin seeds (jeera)
+40,Chopped onions
+41,Chopped green chillies
+42,Grated ginger (adrak)
+43,Mashed potatoes
+44,Boiled green peas
+45,Chaat masala
+46,Garam masala
+47,Chopped coriander (dhania)
+48,Onion rings
+49,Rotis
+50,Sliced ladies finger (bhindi)
+51,Mustard seeds ( rai / sarson)
+52,Chopped ginger (adrak)
+53,Chopped tomatoes
+54,Whisked curds (dahi)
+55,Coriander-cumin seeds (dhania-jeera) powder
+56,Green chilli pickle
+57,Hung curds (chakka dahi)
+58,Chopped garlic (lehsun)
+59,Paneer (cottage cheese) cubes
+60,Crumbled paneer (cottage cheese)
+61,Samosa pattis
+62,Powdered sugar
+63,Khakhras
+64,Ginger-garlic (adrak-lehsun) paste
+65,"Brinjals (baingan / eggplant) ,  cut into 1"" cubes"
+66,Sliced onions
+67,Punjabi garam masala
+68,Dried mango powder (amchur)
+69,Cream
+70,Aam ka achaar
+71,Boiled kabuli chana (white chick peas)
+72,Long grained rice (basmati)
+73,Ghee
+74,Black cardamom (badi elaichi)
+75,Black salt (sanchal)
+76,Plain flour (maida)
+77,Rice (chawal)
+78,Cinnamon (dalchini) sticks
+79,Cloves (laung / lavang)
+80,Caraway seeds (shahjeera)
+81,Cardamoms
+82,Broken wheat (dalia)
+83,Green moong dal (split  green gram)
+84,Masoor dal (split red lentil)
+85,Urad dal (split black lentils)
+86,Ginger-green chilli paste
+87,Chopped curry leaves (kadi patta)
+88,Par-boiled rice (ukda chawal)
+89,Toovar (arhar) dal
+90,Chana dal (split bengal gram)
+91,Red chillies
+92,Black peppercorns (kalimirch)
+93,Grated coconut
+94,Coconut oil
+95,Coconut chutney
+96,Grated carrot
+97,Chopped cabbage
+98,Ginger (adrak) juice
+99,Sugarcane juice
+100,Lemon
+101,Vanilla ice-cream
+102,Instant coffee powder
+103,Brandy
+104,Cinnamon (dalchini)  powder
+105,Melon seeds (charmagaz)
+106,Cashewnuts (kaju)
+107,Fresh cream
+108,Milk
+109,Butter
+110,White pepper powder
+111,Green chilli paste
+112,Peppercorns (kalimirch)
+113,Green chillies
+114,Water
+115,Whole wheat flour (gehun ka atta)
+116,Curd
+117,Walnuts (akhrot)
+118,Powdered cashewnuts (kaju)
+119,Grated dark chocolate
+120,"Walnuts (akhrot),"
+121,Powdered walnuts (akhrot)
+122,Broken cashewnuts (kaju)
+123,Pistachio slivers
+124,Crushed cumin seeds (jeera)
+125,Boiled chawli (cow pea / lobhia)
+126,Ginger (adrak) paste
+127,Garlic (lehsun) paste
+128,Alfalfa sprouts
+129,Whole wheat footlong bread
+130,Yellow capsicum
+131,Red capsicum
+132,Capsicum
+133,Olive oil
+134,Tomato slices
+135,Sliced black olives
+136,Dried oregano
+137,Freshly ground black pepper (kalimirch)
+138,Grated mozzarella cheese
+139,Vinegar
+140,Mayonnaise
+141,Chopped basil
+142,Whole wheat bread slices
+143,Iceberg lettuce leaves
+144,Garden cress seeds
+145,Chopped red capsicum
+146,Chopped yellow capsicum
+147,Carrot
+148,Chopped spring onions whites
+149,Paneer (cottage cheese)
+150,Orange juice
+151,Pineapple juice
+152,Lemonade
+153,Drumsticks
+154,Baby corn
+155,Yam (suran)
+156,Almond bread slices
+157,Avocado slices
+158,Sea salt
+159,Powdered almonds (badam)
+160,Chopped apples
+161,Lemon juice
+162,Orange marmalade
+163,Biscuit crumbs
+164,Beaten whipped cream
+165,Blanched and de-skinned almonds (badam)
+166,Chopped bananas
+167,Vanilla essence
+168,Almonds (badam)
+169,Honey
+170,Vanilla extract
+171,Pumpkin seeds
+172,Sunflower seeds (surajmukhi ke beej)
+173,Almond (badam) slivers
+174,Frozen blueberries
+175,Vertically sliced almonds (badam)
+176,Cooked long grained rice
+177,Cinnamon (dalchini)
+178,Bayleaf (tejpatta)
+179,Chopped and boiled french beans
+180,Biryani masala
+181,Fried onions
+182,Fried almonds (badam)
+183,Cocoa powder
+184,Baking powder
+185,Castor sugar
+186,Eggs
+187,Soft butter
+188,Almond milk
+189,Powdered flaxseeds
+190,Apple cider vinegar
+191,Chopped almonds (badam)
+192,Grated dry coconut (kopra)
+193,Crushed quick cooking rolled oats
+194,Cinnamon (dalchini) powder
+195,Peanut butter
+196,Almond butter cookies
+197,Coffee powder
+198,Grated chocolate
+199,Ground flax seeds  (alsi)
+200,Flax seeds  (alsi)
+201,Baking soda
+202,Apple cider
+203,Organic honey
+204,Sliced strawberries
+205,Canned pineapple
+206,Canned lychees
+207,Orange segments
+208,Agar-agar
+209,Almond essence
+210,Blanched almonds (badam)
+211,Cardamom (elaichi) powder
+212,Nutmeg (jaiphal)
+213,Saffron (kesar) strands 
+214,Roasted almonds (badam)
+215,Rolling board
+216,Rolling pin
+217,Knife
+218,Vanilla cake
+219,Sugar syrup
+220,Plain butter cream icing
+221,Pastry comb
+222,Butter cream icing
+223,Praline triangles
+224,Crushed praline
+225,Piping bag
+226,Turntable
+227,Chocolate
+228,Saffron (kesar) strands
+229,White stock
+230,Icing sugar
+231,Strawberries
+232,Black sesame seeds (kala til)
+233,Grated jaggery (gur)
+234,Whole dry kashmiri red chilli
+235,Grated garlic (lehsun)
+236,"Carrot cubes  ,  boiled"
+237,Capsicum cubes
+238,Boiled sweet corn kernels (makai ke dane)
+239,Bean sprouts
+240,Sliced spring onions whites
+241,Mushroom slices
+242,Low fat paneer (cottage cheese) cubes
+243,Pak choi cubes
+244,Chopped spring onion greens
+245,Vegetable stock
+246,Cornflour
+247,Toasted almond slices
+248,Cooked whole wheat noodles
+249,Potato cubes
+250,Boiled potato cubes
+251,Steamed purple yam (kand) cubes
+252,Rajgira flour
+253,Chilli paste
+254,"Boiled ,  peeled and grated potatoes"
+255,Grated paneer (cottage cheese)
+256,Shredded cabbage
+257,Green chutney
+258,Tomato ketchup
+259,Peeled red pumpkin (bhopla / kaddu) cubes
+260,Bay leaf (tejpatta)
+261,Clove (laung / lavang)
+262,Cardamom (elaichi)
+263,Potatoes
+264,Sweet potato (shakarkand)
+265,Melted butter
+266,Mint leaves (phudina) chutney
+267,Khajur imli ki chutney
+268,Cumin seeds (jeera) powder
+269,Grated radish (mooli)
+270,Chopped spring onions
+271,Boiled and peeled potato cubes
+272,Boiled and peeled sweet potato (shakarkand) cubes
+273,Black salt
+274,Radish (mooli)
+275,Chopped ladies finger (bhindi)
+276,Dried fenugreek leaves  (kasuri methi)
+277,Cooked long grained rice (basmati)
+278,Cardamoms (elaichi)
+279,Deep-fried baby potatoes halves
+280,Boiled and peeled baby potatoes
+281,Onion
+282,Tomato
+283,Chopped coriander (dhania) leaves
+284,"Boiled  ,  peeled and halved baby potatoes"
+285,Curd (dahi)
+286,Garlic chutney
+287,Sweet chutney
+288,Moong (whole green gram)
+289,Sev
+290,Taco shells
+291,Chopped iceberg lettuce
+292,"Boiled ,  peeled and mashed potatoes"
+293,Bread crumbs
+294,Grated processed cheese
+295,Chilli-garlic sauce
+296,"Boiled  ,  peeled and mashed potatoes"
+297,Green chillies in vinegar
+298,Turmeric (haldi) powder
+299,Kashmiri red chilli powder
+300,Cauliflower florets
+301,Bayleaves
+302,Papad
+303,Bayleaves (tejpatta)
+304,Dried ginger powder (soonth)
+305,Mint sprigs
+306,"Boiled ,  peeled and mashed potato"
+307,Grated cauliflower
+308,Curds
+309,Pickle
+310,Potato wedges
+311,Finely chopped fenugreek (methi) leaves
+312,Chopped potatoes
+313,Coriander (dhania)
+314,Paratha
+315,"Fenugreek (methi) seeds, soaked overnight in water"
+316,Roughly chopped garlic (lehsun)
+317,Roughly chopped ginger (adrak)
+318,"Green chillies, roughly chopped"
+319,"Potatoes, peeled and cut into 50 mm. (2"") cubes"
+320,"Capsicum, cut into 50 mm. (2"") pieces"
+321,"Tomatoes, deseeded and cut into 50 mm. (2"") pieces"
+322,"Potatoes ,  boiled and peeled"
+323,Purple yam (kand)
+324,Sliced potatoes
+325,Aniseeds (vilayati saunf)
+326,"Boiled  ,  peeled and grated potatoes"
+327,Curry leaves (kadi patta)
+328,Instant dry yeast
+329,Beaten rice (poha)
+330,Sweet and sour sauce
+331,Cashewnut halves
+332,Chopped cashewnuts (kaju)
+333,Grated tomatoes
+334,Pomegranate (anardana) powder
+335,Chopped fenugreek (methi)
+336,Boiled and mashed potatoes
+337,Chopped fenugreek (methi) leaves
+338,Soya based basic dough
+339,Boiled and grated potatoes
+340,Crumbled tofu (bean curd/ soya paneer)
+341,Finely chopped green chillies
+342,Soya oil
+343,Boiled fresh green peas
+344,Green peas
+345,Coriander (dhania) seeds
+346,Ginger (adrak)
+347,Whisked thick fresh curds (dahi)
+348,"Potatoes boiled  ,  peeled and cubed"
+349,Tomato puree
+350,Potato slices
+351,"Boiled ,  peeled and potato cubes"
+352,Chopped spinach (palak)
+353,Boiled potatoes
+354,Fresh curds
+355,Paneer  (cottagte cheese) cubes
+356,Baby potatoes
+357,Freshly ground black pepper (kalimirch) powder
+358,Red pumpkin (bhopla / kaddu) cubes
+359,"Potatoes  ,  peeled and boiled"
+360,Boiled and coarsely crushed green peas
+361,Chilli sauce
+362,Burger buns
+363,Shredded iceberg lettuce
+364,Cheese slices
+365,Pomegranate (anar)
+366,Mangoes
+367,Coriander seeds
+368,Freshly grated coconut
+369,Tamarind (imli)
+370,Yellow moong dal (split yellow gram)
+371,Chopped malabar spinach
+372,Soy sauce
+373,Cabbage
+374,Onions
+375,French beans
+376,Boiled noodles
+377,Fried noodles
+378,Parboiled hakka noodles
+379,Capsicum strips
+380,Carrot juliennes
+381,Jain tomato ketchup
+382,Diagonally cut baby corn
+383,Diagonally cut french beans
+384,Tomato cubes
+385,Mustard (rai / sarson) powder
+386,Soda bi-carb
+387,"Garlic (lehsun) cloves  ,  finely chopped"
+388,Juice of 2 large lemons
+389,Grated fresh coconut
+390,Semolina (rava)
+391,Citric acid (nimbu ka phool)
+392,Fruit salt
+393,Pomegranate seeds (anardana)
+394,Khaman dhoklas
+395,Pomegranate (anar) seeds
+396,Chopped amla (indian gooseberries)
+397,"Whole amla ,  deseeded and chopped roughly"
+398,Amla crush
+399,Powdered star anise  (chakri phool)
+400,Star anise (chakri phool)
+401,Amla (indian gooseberries) wedges
+402,Amlas ( indian gooseberries)
+403,Amlas (indian gooseberries)
+404,Grated amla (indian gooseberries)
+405,Raw peanuts
+406,"Amla ,  deseeded and chopped"
+407,Slit green chillies
+408,Crushed fennel seeds (saunf)
+409,Crushed coriander (dhania) seeds
+410,Chopped jaggery (gur)
+411,Grated mawa (khoya)
+412,"Blanched  ,  peeled and chopped pistachios"
+413,Crumbled mawa (khoya)
+414,"Blanched  ,  peeled and finely chopped pistachios"
+415,Chopped pistachios
+416,Bottle gourd (doodhi / lauki) cubes
+417,Boiled cauliflower florets
+418,Cashewnut (kaju) paste
+419,Parathas
+420,Black grapes
+421,Ash gourd
+422,Slaked lime
+423,Food colour
+424,Desiccated coconut
+425,Low-fat milk
+426,Rasgullas
+427,Sugar substitute
+428,Dried figs (anjeer)
+429,Chopped walnuts (akhrot)
+430,Sesame seeds (til)
+431,Crumbled mava (khoya)
+432,Chopped dried figs (anjeer)
+433,Chopped mixed nuts
+434,Milk powder
+435,Coarsely crushed sweet biscuits (parle g)
+436,Ice- cubes
+437,Orange
+438,Papaya
+439,Banana
+440,Sprouted moong (whole green gram)
+441,Rock salt (sendha namak)
+442,Watermelon (tarbuj) balls
+443,Green grapes
+444,Dates (khajur)
+445,"Medium sized apples ,  roughly chopped"
+446,Chopped beetroot
+447,Ice
+448,Iceberg lettuce
+449,Soaked and cooked whole masoor (whole red lentil)
+450,Mushroom (khumbh) cubes
+451,Grilled pumpkin
+452,Crumbled feta cheese
+453,Extra virgin olive oil
+454,Garlic (lehsun) cloves
+455,Grated lemon rind
+456,Dried thyme
+457,Low fat paneer
+458,Green capsicum
+459,Chopped fresh basil
+460,Chopped fresh parsley
+461,Coconut milk
+462,Cooked rice (chawal
+463,Dry yeast
+464,Vegetable korma
+465,Raw rice
+466,Poha (flattened rice flakes)
+467,Yoghurt
+468,Jaggery (gur)
+469,Cooked rice  (chawal)
+470,Coconut milk (nariyal ka doodh)
+471,Coconut stew
+472,Apple cubes
+473,Chopped celery
+474,Mustard (rai / sarson) paste
+475,Chopped apple
+476,Chopped banana
+477,Soaked and cooked steel cut oats
+478,Apple sauce
+479,Buckwheat (kuttu or kutti no daro) flour
+480,Chopped carrot
+481,Whole wheat bread
+482,Grated apples
+483,Grated mozzrella cheese
+484,Black dates (kala khajur)
+485,Apple wedges
+486,Red
+487,Muskmelon purée
+488,Roasted and crushed cumin seeds (jeera)
+489,Quick cooking rolled oats
+490,Raisins (kismis)
+491,Orange squash
+492,Lemon squash
+493,Soda
+494,Sliced apple
+495,Bread slices
+496,Brown sugar
+497,Apple
+498,Sandesh
+499,Grated apple
+500,Carrot cubes
+501,Beetroot cubes
+502,Ginger sticks
+503,Chopped chickoo
+504,Chopped muskmelon (kharbooja)
+505,Chopped dates (khajur)
+506,Low fat milk
+507,Sliced apples
+508,Skimmed milk powder
+509,Low fat cream
+510,Soya milk
+511,Lemon rind
+512,Crêpes
+513,Nutmeg (jaiphal) powder
+514,Wheat bran
+515,Low-fat butter
+516,Chopped cucumber
+517,Cucumber slices
+518,Parsley
+519,Apples
+520,Mixed fruits
+521,Strawberry jelly cubes
+522,White dragon fruit cubes
+523,Maple syrup
+524,Apple juice
+525,Self rising flour
+526,Condensed milk
+527,Apple rings
+528,Saffron strands
+529,Saffron colour
+530,Rose water
+531,Rose petals
+532,Shortcrust pastry
+533,Cooking apples
+534,Blanched and sliced almonds
+535,Vanilla cream
+536,Thick curds (dahi)
+537,Strawberry crush
+538,Green apple cubes
+539,Steel cut oats
+540,Roasted sunflower seeds (surajmukhi ke beej)
+541,Apple sticks
+542,Dried apricots (kummani / jardalu)
+543,Custard powder
+544,"Iceberg lettuce, torn into pieces"
+545,"Cherry tomatoes, halved"
+546,Cucumber cubes
+547,Green olives
+548,Black olives
+549,Baharat
+550,Baharat powder
+551,Pomegranate seeds (anardana ) powder
+552,Cherry tomatoes
+553,Olives
+554,Boiled and peeled colocassia (arbi) roundels
+555,Tomato pulp
+556,"Boiled , peeled colocassia (arbi) thick roundels"
+557,Thick beaten rice (jada poha)
+558,Boiled and peeled colocassia (arbi)
+559,Masoor (split red lentil) dal
+560,Tomatoes
+561,Cooked toovar (arhar) dal
+562,"Asparagus , cut into 2 cm. pieces and blanched"
+563,"Baby corn , cut into 2 cm. pieces and blanched"
+564,Dry red chilli flakes (paprika)
+565,Palak rotis
+566,Lettuce
+567,Blanched asparagus
+568,White sauce
+569,Baguette
+570,Chopped parsley
+571,"Asparagus spears  , cut into 50 mm.(2"") long"
+572,Asparagus spears
+573,Pita chips
+574,Chopped asparagus
+575,Low fat butter
+576,Cream cracker biscuits
+577,Beetroot slices
+578,Shallots (madras onions)
+579,Dosa batter
+580,Boiled and coarsely crushed sweet corn kernels
+581,Chopped capsicum
+582,Boiled and coarsely crushed mixed sprouts
+583,Pav bhaji masala
+584,Chopped baby corn
+585,Chopped coloured capsicum
+586,Schezuan sauce
+587,Grated beetroot
+588,Sambhar
+589,Malaga podi powder
+590,Almond slivers
+591,Coarsely crushed black peppercorns (kalimirch)
+592,Chopped mixed vegetables
+593,Brinjals (baingan / eggplant)
+594,Pizza sauce
+595,Low calorie white sauce
+596,Whole wheat bread crumbs
+597,"Green chillies ,  roughly chopped"
+598,"Drumsticks ,"
+599,"Carrots , cut into 25mm (1”) pieces"
+600,Red pumpkin (bhopla / kaddu)  cubes 
+601,Raw banana
+602,Brinjal (baingan / eggplant) cubes
+603,Turmeric
+604,Red pumpkin (bhopla/ kaddu) strips
+605,Round brinjal cubes
+606,Whisked fresh curds (dahi)
+607,Chopped avocado
+608,Chopped frozen bananas
+609,French bread slices
+610,Cherry tomato halves
+611,Sea salt (khada namak)
+612,Mashed ripe avocado
+613,Sushi rice
+614,Rice vinegar
+615,Seaweed sushi ( nori) sheets
+616,Bamboo mat
+617,Toga rashi powder
+618,Avocado strips
+619,Cream cheese cube strips
+620,Wasabi sauce
+621,Pickled sushi ginger
+622,Cucumber strips
+623,Avocado cubes
+624,Feta cheese
+625,Bread
+626,Sliced avocados
+627,Sliced tomatoes
+628,Chopped dark chocolate
+629,Chopped riped avocado
+630,Chocolate curls
+631,Chopped ripe avocado
+632,Avocados
+633,Nacho chips
+634,Corn chips
+635,Avocado
+636,Greek yoghurt
+637,Chopped shallots
+638,Grapefruit segments
+639,Chopped kale
+640,Mango pulp
+641,Sliced capsicum
+642,Tomato strips
+643,Sliced and blanched baby corn
+644,Sliced avocado
+645,Sliced and blanched babycorn
+646,Chopped pears
+647,Blanched broccoli florets
+648,Roasted flaxseeds
+649,Dried mixed herbs
+650,Shell pasta
+651,Sliced mozzarella cheese
+652,Basil
