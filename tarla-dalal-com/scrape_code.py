@@ -86,7 +86,7 @@ for link in links:
     print("recipe_id = ", recipe_id+1) 
     for i in ingridients:
         csv_file = csv.reader(open('ingredients.csv', "r"), delimiter=",") # opening the existing csv file
-        ing_name = i.select("span")[1].text.capitalize()
+        ing_name = i.select("span")[1].text.title()
         flag = 0
         count = 0
         #print("here count = ", count)
