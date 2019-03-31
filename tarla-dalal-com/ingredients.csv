@@ -156,14 +156,14 @@ id,name,Wikipedia links,Hindi name
 196,Almond Butter Cookies,,
 197,Coffee Powder,https://en.wikipedia.org/wiki/Coffee Powder,
 198,Grated Chocolate,https://en.wikipedia.org/wiki/Chocolate,
-199,Ground Flax Seeds ,https://en.wikipedia.org/wiki/Ground Flax Seeds,Alsi
+199,Ground Flax Seeds ,https://en.wikipedia.org/wiki/Flax#Flax_seeds,Alsi
 201,Baking Soda,https://en.wikipedia.org/wiki/Baking Soda,
 202,Apple Cider,https://en.wikipedia.org/wiki/Apple Cider,
 203,Organic Honey,https://en.wikipedia.org/wiki/Organic Honey,
 204,Sliced Strawberries,https://en.wikipedia.org/wiki/Strawberries,
 205,Canned Pineapple,https://en.wikipedia.org/wiki/Canned Pineapple,
-206,Canned Lychees,https://en.wikipedia.org/wiki/Canned Lychees,
-207,Orange Segments,https://en.wikipedia.org/wiki/Orange Segments,
+206,Canned Lychees,https://en.wikipedia.org/wiki/Lychees,
+207,Orange Segments,https://en.wikipedia.org/wiki/Orange,
 208,Agar-Agar,https://en.wikipedia.org/wiki/Agar-Agar,
 209,Almond Essence,https://en.wikipedia.org/wiki/Almond Essence,
 211,Cardamom Powder,https://en.wikipedia.org/wiki/Cardamom ,Elaichi
@@ -217,7 +217,6 @@ id,name,Wikipedia links,Hindi name
 269, Radish ,https://en.wikipedia.org/wiki/Radish ,Mooli
 270,Chopped Spring Onions,https://en.wikipedia.org/wiki/Spring Onions,
 271,Boiled And Peeled Potato Cubes,https://en.wikipedia.org/wiki/Potato ,
-272,Boiled And Peeled Sweet Potato Cubes,https://en.wikipedia.org/wiki/Potato ,Shakarkand
 273,Black Salt,https://en.wikipedia.org/wiki/Black Salt,
 275,Chopped Ladies Finger,https://en.wikipedia.org/wiki/Ladies Finger ,Bhindi
 277,Cooked Long Grained Rice ,https://en.wikipedia.org/wiki/Long Grained Rice,Basmati
@@ -494,8 +493,8 @@ id,name,Wikipedia links,Hindi name
 614,Rice Vinegar,https://en.wikipedia.org/wiki/Rice Vinegar,
 615,Seaweed Sushi Sheets,https://en.wikipedia.org/wiki/Seaweed Sushi ,Nori
 616,Bamboo Mat,https://en.wikipedia.org/wiki/Bamboo Mat,
-617,Toga Rashi Powder,,
-620,Wasabi Sauce,,
+617,Toga Rashi Powder,https://en.wikipedia.org/wiki/Shichimi,
+620,Wasabi Sauce,https://en.wikipedia.org/wiki/Wasabi,
 621,Pickled Sushi Ginger,https://en.wikipedia.org/wiki/Sushi Ginger,
 622,Cucumber Strips,https://en.wikipedia.org/wiki/Cucumber ,
 624,Feta Cheese,https://en.wikipedia.org/wiki/Feta Cheese,
