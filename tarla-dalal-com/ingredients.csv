@@ -170,7 +170,6 @@ id,name,Wikipedia links,Hindi name
 219,Sugar Syrup,https://en.wikipedia.org/wiki/Sugar Syrup,
 220,Plain Butter Cream Icing,https://en.wikipedia.org/wiki/Buttercream,
 221,Pastry Comb,https://en.wikipedia.org/wiki/Pastry Comb,
-222,Butter Cream Icing,https://en.wikipedia.org/wiki/Butter Cream ,
 223,Praline Triangles,https://en.wikipedia.org/wiki/Praline,
 225,Piping Bag,https://en.wikipedia.org/wiki/Piping Bag,
 226,Turntable,https://en.wikipedia.org/wiki/Turntable,
@@ -184,7 +183,7 @@ id,name,Wikipedia links,Hindi name
 237,Capsicum Cubes,https://en.wikipedia.org/wiki/Capsicum Cubes,
 238,Boiled Sweet Corn Kernels ,https://en.wikipedia.org/wiki/Sweet corn ,Makai Ke Dane
 239,Bean Sprouts,https://en.wikipedia.org/wiki/Bean Sprouts,
-240,Sliced Spring Onions Whites,https://en.wikipedia.org/wiki/Spring Onions,
+240,Sliced Spring Onions Whites,https://en.wikipedia.org/wiki/Scallion,
 241,Mushroom Slices,https://en.wikipedia.org/wiki/Mushroom Slices,
 242,Low Fat Paneer (Cottage Cheese) Cubes,https://en.wikipedia.org/wiki/Paneer ,
 243,Pak Choi Cubes,https://en.wikipedia.org/wiki/Pak Choi ,
@@ -192,18 +191,18 @@ id,name,Wikipedia links,Hindi name
 245,Vegetable Stock,https://en.wikipedia.org/wiki/Vegetable Stock,
 246,Cornflour,https://en.wikipedia.org/wiki/Cornflour,
 247,Toasted Almond Slices,https://en.wikipedia.org/wiki/Almond ,
-248,Cooked Whole Wheat Noodles,https://en.wikipedia.org/wiki/Wheat Noodles,
+248,Cooked Whole Wheat Noodles,https://en.wikipedia.org/wiki/noodles,
 249,Potato Cubes,https://en.wikipedia.org/wiki/Potato ,
 251,Steamed Purple Yam Cubes,https://en.wikipedia.org/wiki/Yam ,Kand
 252,Rajgira Flour,https://en.wikipedia.org/wiki/Rajgira Flour,
 253,Chilli Paste,https://en.wikipedia.org/wiki/Chilli Paste,
 254,"Boiled , Peeled And Grated Potatoes",https://en.wikipedia.org/wiki/Potatoes,
 256,Shredded Cabbage,https://en.wikipedia.org/wiki/Cabbage,
-257,Green Chutney,https://en.wikipedia.org/wiki/Green Chutney,
+257,Green Chutney,https://en.wikipedia.org/wiki/Green chutney,
 258,Tomato Ketchup,https://en.wikipedia.org/wiki/Tomato Ketchup,
 259,Peeled Red Pumpkin Cubes,https://en.wikipedia.org/wiki/Pumpkin,Bhopla / Kaddu
 263,Potatoes,https://en.wikipedia.org/wiki/Potatoes,
-264,Sweet Potato (Shakarkand),https://en.wikipedia.org/wiki/Sweet Potato ,Shakarkand
+264,Sweet Potato (Shakarkand),https://en.wikipedia.org/wiki/Sweet potato ,Shakarkand
 266,Mint Leaves Chutney,https://en.wikipedia.org/wiki/Mint ,Phudina
 267,Khajur Imli Ki Chutney,https://en.wikipedia.org/wiki/Tamarind,Imli
 268,Cumin Seeds Powder,https://en.wikipedia.org/wiki/Cumin ,Jeera
@@ -211,7 +210,7 @@ id,name,Wikipedia links,Hindi name
 270,Chopped Spring Onions,https://en.wikipedia.org/wiki/Spring Onions,
 271,Boiled And Peeled Potato Cubes,https://en.wikipedia.org/wiki/Potato ,
 273,Black Salt,https://en.wikipedia.org/wiki/Black Salt,
-275,Chopped Ladies Finger,https://en.wikipedia.org/wiki/Ladies Finger ,Bhindi
+275,Chopped Ladies Finger,https://en.wikipedia.org/wiki/Ladies finger ,Bhindi
 277,Cooked Long Grained Rice ,https://en.wikipedia.org/wiki/Basmati,Basmati
 281,Onion,https://en.wikipedia.org/wiki/Onion,
 282,Tomato,https://en.wikipedia.org/wiki/Tomato,
