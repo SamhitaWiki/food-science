@@ -20,19 +20,19 @@ id,name,Wikipedia links,Hindi name
 24,Crushed Ice,https://en.wikipedia.org/wiki/Ice,
 26,Oil,https://en.wikipedia.org/wiki/Oil,
 27,Besan (Bengal Gram Flour),https://en.wikipedia.org/wiki/Besan ,
-28,Rice Flour ,https://en.wikipedia.org/wiki/Rice Flour ,Chawal Ka Atta
+28,Rice Flour ,https://en.wikipedia.org/wiki/Rice flour ,Chawal Ka Atta
 29,Carom Seeds ,https://en.wikipedia.org/wiki/Carom,Ajwain
 31,Sambhaar,https://en.wikipedia.org/wiki/Sambhaar,
 33,Poppy Seeds ,https://en.wikipedia.org/wiki/Poppy seeds ,Khus-Khus
 34,Coriander  Powder,https://en.wikipedia.org/wiki/Coriander,Dhania
 35,Curds ,https://en.wikipedia.org/wiki/Curds ,Dahi
-38,Grated Raw Mangoes,https://en.wikipedia.org/wiki/Raw Mangoes,
+38,Grated Raw Mangoes,https://en.wikipedia.org/wiki/Mangoes,
 39,Cumin Seeds ,https://en.wikipedia.org/wiki/Cumin ,Jeera
 40,Chopped Onions,https://en.wikipedia.org/wiki/Onions,
-41,Chopped Green Chillies,https://en.wikipedia.org/wiki/Green Chillies,
+41,Chopped Green Chillies,https://en.wikipedia.org/wiki/Green chillies,
 42,Grated Ginger ,https://en.wikipedia.org/wiki/Ginger,Adrak
 43,Mashed Potatoes,https://en.wikipedia.org/wiki/Potatoes,
-44,Boiled Green Peas,https://en.wikipedia.org/wiki/Green Peas,matar
+44,Boiled Green Peas,https://en.wikipedia.org/wiki/Green peas,matar
 45,Chaat Masala,https://en.wikipedia.org/wiki/Chaat Masala,
 46,Garam Masala,https://en.wikipedia.org/wiki/Garam masala,
 49,Rotis,https://en.wikipedia.org/wiki/Rotis,
@@ -61,9 +61,9 @@ id,name,Wikipedia links,Hindi name
 77,Rice ,https://en.wikipedia.org/wiki/Rice ,Chawal
 78,Cinnamon Sticks,https://en.wikipedia.org/wiki/Cinnamon ,Dalchini
 79,Cloves ,https://en.wikipedia.org/wiki/Cloves ,Laung / Lavang
-80,Caraway Seeds ,https://en.wikipedia.org/wiki/Caraway Seeds,Shahjeera
+80,Caraway Seeds ,https://en.wikipedia.org/wiki/Caraway seeds,Shahjeera
 81,Cardamoms,https://en.wikipedia.org/wiki/Cardamoms,
-82,Broken Wheat ,https://en.wikipedia.org/wiki/Broken Wheat,Dalia
+82,Broken Wheat ,https://en.wikipedia.org/wiki/Broken wheat,Dalia
 83,Split Green Gram,https://en.wikipedia.org/wiki/Mung_bean,Green Moong Dal 
 84,Split Red Lentil,https://en.wikipedia.org/lentil,Masoor Dal
 85,Split Black Lentils,,Urad Dal 
@@ -100,8 +100,6 @@ id,name,Wikipedia links,Hindi name
 125,Boiled Chawli ,https://en.wikipedia.org/wiki/Boiled Chawli,Lobhia
 128,Alfalfa Sprouts,https://en.wikipedia.org/wiki/Alfalfa Sprouts,
 129,Whole Wheat Footlong Bread,https://en.wikipedia.org/wiki/Wheat Bread,
-130,Yellow Capsicum,https://en.wikipedia.org/wiki/Yellow Capsicum,
-131,Red Capsicum,https://en.wikipedia.org/wiki/Red Capsicum,
 132,Capsicum,https://en.wikipedia.org/wiki/Capsicum,
 133,Olive Oil,https://en.wikipedia.org/wiki/Olive Oil,
 134,Tomato Slices,https://en.wikipedia.org/wiki/Tomato,
@@ -155,7 +153,6 @@ id,name,Wikipedia links,Hindi name
 196,Almond Butter Cookies,,
 197,Coffee Powder,https://en.wikipedia.org/wiki/Coffee Powder,
 198,Grated Chocolate,https://en.wikipedia.org/wiki/Chocolate,
-199,Ground Flax Seeds ,https://en.wikipedia.org/wiki/Flax#Flax_seeds,Alsi
 201,Baking Soda,https://en.wikipedia.org/wiki/Baking Soda,
 202,Apple Cider,https://en.wikipedia.org/wiki/Apple Cider,
 203,Organic Honey,https://en.wikipedia.org/wiki/Organic Honey,
@@ -169,7 +166,6 @@ id,name,Wikipedia links,Hindi name
 213,Saffron Strands,https://en.wikipedia.org/wiki/Saffron Strands,Kesar
 215,Rolling Board,https://en.wikipedia.org/wiki/Rolling Board,
 216,Rolling Pin,https://en.wikipedia.org/wiki/Rolling Pin,
-217,Knife,https://en.wikipedia.org/wiki/Knife,
 218,Vanilla Cake,https://en.wikipedia.org/wiki/Vanilla Cake,
 219,Sugar Syrup,https://en.wikipedia.org/wiki/Sugar Syrup,
 220,Plain Butter Cream Icing,https://en.wikipedia.org/wiki/Buttercream,
@@ -186,7 +182,7 @@ id,name,Wikipedia links,Hindi name
 234,Whole Dry Kashmiri Red Chilli,https://en.wikipedia.org/wiki/Red Chilli,
 236,"Carrot Cubes , Boiled",https://en.wikipedia.org/wiki/Carrot ,
 237,Capsicum Cubes,https://en.wikipedia.org/wiki/Capsicum Cubes,
-238,Boiled Sweet Corn Kernels ,https://en.wikipedia.org/wiki/Sweet Corn ,Makai Ke Dane
+238,Boiled Sweet Corn Kernels ,https://en.wikipedia.org/wiki/Sweet corn ,Makai Ke Dane
 239,Bean Sprouts,https://en.wikipedia.org/wiki/Bean Sprouts,
 240,Sliced Spring Onions Whites,https://en.wikipedia.org/wiki/Spring Onions,
 241,Mushroom Slices,https://en.wikipedia.org/wiki/Mushroom Slices,
@@ -216,8 +212,7 @@ id,name,Wikipedia links,Hindi name
 271,Boiled And Peeled Potato Cubes,https://en.wikipedia.org/wiki/Potato ,
 273,Black Salt,https://en.wikipedia.org/wiki/Black Salt,
 275,Chopped Ladies Finger,https://en.wikipedia.org/wiki/Ladies Finger ,Bhindi
-277,Cooked Long Grained Rice ,https://en.wikipedia.org/wiki/Long Grained Rice,Basmati
-280,Boiled And Peeled Baby Potatoes,https://en.wikipedia.org/wiki/Baby potatoes,
+277,Cooked Long Grained Rice ,https://en.wikipedia.org/wiki/Basmati,Basmati
 281,Onion,https://en.wikipedia.org/wiki/Onion,
 282,Tomato,https://en.wikipedia.org/wiki/Tomato,
 283,Chopped Coriander Leaves,https://en.wikipedia.org/wiki/Coriander,Dhania
@@ -242,7 +237,6 @@ id,name,Wikipedia links,Hindi name
 309,Pickle,https://en.wikipedia.org/wiki/Pickle,
 310,Potato Wedges,https://en.wikipedia.org/wiki/Potato_wedges,
 311,Finely Chopped Fenugreek (Methi) Leaves,https://en.wikipedia.org/wiki/Fenugreek ,
-312,Chopped Potatoes,https://en.wikipedia.org/wiki/Potatoes,
 314,Paratha,https://en.wikipedia.org/wiki/Paratha,
 315,"Fenugreek Seeds, Soaked Overnight In Water",,
 317,Ginger,https://en.wikipedia.org/wiki/Ginger,Adrak
@@ -262,7 +256,6 @@ id,name,Wikipedia links,Hindi name
 334,Pomegranate Powder,https://en.wikipedia.org/wiki/Pomegranate,Anardana
 337,Chopped Fenugreek (Methi) Leaves,https://en.wikipedia.org/wiki/Fenugreek,
 338,Soya Based Basic Dough,https://en.wikipedia.org/wiki/Soya Dough,
-339,Boiled And Grated Potatoes,https://en.wikipedia.org/wiki/Potatoes,
 340,Crumbled Tofu (Bean Curd/ Soya Paneer),https://en.wikipedia.org/wiki/Tofu,
 341,Finely Chopped Green Chillies,https://en.wikipedia.org/wiki/Green Chillies,
 342,Soya Oil,https://en.wikipedia.org/wiki/Soya Oil,
@@ -273,7 +266,6 @@ id,name,Wikipedia links,Hindi name
 349,Tomato Puree,https://en.wikipedia.org/wiki/Tomato Puree,
 350,Potato Slices,https://en.wikipedia.org/wiki/Potato Slices,
 352,Chopped Spinach ,https://en.wikipedia.org/wiki/Spinach,Palak
-353,Boiled Potatoes,https://en.wikipedia.org/wiki/Potatoes,
 354,Fresh Curds,https://en.wikipedia.org/wiki/Fresh Curds,
 358,Red Pumpkin Cubes,https://en.wikipedia.org/wiki/Pumpkin,Bhopla / Kaddu
 360,Boiled And Coarsely Crushed Green Peas,https://en.wikipedia.org/wiki/Peas,matar
@@ -308,17 +300,17 @@ id,name,Wikipedia links,Hindi name
 393,Pomegranate Seeds (Anardana),https://en.wikipedia.org/wiki/Pomegranate ,Anardana
 394,Khaman Dhoklas,https://en.wikipedia.org/wiki/Dhoklas,
 396,Chopped Amla (Indian Gooseberries),https://en.wikipedia.org/wiki/Amla,
-399,Powdered Star Anise (Chakri Phool),https://en.wikipedia.org/wiki/Star Anise,Chakri Phool
-402,Amlas ( Indian Gooseberries),,
+399,Powdered Star Anise (Chakri Phool),https://en.wikipedia.org/wiki/Illicium_verum,Chakri Phool
+402,Amlas ( Indian Gooseberries),https://en.wikipedia.org/wiki/Amla,
 404,Grated Amla (Indian Gooseberries),,
 405,Raw Peanuts,https://en.wikipedia.org/wiki/Peanuts,
 407,Slit Green Chillies,https://en.wikipedia.org/wiki/Green Chillies,
-408,Crushed Fennel Seeds (Saunf),https://en.wikipedia.org/wiki/Fennel Seeds ,Saunf
+408,Crushed Fennel Seeds (Saunf),https://en.wikipedia.org/wiki/Fennel,Saunf
 409,Crushed Coriander (Dhania) Seeds,https://en.wikipedia.org/wiki/Coriander ,Dhania
 410,Chopped Jaggery (Gur),https://en.wikipedia.org/wiki/Jaggery,
 411,Grated Mawa (Khoya),https://en.wikipedia.org/wiki/Mawa ,Khoya
 412,"Blanched , Peeled And Chopped Pistachios",https://en.wikipedia.org/wiki/Pistachios,
-416,Bottle Gourd (Doodhi / Lauki) Cubes,https://en.wikipedia.org/wiki/Bottle Gourd,Doodhi / Lauki
+416,Bottle Gourd (Doodhi / Lauki) Cubes,https://en.wikipedia.org/wiki/Bottle Gourd / Lauki
 417,Boiled Cauliflower Florets,https://en.wikipedia.org/wiki/Cauliflower ,
 418,Cashewnut (Kaju) Paste,https://en.wikipedia.org/wiki/Cashewnut,Kaju
 419,Parathas,https://en.wikipedia.org/wiki/Parathas,
@@ -339,20 +331,18 @@ id,name,Wikipedia links,Hindi name
 436,Ice- Cubes,https://en.wikipedia.org/wiki/Ice- Cubes,
 437,Orange,https://en.wikipedia.org/wiki/Orange,
 438,Papaya,https://en.wikipedia.org/wiki/Papaya,
-439,Banana,https://en.wikipedia.org/wiki/Banana,
-440,Sprouted Moong (Whole Green Gram),https://en.wikipedia.org/wiki/Sprouted moong ,
+440,Sprouted Moong (Whole Green Gram),https://en.wikipedia.org/wiki/Mung_bean_sprout ,
 441,Rock Salt (Sendha Namak),https://en.wikipedia.org/wiki/Rock Salt ,Sendha Namak
 442,Watermelon (Tarbuj) Balls,https://en.wikipedia.org/wiki/Watermelon ,Tarbuj
 443,Green Grapes,https://en.wikipedia.org/wiki/Green Grapes,
 444,Dates ,https://en.wikipedia.org/wiki/Dates,Khajur
-445,"Medium Sized Apples , Roughly Chopped",https://en.wikipedia.org/wiki/Apples,
 447,Ice,https://en.wikipedia.org/wiki/Ice,
 448,Iceberg Lettuce,https://en.wikipedia.org/wiki/Lettuce,
 449,Soaked And Cooked Whole Masoor (Whole Red Lentil),https://en.wikipedia.org/wiki/Lentil,Masoor Dal
 450,Mushroom (Khumbh) Cubes,https://en.wikipedia.org/wiki/Mushroom,Khumbh
 451,Grilled Pumpkin,https://en.wikipedia.org/wiki/Pumpkin,
 453,Extra Virgin Olive Oil,https://en.wikipedia.org/wiki/Olive Oil,
-454,Garlic (Lehsun) Cloves,https://en.wikipedia.org/wiki/Garlic Cloves,Lehsun
+454,Garlic (Lehsun) Cloves,https://en.wikipedia.org/wiki/Garlic cloves,Lehsun
 455,Grated Lemon Rind,https://en.wikipedia.org/wiki/Lemon Rind,
 456,Dried Thyme,https://en.wikipedia.org/wiki/Thyme,
 457,Low Fat Paneer,https://en.wikipedia.org/wiki/Paneer,
@@ -361,7 +351,7 @@ id,name,Wikipedia links,Hindi name
 463,Dry Yeast,https://en.wikipedia.org/wiki/Dry Yeast,
 464,Vegetable Korma,https://en.wikipedia.org/wiki/Vegetable Korma,
 465,Raw Rice,https://en.wikipedia.org/wiki/Raw Rice,
-466,Poha (Flattened Rice Flakes),https://en.wikipedia.org/wiki/Flattened Rice ,Poha
+466,Poha (Flattened Rice Flakes),https://en.wikipedia.org/wiki/Flattened_rice ,Poha
 467,Yoghurt,https://en.wikipedia.org/wiki/Yoghurt,
 468,Jaggery (Gur),https://en.wikipedia.org/wiki/Jaggery ,Gur
 469,Cooked Rice (Chawal),https://en.wikipedia.org/wiki/Cooked Rice ,Chawal
@@ -375,7 +365,6 @@ id,name,Wikipedia links,Hindi name
 479,Buckwheat (Kuttu Or Kutti No Daro) Flour,https://en.wikipedia.org/wiki/Buckwheat flour,Kuttu Or Kutti No Daro
 480,Chopped Carrot,https://en.wikipedia.org/wiki/Carrot,
 481,Whole Wheat Bread,https://en.wikipedia.org/wiki/Wheat Bread,
-483,Grated Mozzrella Cheese,https://en.wikipedia.org/wiki/Mozzrella Cheese,
 484,Black Dates (Kala Khajur),https://en.wikipedia.org/wiki/Black Dates ,Kala Khajur
 485,Apple Wedges,https://en.wikipedia.org/wiki/Apple wedges,
 487,Muskmelon Pure,,
@@ -387,7 +376,6 @@ id,name,Wikipedia links,Hindi name
 493,Soda,https://en.wikipedia.org/wiki/Soda,
 495,Bread Slices,https://en.wikipedia.org/wiki/Bread Slices,
 496,Brown Sugar,https://en.wikipedia.org/wiki/Brown Sugar,
-497,Apple,https://en.wikipedia.org/wiki/Apple,
 498,Sandesh,https://en.wikipedia.org/wiki/Sandesh,
 500,Carrot Cubes,https://en.wikipedia.org/wiki/Carrot ,
 501,Beetroot Cubes,https://en.wikipedia.org/wiki/Beetroot ,
@@ -396,7 +384,6 @@ id,name,Wikipedia links,Hindi name
 504,Chopped Muskmelon (Kharbooja),https://en.wikipedia.org/wiki/Muskmelon ,Kharbooja
 505,Chopped Dates (Khajur),https://en.wikipedia.org/wiki/Dates ,Khajur
 506,Low Fat Milk,https://en.wikipedia.org/wiki/Milk,
-507,Sliced Apples,https://en.wikipedia.org/wiki/Apples,
 508,Skimmed Milk Powder,https://en.wikipedia.org/wiki/Skimmed Milk,
 509,Low Fat Cream,https://en.wikipedia.org/wiki/Cream,
 510,Soya Milk,https://en.wikipedia.org/wiki/Soya Milk,
@@ -407,7 +394,6 @@ id,name,Wikipedia links,Hindi name
 515,Low-Fat Butter,https://en.wikipedia.org/wiki/ Butter,
 516,Chopped Cucumber,https://en.wikipedia.org/wiki/Cucumber,
 518,Parsley,https://en.wikipedia.org/wiki/Parsley,
-519,Apples,https://en.wikipedia.org/wiki/Apples,
 520,Mixed Fruits,https://en.wikipedia.org/wiki/Mixed Fruits,
 521,Strawberry Jelly Cubes,https://en.wikipedia.org/wiki/Strawberry Jelly ,
 522,White Dragon Fruit Cubes,,
@@ -415,7 +401,6 @@ id,name,Wikipedia links,Hindi name
 524,Apple Juice,https://en.wikipedia.org/wiki/Apple Juice,
 525,Self Rising Flour,https://en.wikipedia.org/wiki/ Flour,
 526,Condensed Milk,https://en.wikipedia.org/wiki/Milk,
-527,Apple Rings,,
 528,Saffron Strands,https://en.wikipedia.org/wiki/Saffron ,
 529,Saffron Colour,https://en.wikipedia.org/wiki/Saffron Colour,
 530,Rose Water,https://en.wikipedia.org/wiki/Rose Water,
@@ -449,12 +434,10 @@ id,name,Wikipedia links,Hindi name
 564,Dry Red Chilli Flakes (Paprika),https://en.wikipedia.org/wiki/Crushed_red_pepper,
 565,Palak Rotis,,
 566,Lettuce,https://en.wikipedia.org/wiki/Lettuce,
-567,Blanched Asparagus,https://en.wikipedia.org/wiki/Asparagus,
 568,White Sauce,https://en.wikipedia.org/wiki/White Sauce,
 569,Baguette,https://en.wikipedia.org/wiki/Baguette,
 570,Chopped Parsley,https://en.wikipedia.org/wiki/Parsley,
 571,"Asparagus Spears , Cut Into 50 Mm.(2"") Long",,
-572,Asparagus Spears,https://en.wikipedia.org/wiki/Asparagus ,
 573,Pita Chips,https://en.wikipedia.org/wiki/Pita Chips,
 574,Chopped Asparagus,https://en.wikipedia.org/wiki/Asparagus,
 575,Low Fat Butter,https://en.wikipedia.org/wiki/Butter,
@@ -480,7 +463,6 @@ id,name,Wikipedia links,Hindi name
 597,"Green Chillies , Roughly Chopped",https://en.wikipedia.org/wiki/Green Chillies ,
 598,"Drumsticks ,",https://en.wikipedia.org/wiki/Drumsticks ,
 599,"Carrots , Cut Into 25Mm (1) Pieces",,
-601,Raw Banana,https://en.wikipedia.org/wiki/Raw Banana,
 605,Round Brinjal Cubes,https://en.wikipedia.org/wiki/Brinjal,
 609,French Bread Slices,https://en.wikipedia.org/wiki/French Bread ,
 610,Cherry Tomato Halves,https://en.wikipedia.org/wiki/Cherry Tomato,
@@ -492,27 +474,24 @@ id,name,Wikipedia links,Hindi name
 616,Bamboo Mat,https://en.wikipedia.org/wiki/Bamboo Mat,
 617,Toga Rashi Powder,https://en.wikipedia.org/wiki/Shichimi,
 620,Wasabi Sauce,https://en.wikipedia.org/wiki/Wasabi,
-621,Pickled Sushi Ginger,https://en.wikipedia.org/wiki/Sushi Ginger,
+621,Pickled Sushi Ginger,https://en.wikipedia.org/wiki/Gari_(ginger),
 622,Cucumber Strips,https://en.wikipedia.org/wiki/Cucumber ,
-624,Feta Cheese,https://en.wikipedia.org/wiki/Feta Cheese,
+624,Feta Cheese,https://en.wikipedia.org/wiki/Feta cheese,
 625,Bread,https://en.wikipedia.org/wiki/Bread,
 628,Chopped Dark Chocolate,https://en.wikipedia.org/wiki/Dark Chocolate,
 630,Chocolate Curls,https://en.wikipedia.org/wiki/Chocolate,
 633,Nacho Chips,https://en.wikipedia.org/wiki/Nacho ,
-634,Corn Chips,https://en.wikipedia.org/wiki/Corn Chips,
-636,Greek Yoghurt,https://en.wikipedia.org/wiki/Greek Yoghurt,
+634,Corn Chips,https://en.wikipedia.org/wiki/Corn chips,
+636,Greek Yoghurt,https://en.wikipedia.org/wiki/Greek yoghurt,
 637,Chopped Shallots,https://en.wikipedia.org/wiki/Shallots,
 638,Grapefruit Segments,https://en.wikipedia.org/wiki/Grapefruit ,
 639,Chopped Kale,https://en.wikipedia.org/wiki/Kale,
-640,Mango Pulp,https://en.wikipedia.org/wiki/Mango ,
 641,Sliced Capsicum,https://en.wikipedia.org/wiki/Capsicum,
 642,Tomato Strips,https://en.wikipedia.org/wiki/Tomato ,
-643,Sliced And Blanched Baby Corn,https://en.wikipedia.org/wiki/Baby Corn,
-644,Sliced Avocado,https://en.wikipedia.org/wiki/Avocado,
+643,Sliced And Blanched Baby Corn,https://en.wikipedia.org/wiki/Baby corn,
 646,Chopped Pears,https://en.wikipedia.org/wiki/Pears,
 647,Blanched Broccoli Florets,https://en.wikipedia.org/wiki/Broccoli,
 648,Roasted Flaxseeds,https://en.wikipedia.org/wiki/Flaxseeds,
 649,Dried Mixed Herbs,,
 650,Shell Pasta,https://en.wikipedia.org/wiki/Shell Pasta,
-651,Sliced Mozzarella Cheese,https://en.wikipedia.org/wiki/Mozzarella Cheese,
 652,Basil,https://en.wikipedia.org/wiki/Basil,
