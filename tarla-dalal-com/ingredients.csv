@@ -38,7 +38,7 @@ id,name,Wikipedia links,Hindi name
 49,Rotis,https://en.wikipedia.org/wiki/Rotis,
 50,Sliced Ladies Finger ,https://en.wikipedia.org/wiki/Ladies Finger ,Bhindi
 53,Chopped Tomatoes,https://en.wikipedia.org/wiki/Tomatoes,
-54,Whisked Curds ,https://en.wikipedia.org/wiki/Whisked Curds ,Dahi
+54,Whisked Curds ,https://en.wikipedia.org/wiki/Curds ,Dahi
 55,Coriander-Cumin Seeds Powder,,Dhania-Jeera
 56,Green Chilli Pickle,,
 57,Hung Curds ,https://en.wikipedia.org/wiki/Curds ,Chakka Dahi
@@ -126,14 +126,14 @@ id,name,Wikipedia links,Hindi name
 158,Sea Salt,https://en.wikipedia.org/wiki/Sea Salt,
 159,Powdered Almonds ,https://en.wikipedia.org/wiki/Almonds ,Badam
 160,Chopped Apples,https://en.wikipedia.org/wiki/Apples,
-162,Orange Marmalade,https://en.wikipedia.org/wiki/Orange Marmalade,
+162,Orange Marmalade,https://en.wikipedia.org/wiki/Orange ,
 163,Biscuit Crumbs,https://en.wikipedia.org/wiki/Biscuit ,
 164,Beaten Whipped Cream,https://en.wikipedia.org/wiki/Cream,
 165,Blanched And De-Skinned Almonds ,,
 166,Chopped Bananas,https://en.wikipedia.org/wiki/Bananas,
-167,Vanilla Essence,https://en.wikipedia.org/wiki/Vanilla Essence,
+167,Vanilla Essence,https://en.wikipedia.org/wiki/Vanilla essence,
 169,Honey,https://en.wikipedia.org/wiki/Honey,
-170,Vanilla Extract,https://en.wikipedia.org/wiki/Vanilla Extract,
+170,Vanilla Extract,https://en.wikipedia.org/wiki/Vanilla extract,
 171,Pumpkin Seeds,https://en.wikipedia.org/wiki/Pumpkin seeds,
 172,Sunflower Seeds ,https://en.wikipedia.org/wiki/Sunflower seeds ,Surajmukhi Ke Beej
 174,Frozen Blueberries,https://en.wikipedia.org/wiki/Frozen Blueberries,
@@ -141,7 +141,6 @@ id,name,Wikipedia links,Hindi name
 179,Chopped And Boiled French Beans,https://en.wikipedia.org/wiki/French Beans,
 180,Biryani Masala,https://en.wikipedia.org/wiki/Biryani Masala,
 181,Fried Onions,https://en.wikipedia.org/wiki/Fried Onions,
-182,Fried Almonds ,https://en.wikipedia.org/wiki/Fried Almonds ,
 183,Cocoa Powder,https://en.wikipedia.org/wiki/Cocoa Powder,
 184,Baking Powder,https://en.wikipedia.org/wiki/Baking Powder,
 185,Castor Sugar,https://en.wikipedia.org/wiki/Castor Sugar,
@@ -173,11 +172,10 @@ id,name,Wikipedia links,Hindi name
 217,Knife,https://en.wikipedia.org/wiki/Knife,
 218,Vanilla Cake,https://en.wikipedia.org/wiki/Vanilla Cake,
 219,Sugar Syrup,https://en.wikipedia.org/wiki/Sugar Syrup,
-220,Plain Butter Cream Icing,https://en.wikipedia.org/wiki/Butter Cream,
+220,Plain Butter Cream Icing,https://en.wikipedia.org/wiki/Buttercream,
 221,Pastry Comb,https://en.wikipedia.org/wiki/Pastry Comb,
 222,Butter Cream Icing,https://en.wikipedia.org/wiki/Butter Cream ,
-223,Praline Triangles,https://en.wikipedia.org/wiki/Praline Triangles,
-224,Crushed Praline,https://en.wikipedia.org/wiki/Crushed Praline,
+223,Praline Triangles,https://en.wikipedia.org/wiki/Praline,
 225,Piping Bag,https://en.wikipedia.org/wiki/Piping Bag,
 226,Turntable,https://en.wikipedia.org/wiki/Turntable,
 228,Saffron Strands,https://en.wikipedia.org/wiki/Saffron ,
