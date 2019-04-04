@@ -10,7 +10,7 @@ id,name,Wikipedia links,Hindi name,Image link
 11,Fennel Seeds,https://en.wikipedia.org/wiki/Fennel,Saunf,https://en.wikipedia.org/wiki/Fennel#/media/File:Foeniculum_July_2011-1a.jpg
 12,Asafoetida,https://en.wikipedia.org/wiki/Asafoetida,Hing,https://en.wikipedia.org/wiki/Asafoetida#/media/File:Asafoetida2.jpg
 13,Nigella Seeds,https://en.wikipedia.org/wiki/Nigella,Kalonji,https://en.wikipedia.org/wiki/Nigella#/media/File:Nigella_damascena_seed_capsule1.jpg
-14, Dry Kashmiri Red Chillies,https://en.wikipedia.org/wiki/Red Chillies,,https://en.wikipedia.org/wiki/Chili_pepper#/media/File:Madame_Jeanette_and_other_chillies.jpg
+14,Dry Kashmiri Red Chillies,https://en.wikipedia.org/wiki/Red Chillies,,https://en.wikipedia.org/wiki/Chili_pepper#/media/File:Madame_Jeanette_and_other_chillies.jpg
 15,Chilli Powder,,,
 16,Mustard Oil,https://en.wikipedia.org/wiki/Mustard Oil,Rai / Sarson,https://en.wikipedia.org/wiki/Mustard_oil#/media/File:Mustard_Oil_%26_Seeds_-_Kolkata_2003-10-31_00537.JPG
 17,Salt,https://en.wikipedia.org/wiki/Salt,namak,https://en.wikipedia.org/wiki/Salt#/media/File:Comparison_of_Table_Salt_with_Kitchen_Salt.png
@@ -40,7 +40,7 @@ id,name,Wikipedia links,Hindi name,Image link
 55,Coriander-Cumin Seeds Powder,,Dhania-Jeera,
 56,Green Chilli Pickle,,,
 58,Garlic,https://en.wikipedia.org/wiki/Garlic,Lehsun,https://en.wikipedia.org/wiki/Garlic#/media/File:Allium_sativum_Woodwill_1793.jpg
-59,Paneer Cubes,https://en.wikipedia.org/wiki/Paneer,,https://en.wikipedia.org/wiki/Paneer#/media/File:Panir_Paneer_Indian_cheese_fresh.jpg
+59,Paneer,https://en.wikipedia.org/wiki/Paneer,,https://en.wikipedia.org/wiki/Paneer#/media/File:Panir_Paneer_Indian_cheese_fresh.jpg
 61,Samosa Pattis,,,
 63,Khakhras,https://en.wikipedia.org/wiki/Khakhra,,https://en.wikipedia.org/wiki/Khakhra#/media/File:Khakhra_br%C3%B6d.png
 64,Ginger-Garlic Paste,,Adrak-Lehsun,
@@ -152,11 +152,11 @@ id,name,Wikipedia links,Hindi name,Image link
 226,Turntable,,,
 229,White Stock,https://en.wikipedia.org/wiki/White stock,,https://en.wikipedia.org/wiki/Stock_(food)#/media/File:Making_stock_for_pho_bo.jpg
 232,Black Sesame Seeds,https://en.wikipedia.org/wiki/Black sesame,Kala Til,https://en.wikipedia.org/wiki/Sesame
-233,Grated Jaggery,https://en.wikipedia.org/wiki/Jaggery,Gur,https://en.wikipedia.org/wiki/Jaggery#/media/File:Sa-indian-gud.jpg
+233,Jaggery,https://en.wikipedia.org/wiki/Jaggery,Gur,https://en.wikipedia.org/wiki/Jaggery#/media/File:Sa-indian-gud.jpg
 238,Sweet Corn Kernels,https://en.wikipedia.org/wiki/Sweet corn,Makai Ke Dane,https://en.wikipedia.org/wiki/Sweet_corn#/media/File:Sweet_Corns.jpg
 239,Bean Sprouts,https://en.wikipedia.org/wiki/Sprouting,,https://en.wikipedia.org/wiki/Sprouting#/media/File:Organic_mixed_beans_shoots.jpg
 240,Spring Onions Whites,https://en.wikipedia.org/wiki/Scallion,,https://en.wikipedia.org/wiki/Scallion#/media/File:CSA-Red-Spring-Onions.jpg
-241,Mushroom Slices,https://en.wikipedia.org/wiki/Mushroom,,https://en.wikipedia.org/wiki/Mushroom#/media/File:ChampignonMushroom.jpg
+241,Mushroom,https://en.wikipedia.org/wiki/Mushroom,,https://en.wikipedia.org/wiki/Mushroom#/media/File:ChampignonMushroom.jpg
 243,Pak Choi Cubes,https://en.wikipedia.org/wiki/Bok_choy,,https://en.wikipedia.org/wiki/Bok_choy#/media/File:Bok_Choy.JPG
 245,Vegetable Stock,https://en.wikipedia.org/wiki/Stock_(food),,https://en.wikipedia.org/wiki/Stock_(food)#/media/File:Making_stock_for_pho_bo.jpg
 246,Cornflour,https://en.wikipedia.org/wiki/Cornmeal,,https://en.wikipedia.org/wiki/Cornmeal#/media/File:Polenta_uncooked.jpg
@@ -195,7 +195,7 @@ id,name,Wikipedia links,Hindi name,Image link
 340,Tofu,https://en.wikipedia.org/wiki/Tofu,,https://en.wikipedia.org/wiki/Tofu#/media/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG
 342,Soya Oil,https://en.wikipedia.org/wiki/Soybean_oil,,https://en.wikipedia.org/wiki/Soybean_oil#/media/File:Soybean_Oil_(10059657806).jpg
 349,Tomato Puree,https://en.wikipedia.org/wiki/Tomato puree,,https://en.wikipedia.org/wiki/Tomato_pur%C3%A9e#/media/File:Tomato_passata.jpg
-352,Chopped Spinach,https://en.wikipedia.org/wiki/Spinach,Palak,https://en.wikipedia.org/wiki/Spinach#/media/File:Spinacia_oleracea_Spinazie_bloeiend.jpg
+352,Spinach,https://en.wikipedia.org/wiki/Spinach,Palak,https://en.wikipedia.org/wiki/Spinach#/media/File:Spinacia_oleracea_Spinazie_bloeiend.jpg
 361,Chilli Sauce,https://en.wikipedia.org/wiki/Chili_sauce_and_paste,,https://en.wikipedia.org/wiki/Chili_sauce_and_paste#/media/File:Accras_et_sauce_chili.jpg
 362,Burger Buns,https://en.wikipedia.org/wiki/Buns,,https://en.wikipedia.org/wiki/Bun#/media/File:Saffron_bun_20051213_001.jpg
 367,Coriander Seeds,https://en.wikipedia.org/wiki/Coriander,,https://en.wikipedia.org/wiki/Coriander#/media/File:Coriander_Seeds.jpg
@@ -203,7 +203,7 @@ id,name,Wikipedia links,Hindi name,Image link
 372,Soy Sauce,https://en.wikipedia.org/wiki/Soy Sauce,,https://en.wikipedia.org/wiki/Soy_sauce#/media/File:Soy_sauce_2.jpg
 378,Parboiled Hakka Noodles,,,
 386,Soda Bi-Carb,https://en.wikipedia.org/wiki/Sodium_bicarbonate,,https://en.wikipedia.org/wiki/Sodium_bicarbonate#/media/File:Sodium_bicarbonate.jpg
-390,Semolina (Rava),https://en.wikipedia.org/wiki/Semolina,Rava,https://en.wikipedia.org/wiki/Semolina#/media/File:Rava-close2.jpg
+390,Semolina ,https://en.wikipedia.org/wiki/Semolina,Rava,https://en.wikipedia.org/wiki/Semolina#/media/File:Rava-close2.jpg
 391,Citric Acid,https://en.wikipedia.org/wiki/Citric Acid,Nimbu Ka Phool,https://en.wikipedia.org/wiki/Citric_acid#/media/File:Citrus_fruits.jpg
 394,Khaman Dhoklas,https://en.wikipedia.org/wiki/Dhokla,,https://en.wikipedia.org/wiki/Dhokla#/media/File:Marro_Dhokla.jpg
 396,Indian Gooseberries,https://en.wikipedia.org/wiki/Phyllanthus_emblica,,https://en.wikipedia.org/wiki/Phyllanthus_emblica#/media/File:Phyllanthus_emblica_BNC.jpg
