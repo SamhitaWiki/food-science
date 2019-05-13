@@ -1,0 +1,1472 @@
+id,name,hind_name,wikipedia_links
+1,Asparagus ,,https://en.wikipedia.org/wiki/Asparagus 
+2,Lemongrass ,,https://en.wikipedia.org/wiki/Lemongrass 
+3,Roses ,,https://en.wikipedia.org/wiki/Roses 
+4,Lavash ,,https://en.wikipedia.org/wiki/Lavash 
+5,Chick Peas ,Kabuli Chana,https://en.wikipedia.org/wiki/Chick peas 
+6,Mango ,,https://en.wikipedia.org/wiki/Mango 
+7,Turmeric ,Haldi,https://en.wikipedia.org/wiki/Turmeric 
+8,Fenugreek ,Methi,https://en.wikipedia.org/wiki/Fenugreek 
+9,Fennel ,Saunf,https://en.wikipedia.org/wiki/Fennel 
+10,Asafoetida ,Hing,https://en.wikipedia.org/wiki/Asafoetida 
+11,Nigella ,Kalonji,https://en.wikipedia.org/wiki/Nigella 
+12,Kashmiri Chillies ,, 
+13,Chilli ,,https://en.wikipedia.org/wiki/Chilli 
+14,Mustard Oil ,Rai / Sarson,https://en.wikipedia.org/wiki/Mustard oil 
+15,Salt ,,https://en.wikipedia.org/wiki/Salt 
+17,Mustard ,Rai Na Kuria,https://en.wikipedia.org/wiki/Mustard 
+18,Sugar ,,https://en.wikipedia.org/wiki/Sugar 
+19,Mint ,Phudina,https://en.wikipedia.org/wiki/Mint 
+20,Ice ,,https://en.wikipedia.org/wiki/Ice 
+21,Oil ,,https://en.wikipedia.org/wiki/Oil 
+22,Bengal Gram Flour ,Besan, 
+23,Rice Flour ,Chawal Ka Atta,https://en.wikipedia.org/wiki/Rice flour 
+24,Carom ,Ajwain,https://en.wikipedia.org/wiki/Carom 
+25,Sambhaar ,, 
+26,Almonds ,,https://en.wikipedia.org/wiki/Almonds 
+27,Poppy ,Khus-Khus,https://en.wikipedia.org/wiki/Poppy 
+28,Coriander ,Dhania,https://en.wikipedia.org/wiki/Coriander 
+29,Curds ,Dahi,https://en.wikipedia.org/wiki/Curds 
+30,Ice-Cubes ,,https://en.wikipedia.org/wiki/Ice-cubes 
+31,Cumin ,Jeera,https://en.wikipedia.org/wiki/Cumin 
+32,Onions ,,https://en.wikipedia.org/wiki/Onions 
+33,Chillies ,,https://en.wikipedia.org/wiki/Chillies 
+34,Ginger ,Adrak,https://en.wikipedia.org/wiki/Ginger 
+35,Potatoes ,,https://en.wikipedia.org/wiki/Potatoes 
+36,Peas ,,https://en.wikipedia.org/wiki/Peas 
+37,Chaat Masala ,,https://en.wikipedia.org/wiki/Chaat masala 
+38,Garam Masala ,,https://en.wikipedia.org/wiki/Garam masala 
+39,Onion ,,https://en.wikipedia.org/wiki/Onion 
+40,Rotis ,,https://en.wikipedia.org/wiki/Rotis 
+41,Ladies Finger ,Bhindi, 
+42,Tomatoes ,,https://en.wikipedia.org/wiki/Tomatoes 
+43,Coriander-Cumin ,Dhania-Jeera, 
+44,Chilli Pickle ,, 
+45,Garlic ,Lehsun,https://en.wikipedia.org/wiki/Garlic 
+46,Cottage Cheese ,Paneer,https://en.wikipedia.org/wiki/Cottage cheese 
+47,Samosa ,,https://en.wikipedia.org/wiki/Samosa 
+48,Khakhras ,, 
+49,Ginger-Garlic ,Adrak-Lehsun, 
+50,Brinjals ,Baingan / Eggplant,https://en.wikipedia.org/wiki/Brinjals 
+51,Cream ,,https://en.wikipedia.org/wiki/Cream 
+52,Aam Ka Achaar ,, 
+53,Rice ,Basmati,https://en.wikipedia.org/wiki/Rice 
+54,Ghee ,,https://en.wikipedia.org/wiki/Ghee 
+55,Cardamom ,Badi Elaichi,https://en.wikipedia.org/wiki/Cardamom 
+56,Flour ,Maida,https://en.wikipedia.org/wiki/Flour 
+57,Cinnamon ,Dalchini,https://en.wikipedia.org/wiki/Cinnamon 
+58,Cloves ,Laung / Lavang,https://en.wikipedia.org/wiki/Cloves 
+59,Caraway ,Shahjeera,https://en.wikipedia.org/wiki/Caraway 
+60,Wheat ,Dalia,https://en.wikipedia.org/wiki/Wheat 
+61,Gram ,Moong Dal,https://en.wikipedia.org/wiki/Gram 
+62,Lentil ,Masoor Dal,https://en.wikipedia.org/wiki/Lentil 
+63,Lentils ,Urad Dal,https://en.wikipedia.org/wiki/Lentils 
+64,Ginger-Green Chilli ,, 
+65,Curry ,Kadi Patta,https://en.wikipedia.org/wiki/Curry 
+66,Toovar Dal ,Arhar,https://en.wikipedia.org/wiki/Toovar dal 
+67,Bengal Gram ,Chana Dal,https://en.wikipedia.org/wiki/Bengal gram 
+68,Peppercorns ,Kalimirch,https://en.wikipedia.org/wiki/Peppercorns 
+69,Coconut ,,https://en.wikipedia.org/wiki/Coconut 
+70,Coconut Oil ,,https://en.wikipedia.org/wiki/Coconut oil 
+71,Coconut Chutney ,,https://en.wikipedia.org/wiki/Coconut chutney 
+72,Carrot ,,https://en.wikipedia.org/wiki/Carrot 
+73,Cabbage ,,https://en.wikipedia.org/wiki/Cabbage 
+74,Sugarcane ,,https://en.wikipedia.org/wiki/Sugarcane 
+75,Lemon ,,https://en.wikipedia.org/wiki/Lemon 
+76,Vanilla Ice-Cream ,, 
+77,Coffee ,,https://en.wikipedia.org/wiki/Coffee 
+78,Brandy ,,https://en.wikipedia.org/wiki/Brandy 
+79,Melon ,Charmagaz,https://en.wikipedia.org/wiki/Melon 
+80,Cashewnut ,Kaju,https://en.wikipedia.org/wiki/Cashewnut 
+81,Milk ,,https://en.wikipedia.org/wiki/Milk 
+82,Butter ,,https://en.wikipedia.org/wiki/Butter 
+83,Pepper ,,https://en.wikipedia.org/wiki/Pepper 
+84,Water ,,https://en.wikipedia.org/wiki/Water 
+85,Wheat Flour ,Gehun Ka Atta,https://en.wikipedia.org/wiki/Wheat flour 
+86,Curd ,,https://en.wikipedia.org/wiki/Curd 
+87,Walnuts ,Akhrot,https://en.wikipedia.org/wiki/Walnuts 
+88,Chocolate ,,https://en.wikipedia.org/wiki/Chocolate 
+89,Pistachio ,,https://en.wikipedia.org/wiki/Pistachio 
+90,Cowpea ,Chawli,https://en.wikipedia.org/wiki/Cowpea 
+91,Alfalfa ,,https://en.wikipedia.org/wiki/Alfalfa 
+92,Wheat Bread ,,https://en.wikipedia.org/wiki/Wheat bread 
+93,Capsicum ,,https://en.wikipedia.org/wiki/Capsicum 
+94,Olive Oil ,,https://en.wikipedia.org/wiki/Olive oil 
+95,Tomato ,,https://en.wikipedia.org/wiki/Tomato 
+96,Olives ,,https://en.wikipedia.org/wiki/Olives 
+97,Oregano ,,https://en.wikipedia.org/wiki/Oregano 
+98,Cheese ,,https://en.wikipedia.org/wiki/Cheese 
+99,Vinegar ,,https://en.wikipedia.org/wiki/Vinegar 
+100,Mayonnaise ,,https://en.wikipedia.org/wiki/Mayonnaise 
+101,Basil ,,https://en.wikipedia.org/wiki/Basil 
+102,Lettuce ,,https://en.wikipedia.org/wiki/Lettuce 
+103,Cress ,,https://en.wikipedia.org/wiki/Cress 
+104,Orange ,,https://en.wikipedia.org/wiki/Orange 
+105,Pineapple ,,https://en.wikipedia.org/wiki/Pineapple 
+106,Lemonade ,,https://en.wikipedia.org/wiki/Lemonade 
+107,Drumsticks ,,https://en.wikipedia.org/wiki/Drumsticks 
+108,Baby Corn ,,https://en.wikipedia.org/wiki/Baby corn 
+109,Yam ,Suran,https://en.wikipedia.org/wiki/Yam 
+110,Almond Bread ,,https://en.wikipedia.org/wiki/Almond bread 
+111,Avocado ,,https://en.wikipedia.org/wiki/Avocado 
+112,Apples ,,https://en.wikipedia.org/wiki/Apples 
+113,Orange Marmalade ,,https://en.wikipedia.org/wiki/Orange marmalade 
+114,Biscuit ,,https://en.wikipedia.org/wiki/Biscuit 
+115,Bananas ,,https://en.wikipedia.org/wiki/Bananas 
+116,Vanilla ,,https://en.wikipedia.org/wiki/Vanilla 
+117,Honey ,,https://en.wikipedia.org/wiki/Honey 
+118,Vanilla Extract ,,https://en.wikipedia.org/wiki/Vanilla extract 
+119,Pumpkin ,,https://en.wikipedia.org/wiki/Pumpkin 
+120,Sunflower ,Surajmukhi Ke Beej,https://en.wikipedia.org/wiki/Sunflower 
+121,Almond ,Badam,https://en.wikipedia.org/wiki/Almond 
+122,Blueberries ,,https://en.wikipedia.org/wiki/Blueberries 
+123,Bayleaf ,Tejpatta,https://en.wikipedia.org/wiki/Bayleaf 
+124,Beans ,,https://en.wikipedia.org/wiki/Beans 
+125,Biryani Masala ,, 
+126,Cocoa ,,https://en.wikipedia.org/wiki/Cocoa 
+127,Baking ,,https://en.wikipedia.org/wiki/Baking 
+128,Castor Sugar ,,https://en.wikipedia.org/wiki/Castor sugar 
+129,Eggs ,,https://en.wikipedia.org/wiki/Eggs 
+130,Almond Milk ,,https://en.wikipedia.org/wiki/Almond milk 
+131,Flaxseeds ,,https://en.wikipedia.org/wiki/Flaxseeds 
+132,Apple Cider Vinegar ,,https://en.wikipedia.org/wiki/Apple cider vinegar 
+133,Rolled Oats ,,https://en.wikipedia.org/wiki/Rolled oats 
+134,Peanut Butter ,,https://en.wikipedia.org/wiki/Peanut butter 
+135,Almond Butter Cookies ,, 
+136,Flax ,Alsi,https://en.wikipedia.org/wiki/Flax 
+137,Baking Soda ,,https://en.wikipedia.org/wiki/Baking soda 
+138,Apple Cider ,,https://en.wikipedia.org/wiki/Apple cider 
+139,Organic Honey ,, 
+140,Strawberries ,,https://en.wikipedia.org/wiki/Strawberries 
+141,Lychees ,,https://en.wikipedia.org/wiki/Lychees 
+142,Agar-Agar ,,https://en.wikipedia.org/wiki/Agar-agar 
+143,Nutmeg ,Jaiphal,https://en.wikipedia.org/wiki/Nutmeg 
+144,Saffron ,Kesar,https://en.wikipedia.org/wiki/Saffron 
+145,Rolling Board ,, 
+146,Rolling Pin ,,https://en.wikipedia.org/wiki/Rolling pin 
+147,Knife ,,https://en.wikipedia.org/wiki/Knife 
+148,Vanilla Cake ,, 
+149,Butter Cream ,,https://en.wikipedia.org/wiki/Butter cream 
+150,Pastry Comb ,, 
+151,Praline ,,https://en.wikipedia.org/wiki/Praline 
+152,Piping Bag ,,https://en.wikipedia.org/wiki/Piping bag 
+153,Turntable ,,https://en.wikipedia.org/wiki/Turntable 
+154,nan ,,https://en.wikipedia.org/wiki/Nan 
+155,Sesame ,Kala Til,https://en.wikipedia.org/wiki/Sesame 
+156,Jaggery ,Gur,https://en.wikipedia.org/wiki/Jaggery 
+157,Kashmiri Chilli ,, 
+158,Corn ,Makai Ke Dane,https://en.wikipedia.org/wiki/Corn 
+159,Bean ,,https://en.wikipedia.org/wiki/Bean 
+160,Mushroom ,,https://en.wikipedia.org/wiki/Mushroom 
+161,Pak Choi ,,https://en.wikipedia.org/wiki/Pak choi 
+162,Vegetable ,,https://en.wikipedia.org/wiki/Vegetable 
+163,Cornflour ,,https://en.wikipedia.org/wiki/Cornflour 
+164,Wheat Noodles ,, 
+165,Potato ,,https://en.wikipedia.org/wiki/Potato 
+166,Rajgira Flour ,, 
+167,Chutney ,,https://en.wikipedia.org/wiki/Chutney 
+168,Tomato Ketchup ,,https://en.wikipedia.org/wiki/Tomato ketchup 
+169,Bay Leaf ,Tejpatta,https://en.wikipedia.org/wiki/Bay leaf 
+170,Clove ,Laung / Lavang,https://en.wikipedia.org/wiki/Clove 
+171,Mint Chutney ,Phudina,https://en.wikipedia.org/wiki/Mint chutney 
+172,Imli Chutney ,, 
+173,Radish ,Mooli,https://en.wikipedia.org/wiki/Radish 
+174,Baby Potatoes ,, 
+175,Garlic Chutney ,,https://en.wikipedia.org/wiki/Garlic chutney 
+176,Chana Dal ,,https://en.wikipedia.org/wiki/Chana dal 
+177,Sev ,,https://en.wikipedia.org/wiki/Sev 
+178,Taco Shells ,, 
+179,Bread ,,https://en.wikipedia.org/wiki/Bread 
+180,Chilli-Garlic Sauce ,, 
+181,Chillies Vinegar ,, 
+182,Cauliflower ,,https://en.wikipedia.org/wiki/Cauliflower 
+183,Bayleaves ,, 
+184,Papad ,,https://en.wikipedia.org/wiki/Papad 
+185,Pickle ,,https://en.wikipedia.org/wiki/Pickle 
+186,Paratha ,,https://en.wikipedia.org/wiki/Paratha 
+187,Aniseeds ,Vilayati Saunf, 
+188,Yeast ,,https://en.wikipedia.org/wiki/Yeast 
+189,Sour Sauce ,, 
+190,Pomegranate ,Anardana,https://en.wikipedia.org/wiki/Pomegranate 
+191,Based ,,https://en.wikipedia.org/wiki/Based 
+192,Tofu ,Bean Curd/ Soya Paneer,https://en.wikipedia.org/wiki/Tofu 
+193,Spinach ,Palak,https://en.wikipedia.org/wiki/Spinach 
+194,Chilli Sauce ,,https://en.wikipedia.org/wiki/Chilli sauce 
+195,Burger Buns ,, 
+196,Panch Phoron ,,https://en.wikipedia.org/wiki/Panch phoron 
+197,Tamarind ,Imli,https://en.wikipedia.org/wiki/Tamarind 
+198,Malabar Spinach ,,https://en.wikipedia.org/wiki/Malabar spinach 
+199,Soy Sauce ,,https://en.wikipedia.org/wiki/Soy sauce 
+200,Noodles ,,https://en.wikipedia.org/wiki/Noodles 
+201,Hakka Noodles ,, 
+202,Soda Bi-Carb ,, 
+203,Garlic Cloves ,Lehsun, 
+204,Lemons ,,https://en.wikipedia.org/wiki/Lemons 
+205,Semolina ,Rava,https://en.wikipedia.org/wiki/Semolina 
+206,Citric Acid ,Nimbu Ka Phool,https://en.wikipedia.org/wiki/Citric acid 
+207,Fruit Salt ,,https://en.wikipedia.org/wiki/Fruit salt 
+208,Khaman Dhoklas ,, 
+209,Gooseberries ,Amlas,https://en.wikipedia.org/wiki/Gooseberries 
+210,Star Anise ,Chakri Phool,https://en.wikipedia.org/wiki/Star anise 
+211,Peanuts ,,https://en.wikipedia.org/wiki/Peanuts 
+212,Mawa ,Khoya,https://en.wikipedia.org/wiki/Mawa 
+213,Pistachios ,,https://en.wikipedia.org/wiki/Pistachios 
+214,Bottle Gourd ,Doodhi / Lauki,https://en.wikipedia.org/wiki/Bottle gourd 
+215,Parathas ,, 
+216,Grapes ,,https://en.wikipedia.org/wiki/Grapes 
+217,Ash Gourd ,,https://en.wikipedia.org/wiki/Ash gourd 
+218,Slaked Lime ,,https://en.wikipedia.org/wiki/Slaked lime 
+219,Rasgullas ,, 
+220,Figs ,Anjeer,https://en.wikipedia.org/wiki/Figs 
+221,Mava ,Khoya,https://en.wikipedia.org/wiki/Mava 
+222,Nuts ,,https://en.wikipedia.org/wiki/Nuts 
+223,Biscuits ,,https://en.wikipedia.org/wiki/Biscuits 
+224,Papaya ,,https://en.wikipedia.org/wiki/Papaya 
+225,Banana ,,https://en.wikipedia.org/wiki/Banana 
+226,Watermelon ,Tarbuj,https://en.wikipedia.org/wiki/Watermelon 
+227,Dates ,Khajur,https://en.wikipedia.org/wiki/Dates 
+228,Beetroot ,,https://en.wikipedia.org/wiki/Beetroot 
+229,Feta Cheese ,,https://en.wikipedia.org/wiki/Feta cheese 
+230,Thyme ,,https://en.wikipedia.org/wiki/Thyme 
+231,Parsley ,,https://en.wikipedia.org/wiki/Parsley 
+232,Coconut Milk ,,https://en.wikipedia.org/wiki/Coconut milk 
+233,Vegetable Korma ,, 
+234,Flattened Rice ,Poha,https://en.wikipedia.org/wiki/Flattened rice 
+235,Yoghurt ,,https://en.wikipedia.org/wiki/Yoghurt 
+236,Apple ,,https://en.wikipedia.org/wiki/Apple 
+237,Celery ,,https://en.wikipedia.org/wiki/Celery 
+238,Steel Oats ,, 
+239,Apple Sauce ,,https://en.wikipedia.org/wiki/Apple sauce 
+240,Buckwheat Flour ,Kuttu Or Kutti No Daro,https://en.wikipedia.org/wiki/Buckwheat flour 
+241,Muskmelon ,,https://en.wikipedia.org/wiki/Muskmelon 
+242,Raisins ,Kismis,https://en.wikipedia.org/wiki/Raisins 
+243,Orange Squash ,,https://en.wikipedia.org/wiki/Orange squash 
+244,Lemon Squash ,,https://en.wikipedia.org/wiki/Lemon squash 
+245,Soda ,,https://en.wikipedia.org/wiki/Soda 
+246,Brown Sugar ,,https://en.wikipedia.org/wiki/Brown sugar 
+247,Sandesh ,,https://en.wikipedia.org/wiki/Sandesh 
+248,Chickoo ,,https://en.wikipedia.org/wiki/Chickoo 
+249,Crêpes ,, 
+250,Wheat Bran ,,https://en.wikipedia.org/wiki/Wheat bran 
+251,Cucumber ,,https://en.wikipedia.org/wiki/Cucumber 
+252,Fruits ,,https://en.wikipedia.org/wiki/Fruits 
+253,Strawberry ,,https://en.wikipedia.org/wiki/Strawberry 
+254,Dragon Fruit ,,https://en.wikipedia.org/wiki/Dragon fruit 
+255,Maple ,,https://en.wikipedia.org/wiki/Maple 
+256,Rose Water ,,https://en.wikipedia.org/wiki/Rose water 
+257,Rose Petals ,, 
+258,Shortcrust Pastry ,,https://en.wikipedia.org/wiki/Shortcrust pastry 
+259,Vanilla Cream ,, 
+260,Currants ,,https://en.wikipedia.org/wiki/Currants 
+261,Tea Bags ,,https://en.wikipedia.org/wiki/Tea bags 
+262,Apricots ,Kummani / Jardalu,https://en.wikipedia.org/wiki/Apricots 
+263,Custard ,,https://en.wikipedia.org/wiki/Custard 
+264,Peaches ,,https://en.wikipedia.org/wiki/Peaches 
+265,Apples Cored ,, 
+266,Apricot Purée ,, 
+267,Orange Drink ,,https://en.wikipedia.org/wiki/Orange drink 
+268,Cherry Tomatoes ,,https://en.wikipedia.org/wiki/Cherry tomatoes 
+269,Baharat ,,https://en.wikipedia.org/wiki/Baharat 
+270,Colocassia ,Arbi, 
+271,Palak Rotis ,, 
+272,Sauce ,,https://en.wikipedia.org/wiki/Sauce 
+273,Baguette ,,https://en.wikipedia.org/wiki/Baguette 
+274,Pita ,,https://en.wikipedia.org/wiki/Pita 
+275,Shallots ,Madras Onions,https://en.wikipedia.org/wiki/Shallots 
+276,Dosa Batter ,, 
+277,Pav Bhaji Masala ,, 
+278,Schezuan Sauce ,, 
+279,Sambhar ,,https://en.wikipedia.org/wiki/Sambhar 
+280,Malaga Podi ,, 
+281,Vegetables ,,https://en.wikipedia.org/wiki/Vegetables 
+282,Pizza Sauce ,,https://en.wikipedia.org/wiki/Pizza sauce 
+283,Carrots ,,https://en.wikipedia.org/wiki/Carrots 
+284,Brinjal ,Baingan / Eggplant,https://en.wikipedia.org/wiki/Brinjal 
+285,Cherry Tomato ,,https://en.wikipedia.org/wiki/Cherry tomato 
+286,Sushi Rice ,,https://en.wikipedia.org/wiki/Sushi rice 
+287,Rice Vinegar ,,https://en.wikipedia.org/wiki/Rice vinegar 
+288,Seaweed Sushi ,Nori, 
+289,Bamboo Mat ,, 
+290,Toga Rashi ,, 
+291,Cream Cheese ,,https://en.wikipedia.org/wiki/Cream cheese 
+292,Wasabi Sauce ,, 
+293,Pickled Sushi Ginger ,, 
+294,Avocados ,,https://en.wikipedia.org/wiki/Avocados 
+295,Riped Avocado ,, 
+296,Chocolate Curls ,, 
+297,Nacho ,,https://en.wikipedia.org/wiki/Nacho 
+298,Grapefruit ,,https://en.wikipedia.org/wiki/Grapefruit 
+299,Kale ,,https://en.wikipedia.org/wiki/Kale 
+300,Babycorn ,, 
+301,Pears ,,https://en.wikipedia.org/wiki/Pears 
+302,Broccoli ,,https://en.wikipedia.org/wiki/Broccoli 
+303,Herbs ,,https://en.wikipedia.org/wiki/Herbs 
+304,Shell Pasta ,,https://en.wikipedia.org/wiki/Shell pasta 
+305,Tahini ,,https://en.wikipedia.org/wiki/Tahini 
+306,Breadsticks ,,https://en.wikipedia.org/wiki/Breadsticks 
+307,Cake ,,https://en.wikipedia.org/wiki/Cake 
+308,Rum ,,https://en.wikipedia.org/wiki/Rum 
+309,Cherries ,,https://en.wikipedia.org/wiki/Cherries 
+310,Mushrooms ,Khumbh,https://en.wikipedia.org/wiki/Mushrooms 
+311,soya chunks ,Nuggets,https://en.wikipedia.org/wiki/Soya chunks 
+312,Pizza Base ,, 
+313,Bhavanagari Chillies ,, 
+314,Baby Corns ,, 
+315,Paneer ,,https://en.wikipedia.org/wiki/Paneer 
+316,Baby Spinach ,,https://en.wikipedia.org/wiki/Baby spinach 
+317,Pecans ,,https://en.wikipedia.org/wiki/Pecans 
+318,Grain Mustard ,, 
+319,Banana Leaf ,Kele Ka Patta,https://en.wikipedia.org/wiki/Banana leaf 
+320,Coal ,,https://en.wikipedia.org/wiki/Coal 
+321,Cow Milk ,,https://en.wikipedia.org/wiki/Cow milk 
+322,Badam Barfi ,, 
+323,Pista Barfi ,, 
+324,Silver Leaf ,Vark,https://en.wikipedia.org/wiki/Silver leaf 
+325,Kewda ,,https://en.wikipedia.org/wiki/Kewda 
+326,Vermicelli ,Sevaiyan,https://en.wikipedia.org/wiki/Vermicelli 
+327,Millet ,Bajra Flour,https://en.wikipedia.org/wiki/Millet 
+328,Corriander ,Dhania, 
+329,Ragi Flour ,Nachni,https://en.wikipedia.org/wiki/Ragi flour 
+330,Vanilla Ice Cream ,,https://en.wikipedia.org/wiki/Vanilla ice cream 
+331,Dog Rolls ,, 
+332,Boondi ,,https://en.wikipedia.org/wiki/Boondi 
+333,Rabdi ,,https://en.wikipedia.org/wiki/Rabdi 
+334,Gulab Jamun ,,https://en.wikipedia.org/wiki/Gulab jamun 
+335,Brioche ,,https://en.wikipedia.org/wiki/Brioche 
+336,Corn Flour ,,https://en.wikipedia.org/wiki/Corn flour 
+337,Kalakand ,,https://en.wikipedia.org/wiki/Kalakand 
+338,Butterscotch ,,https://en.wikipedia.org/wiki/Butterscotch 
+339,Cannelloni ,,https://en.wikipedia.org/wiki/Cannelloni 
+340,Pomodoro Sauce ,, 
+341,Marie Biscuit ,,https://en.wikipedia.org/wiki/Marie biscuit 
+342,Egg ,,https://en.wikipedia.org/wiki/Egg 
+343,Parmesan Cheese ,,https://en.wikipedia.org/wiki/Parmesan cheese 
+344,Zucchini ,,https://en.wikipedia.org/wiki/Zucchini 
+345,Chole Masala ,,https://en.wikipedia.org/wiki/Chole masala 
+346,Garlic Bread ,,https://en.wikipedia.org/wiki/Garlic bread 
+347,Brown Bread ,,https://en.wikipedia.org/wiki/Brown bread 
+348,Tabasco Sauce ,,https://en.wikipedia.org/wiki/Tabasco sauce 
+349,Samosa Patties ,, 
+350,Fettuccine ,,https://en.wikipedia.org/wiki/Fettuccine 
+351,Chives ,,https://en.wikipedia.org/wiki/Chives 
+352,Rosemary ,,https://en.wikipedia.org/wiki/Rosemary 
+353,Balsamic Vinegar ,,https://en.wikipedia.org/wiki/Balsamic vinegar 
+354,Tortillas ,,https://en.wikipedia.org/wiki/Tortillas 
+355,Kidney Beans ,Rajma,https://en.wikipedia.org/wiki/Kidney beans 
+356,Panchmel Dal ,, 
+357,Churma ,,https://en.wikipedia.org/wiki/Churma 
+358,Muesli ,,https://en.wikipedia.org/wiki/Muesli 
+359,Macaroni ,,https://en.wikipedia.org/wiki/Macaroni 
+360,Mushroom Soup ,,https://en.wikipedia.org/wiki/Mushroom soup 
+361,Wheat Rotis ,, 
+362,Spaghetti ,,https://en.wikipedia.org/wiki/Spaghetti 
+363,Oats Flour ,, 
+364,Surti Papdi ,Fresh Vaal, 
+365,Ginger Chilli ,, 
+366,Tomato Sauce ,,https://en.wikipedia.org/wiki/Tomato sauce 
+367,Fusilli ,,https://en.wikipedia.org/wiki/Fusilli 
+368,Fusilli Pasta ,, 
+369,Pinenuts ,Chilgoza,https://en.wikipedia.org/wiki/Pinenuts 
+370,Basmati Rice ,Chawal,https://en.wikipedia.org/wiki/Basmati rice 
+371,Cloves Garlic ,Lehsun, 
+372,Potato Salli ,, 
+373,Oats ,,https://en.wikipedia.org/wiki/Oats 
+374,Brown Rice ,,https://en.wikipedia.org/wiki/Brown rice 
+375,Maize Flour ,Makai Ka Atta, 
+376,Lime ,Mosambi,https://en.wikipedia.org/wiki/Lime 
+377,Chapatis ,,https://en.wikipedia.org/wiki/Chapatis 
+378,Cheese Sauce ,,https://en.wikipedia.org/wiki/Cheese sauce 
+379,Puffed Wheat ,,https://en.wikipedia.org/wiki/Puffed wheat 
+380,Strawberry Ice-Cream ,, 
+381,Nut Chikki ,, 
+382,Butterscotch Sauce ,, 
+383,Rice Wrappers ,, 
+384,Salad Cream ,,https://en.wikipedia.org/wiki/Salad cream 
+385,Worcesterchire Sauce ,,https://en.wikipedia.org/wiki/Worcesterchire sauce 
+386,Worcestershire Sauce ,,https://en.wikipedia.org/wiki/Worcestershire sauce 
+387,Barley ,Jau,https://en.wikipedia.org/wiki/Barley 
+388,Malvani Masala ,, 
+389,Ponkh ,, 
+390,Mimosa Sugar ,, 
+391,Rotla ,,https://en.wikipedia.org/wiki/Rotla 
+392,Farfalle ,,https://en.wikipedia.org/wiki/Farfalle 
+393,Sour Cream ,,https://en.wikipedia.org/wiki/Sour cream 
+394,Goda Masala ,, 
+395,Lemon Wedge ,, 
+396,Meetha Chutney ,, 
+397,Teekha Chutney ,, 
+398,Gujarati Dal ,, 
+399,Jalapenos ,,https://en.wikipedia.org/wiki/Jalapenos 
+400,Bread Buns ,, 
+401,Pasta ,,https://en.wikipedia.org/wiki/Pasta 
+402,Kideny Beans ,Kashmiri Rajma, 
+403,Capscium ,, 
+404,Dill ,Shepu/Suva Bhaji,https://en.wikipedia.org/wiki/Dill 
+405,Clove Garlic ,Lehsun, 
+406,Wheat Chapatis ,Gehun, 
+407,Ginger- Garlic ,Lehsun, 
+408,Chickpeas ,Kabuli Chana,https://en.wikipedia.org/wiki/Chickpeas 
+409,Beetroots ,,https://en.wikipedia.org/wiki/Beetroots 
+410,Ladi Pav ,, 
+411,Rocket ,Arugula,https://en.wikipedia.org/wiki/Rocket 
+412,Jackfruit ,,https://en.wikipedia.org/wiki/Jackfruit 
+413,Puffed Rice ,Kurmura,https://en.wikipedia.org/wiki/Puffed rice 
+414,Mulberry ,,https://en.wikipedia.org/wiki/Mulberry 
+415,Bhaji ,,https://en.wikipedia.org/wiki/Bhaji 
+416,Laddi Pavs ,, 
+417,Trevti Dal ,, 
+418,Sour Dip ,, 
+419,Gourd ,Tinda,https://en.wikipedia.org/wiki/Gourd 
+420,Kokum ,,https://en.wikipedia.org/wiki/Kokum 
+421,Chole ,,https://en.wikipedia.org/wiki/Chole 
+422,Water Chestnut Flour ,Shingoda, 
+423,Papdis ,, 
+424,Masala Dal ,, 
+425,Kadhi ,,https://en.wikipedia.org/wiki/Kadhi 
+426,Mag Dal Khichdi ,, 
+427,Panch Phoran ,,https://en.wikipedia.org/wiki/Panch phoran 
+428,CorianderCumin ,, 
+429,Marinade ,,https://en.wikipedia.org/wiki/Marinade 
+430,Aloo Bhujiya ,, 
+431,Baby Potato ,, 
+432,Pipe Fryums ,, 
+433,Moath Beans ,Matki Flour, 
+434,Tomato Raita ,, 
+435,Mace ,Javantri,https://en.wikipedia.org/wiki/Mace 
+436,Marie Biscuits ,,https://en.wikipedia.org/wiki/Marie biscuits 
+437,Chocolate Biscuits ,, 
+438,Nutella Hazelnut Chocolate Spread ,, 
+439,Drumstick ,,https://en.wikipedia.org/wiki/Drumstick 
+440,Coleslaw ,,https://en.wikipedia.org/wiki/Coleslaw 
+441,Fries ,,https://en.wikipedia.org/wiki/Fries 
+442,Quinoa ,,https://en.wikipedia.org/wiki/Quinoa 
+443,Jam ,,https://en.wikipedia.org/wiki/Jam 
+444,Chocolate Cake ,,https://en.wikipedia.org/wiki/Chocolate cake 
+445,Cherry Liquer ,, 
+446,Cake Board ,, 
+447,Bowl ,,https://en.wikipedia.org/wiki/Bowl 
+448,Maraschino Cherries ,,https://en.wikipedia.org/wiki/Maraschino cherries 
+449,Butter Paper ,, 
+450,Grape ,,https://en.wikipedia.org/wiki/Grape 
+451,Jamun ,,https://en.wikipedia.org/wiki/Jamun 
+452,Raspberry ,,https://en.wikipedia.org/wiki/Raspberry 
+453,Raspberries ,,https://en.wikipedia.org/wiki/Raspberries 
+454,Tea ,,https://en.wikipedia.org/wiki/Tea 
+455,Blackberries ,,https://en.wikipedia.org/wiki/Blackberries 
+456,Blueberry ,,https://en.wikipedia.org/wiki/Blueberry 
+457,Coconut Meat ,, 
+458,Chocolate Fans ,, 
+459,Quinoa Flour ,, 
+460,Chia ,,https://en.wikipedia.org/wiki/Chia 
+461,Chocolate Butter ,, 
+462,Bourbon Biscuits ,,https://en.wikipedia.org/wiki/Bourbon biscuits 
+463,Bournvita ,,https://en.wikipedia.org/wiki/Bournvita 
+464,Madras Curry ,,https://en.wikipedia.org/wiki/Madras curry 
+465,Golden ,,https://en.wikipedia.org/wiki/Golden 
+466,Milk Chocolate Truffle ,, 
+467,Cool Whip ,,https://en.wikipedia.org/wiki/Cool whip 
+468,Chocolate Mousse ,,https://en.wikipedia.org/wiki/Chocolate mousse 
+469,Scraper ,,https://en.wikipedia.org/wiki/Scraper 
+470,Cutter ,,https://en.wikipedia.org/wiki/Cutter 
+471,Papdi ,,https://en.wikipedia.org/wiki/Papdi 
+472,Granules ,,https://en.wikipedia.org/wiki/Granules 
+473,Cheese Spread ,,https://en.wikipedia.org/wiki/Cheese spread 
+474,Sprinkles ,,https://en.wikipedia.org/wiki/Sprinkles 
+475,Cream Corn ,,https://en.wikipedia.org/wiki/Cream corn 
+476,Bok Choy ,,https://en.wikipedia.org/wiki/Bok choy 
+477,Bean Sauce ,,https://en.wikipedia.org/wiki/Bean sauce 
+478,Tamarind Water ,Imli, 
+479,Radishes ,,https://en.wikipedia.org/wiki/Radishes 
+480,Chopping Board ,,https://en.wikipedia.org/wiki/Chopping board 
+481,Carving Knife ,,https://en.wikipedia.org/wiki/Carving knife 
+482,Satay ,,https://en.wikipedia.org/wiki/Satay 
+483,Toothpicks ,,https://en.wikipedia.org/wiki/Toothpicks 
+484,Spice ,,https://en.wikipedia.org/wiki/Spice 
+485,Egg Yolk ,,https://en.wikipedia.org/wiki/Egg yolk 
+486,Garlic Toast ,,https://en.wikipedia.org/wiki/Garlic toast 
+487,Chinese Sauce ,, 
+488,Pear ,,https://en.wikipedia.org/wiki/Pear 
+489,Water Chestnuts ,,https://en.wikipedia.org/wiki/Water chestnuts 
+490,Dill Potatoes Carrots ,, 
+491,Crepes ,,https://en.wikipedia.org/wiki/Crepes 
+492,Mexican Sauce ,, 
+493,Puréed Broccoli ,, 
+494,Chinese Spice ,, 
+495,Lemon Grass ,Hare Chai Ki Patti,https://en.wikipedia.org/wiki/Lemon grass 
+496,Vegetarian Seasoning ,, 
+497,Wheat Tortillas ,, 
+498,Dhan Saak Dal ,, 
+499,Brownie ,,https://en.wikipedia.org/wiki/Brownie 
+500,Peach ,,https://en.wikipedia.org/wiki/Peach 
+501,Brownies ,,https://en.wikipedia.org/wiki/Brownies 
+502,Pickwick Biscuits ,, 
+503,Brussels ,,https://en.wikipedia.org/wiki/Brussels 
+504,Buckwheat ,Kuttu Or Kutti No Daro,https://en.wikipedia.org/wiki/Buckwheat 
+505,Arrowroot Flour ,Paniphal, 
+506,Sour Curds ,Khatta Dahi, 
+507,Minty Chutney ,, 
+508,Buckwheat Groats ,Kuttu Or Kutti No Daro,https://en.wikipedia.org/wiki/Buckwheat groats 
+509,Peanut Kadhi ,, 
+510,Mint Onion Chutney ,, 
+511,Karela Kadhi ,, 
+512,Brown Bread Buns ,, 
+513,Cucumbers ,,https://en.wikipedia.org/wiki/Cucumbers 
+514,Rice Noodles ,,https://en.wikipedia.org/wiki/Rice noodles 
+515,Field Beans ,Vaal Dal, 
+516,Green-Chilli ,, 
+517,Brown Chick Peas ,Kala Chana, 
+518,Chinese Rice ,, 
+519,Burrata Cheese ,, 
+520,Tabasco ,,https://en.wikipedia.org/wiki/Tabasco 
+521,Nutri Tortillas ,, 
+522,Flour Tortillas ,,https://en.wikipedia.org/wiki/Flour tortillas 
+523,Mexican Rice ,,https://en.wikipedia.org/wiki/Mexican rice 
+524,Wheat Mexican Tortillas ,, 
+525,Vaal ,,https://en.wikipedia.org/wiki/Vaal 
+526,Buttermilk ,,https://en.wikipedia.org/wiki/Buttermilk 
+527,Butterscotch Nuts ,, 
+528,Khichadi ,,https://en.wikipedia.org/wiki/Khichadi 
+529,Capsicums ,,https://en.wikipedia.org/wiki/Capsicums 
+530,Jam Sauce ,, 
+531,Bread Croutons ,, 
+532,Low-Calorie Sauce ,, 
+533,Sesame Oil ,Til,https://en.wikipedia.org/wiki/Sesame oil 
+534,Idlis ,, 
+535,Dosas ,,https://en.wikipedia.org/wiki/Dosas 
+536,Caramel Sauce ,,https://en.wikipedia.org/wiki/Caramel sauce 
+537,Gems ,,https://en.wikipedia.org/wiki/Gems 
+538,Gelatine ,,https://en.wikipedia.org/wiki/Gelatine 
+539,Maize ,,https://en.wikipedia.org/wiki/Maize 
+540,Caramel Popcorn ,,https://en.wikipedia.org/wiki/Caramel popcorn 
+541,Stuffed Olives ,, 
+542,Dog Roll ,, 
+543,Kesar Shrikhand ,, 
+544,High Fibre Chutney ,, 
+545,Honey Lemon ,, 
+546,Crepés ,, 
+547,Thousand Island ,, 
+548,Cashew Nuts ,Kaju,https://en.wikipedia.org/wiki/Cashew nuts 
+549,Malvani ,,https://en.wikipedia.org/wiki/Malvani 
+550,Lotus ,,https://en.wikipedia.org/wiki/Lotus 
+551,Candied ,,https://en.wikipedia.org/wiki/Candied 
+552,Coffee Ice-Cream ,, 
+553,Potato Wafers ,, 
+554,Wheat Bhakri ,, 
+555,Wheat Chapattis ,, 
+556,Ginger- Chilli ,, 
+557,Chana Chor Garam ,, 
+558,Wheat Parathas ,, 
+559,Leftover Chapattis ,, 
+560,Corn Cobs ,,https://en.wikipedia.org/wiki/Corn cobs 
+561,Leftover Wheat Rotis ,, 
+562,Chawli ,,https://en.wikipedia.org/wiki/Chawli 
+563,Wheat Germ ,,https://en.wikipedia.org/wiki/Wheat germ 
+564,Chilli-Garlic Chutney ,, 
+565,Chilli Thecha ,, 
+566,Wheat Burger Buns ,, 
+567,Bathua ,,https://en.wikipedia.org/wiki/Bathua 
+568,Cochineal ,,https://en.wikipedia.org/wiki/Cochineal 
+569,Chilli Garlic Sauce ,, 
+570,Khari Biscuits ,, 
+571,Cracker Biscuits ,,https://en.wikipedia.org/wiki/Cracker biscuits 
+572,Vegetable Crudités ,, 
+573,Little Mustard ,, 
+574,Wine ,,https://en.wikipedia.org/wiki/Wine 
+575,Herb Bread ,, 
+576,Pav ,,https://en.wikipedia.org/wiki/Pav 
+577,Brown ,,https://en.wikipedia.org/wiki/Brown 
+578,Sandwich Masala ,, 
+579,Kitchen King Masala ,, 
+580,Cheddar Cheese ,,https://en.wikipedia.org/wiki/Cheddar cheese 
+581,Ladi Pavs ,, 
+582,Sukha Lehsun Chutney ,, 
+583,Leek ,,https://en.wikipedia.org/wiki/Leek 
+584,Cheeslings ,, 
+585,Chipotle Sauce ,, 
+586,Bourbon ,,https://en.wikipedia.org/wiki/Bourbon 
+587,Orange Sauce ,,https://en.wikipedia.org/wiki/Orange sauce 
+588,Pizza Bases ,, 
+589,Pesto ,,https://en.wikipedia.org/wiki/Pesto 
+590,Tarts ,,https://en.wikipedia.org/wiki/Tarts 
+591,Maggi Noodles ,,https://en.wikipedia.org/wiki/Maggi noodles 
+592,Maggi Noodles Masala ,, 
+593,Schezwan Sauce ,,https://en.wikipedia.org/wiki/Schezwan sauce 
+594,Wheat Pasta ,, 
+595,Penne ,,https://en.wikipedia.org/wiki/Penne 
+596,Melba Toast ,,https://en.wikipedia.org/wiki/Melba toast 
+597,Chenna ,,https://en.wikipedia.org/wiki/Chenna 
+598,Cashew Barfi ,, 
+599,Raspberry Jam ,,https://en.wikipedia.org/wiki/Raspberry jam 
+600,Nutritious Chutney ,, 
+601,Salad Oil ,,https://en.wikipedia.org/wiki/Salad oil 
+602,Beans Tomato ,, 
+603,Chilli Garlic ,, 
+604,Chilli Oil ,, 
+605,Guacamole ,,https://en.wikipedia.org/wiki/Guacamole 
+606,Schezuan Peppers ,Triphal, 
+607,Hoisin Sauce ,,https://en.wikipedia.org/wiki/Hoisin sauce 
+608,Khimchi ,, 
+609,Pandi Chillies ,, 
+610,Malagapdi ,, 
+611,Malgapodi ,, 
+612,Chocolate Ice-Cream ,, 
+613,Chocolate Cakes ,, 
+614,Chocolate Cream Biscuits ,, 
+615,Milk Chocolate Mousse ,, 
+616,Cellotape ,,https://en.wikipedia.org/wiki/Cellotape 
+617,Margarine ,,https://en.wikipedia.org/wiki/Margarine 
+618,Chocolate Butter Cream ,, 
+619,Chocolate Vermicelli ,, 
+620,Chocolate Truffle ,,https://en.wikipedia.org/wiki/Chocolate truffle 
+621,Chocolate Chip Cookies ,,https://en.wikipedia.org/wiki/Chocolate chip cookies 
+622,Silver ,,https://en.wikipedia.org/wiki/Silver 
+623,Almond Butter ,,https://en.wikipedia.org/wiki/Almond butter 
+624,Digestive ,,https://en.wikipedia.org/wiki/Digestive 
+625,Amul Chocolate ,, 
+626,Stars ,,https://en.wikipedia.org/wiki/Stars 
+627,Choux Pastry ,,https://en.wikipedia.org/wiki/Choux pastry 
+628,Oreo Cookies ,,https://en.wikipedia.org/wiki/Oreo cookies 
+629,Sprig Mint ,, 
+630,Hazelnut ,,https://en.wikipedia.org/wiki/Hazelnut 
+631,Chocolate Bytes ,, 
+632,Chocolate Ice Cream ,,https://en.wikipedia.org/wiki/Chocolate ice cream 
+633,Chocolate Sauce ,,https://en.wikipedia.org/wiki/Chocolate sauce 
+634,Kit Kat Chocolate ,, 
+635,Chocolate Wafer Rolls ,, 
+636,Food Colouring ,,https://en.wikipedia.org/wiki/Food colouring 
+637,Marshmallows ,,https://en.wikipedia.org/wiki/Marshmallows 
+638,Peppermint ,,https://en.wikipedia.org/wiki/Peppermint 
+639,Almond Praline ,, 
+640,Candied Orange ,, 
+641,Puris ,,https://en.wikipedia.org/wiki/Puris 
+642,Colourful Sprinkles ,, 
+643,Milk Chocolate ,,https://en.wikipedia.org/wiki/Milk chocolate 
+644,Glace Cherries ,,https://en.wikipedia.org/wiki/Glace cherries 
+645,Colorful Sprinklers ,, 
+646,Chocolate Coated Strawberries ,, 
+647,Waffle Cones ,, 
+648,Pastry Base ,, 
+649,Walnut ,Akhrot,https://en.wikipedia.org/wiki/Walnut 
+650,Cranberries ,,https://en.wikipedia.org/wiki/Cranberries 
+651,Cow Peas ,Chola Dal,https://en.wikipedia.org/wiki/Cow peas 
+652,Soda Water ,,https://en.wikipedia.org/wiki/Soda water 
+653,Tea Bag ,,https://en.wikipedia.org/wiki/Tea bag 
+654,Samosas ,,https://en.wikipedia.org/wiki/Samosas 
+655,Bhaturas ,, 
+656,Cumin Seed Crackers ,, 
+657,Coarse Wheat Flour ,Jada Gehun Ka Atta, 
+658,Bottle Lemonade ,, 
+659,Feta ,,https://en.wikipedia.org/wiki/Feta 
+660,Khus ,,https://en.wikipedia.org/wiki/Khus 
+661,Kewra Water ,, 
+662,Carbonated ,,https://en.wikipedia.org/wiki/Carbonated 
+663,Lemon Drink ,, 
+664,Sweetlime ,,https://en.wikipedia.org/wiki/Sweetlime 
+665,Oranges ,,https://en.wikipedia.org/wiki/Oranges 
+666,Limes ,,https://en.wikipedia.org/wiki/Limes 
+667,Tobasco Sauce ,, 
+668,Oyster Mushrooms ,,https://en.wikipedia.org/wiki/Oyster mushrooms 
+669,Thai Ginger ,Galangal,https://en.wikipedia.org/wiki/Thai ginger 
+670,Chilas ,,https://en.wikipedia.org/wiki/Chilas 
+671,Coconut Water ,,https://en.wikipedia.org/wiki/Coconut water 
+672,Coconut Flesh ,, 
+673,Coconut Biscuit ,, 
+674,Coconu ,, 
+675,Falooda ,Subza,https://en.wikipedia.org/wiki/Falooda 
+676,Kiwi ,,https://en.wikipedia.org/wiki/Kiwi 
+677,Coconut Flour ,, 
+678,Flaxseed ,,https://en.wikipedia.org/wiki/Flaxseed 
+679,Kewra ,,https://en.wikipedia.org/wiki/Kewra 
+680,Chocolate Cream ,, 
+681,Vanilla Glace ,, 
+682,Rose ,,https://en.wikipedia.org/wiki/Rose 
+683,Dessert Apple ,,https://en.wikipedia.org/wiki/Dessert apple 
+684,Coconut Cream ,,https://en.wikipedia.org/wiki/Coconut cream 
+685,Appam ,,https://en.wikipedia.org/wiki/Appam 
+686,Vanilla Ice- Cream ,, 
+687,Coca-Cola ,,https://en.wikipedia.org/wiki/Coca-cola 
+688,Misri ,,https://en.wikipedia.org/wiki/Misri 
+689,Wheat Khakhras ,Gehun, 
+690,Methi Crispies ,, 
+691,Roti ,,https://en.wikipedia.org/wiki/Roti 
+692,Rice Semolina ,Idli Rawa, 
+693,Tomato Chutney ,,https://en.wikipedia.org/wiki/Tomato chutney 
+694,Coriander Garlic Chutney ,, 
+695,Rolled Chocolate Wafer Biscuits ,, 
+696,Canapés ,, 
+697,Jalapeno ,,https://en.wikipedia.org/wiki/Jalapeno 
+698,Wheat Pizza Bases ,Gehun, 
+699,Soda Bi Carb ,, 
+700,Cream Cracker Biscuit ,, 
+701,Papadis ,, 
+702,Dip ,,https://en.wikipedia.org/wiki/Dip 
+703,Mustard Sauce ,Rai/ Sarson,https://en.wikipedia.org/wiki/Mustard sauce 
+704,Phulkas ,,https://en.wikipedia.org/wiki/Phulkas 
+705,Carrot Garlic Chutney ,, 
+706,Sambhar Masala ,, 
+707,Vegetable Idlis ,, 
+708,Phudina Chutney ,, 
+709,Corns ,Makai,https://en.wikipedia.org/wiki/Corns 
+710,Monaco Biscuits ,, 
+711,Wonton Wrapper ,, 
+712,Cranberry ,,https://en.wikipedia.org/wiki/Cranberry 
+713,Warm Water ,, 
+714,Bagels ,,https://en.wikipedia.org/wiki/Bagels 
+715,Honey Chilli Sauce ,, 
+716,Onion Ginger Dip ,, 
+717,Arborio Rice ,,https://en.wikipedia.org/wiki/Arborio rice 
+718,Wafers ,,https://en.wikipedia.org/wiki/Wafers 
+719,Pizza Base ,, 
+720,Wheat Penne ,, 
+721,Romaine Lettuce ,,https://en.wikipedia.org/wiki/Romaine lettuce 
+722,Parmesan ,,https://en.wikipedia.org/wiki/Parmesan 
+723,Crackers ,,https://en.wikipedia.org/wiki/Crackers 
+724,Egg Yolks ,,https://en.wikipedia.org/wiki/Egg yolks 
+725,Custard Sauce ,, 
+726,Uncooked ,,https://en.wikipedia.org/wiki/Uncooked 
+727,Fudge Sauce ,, 
+728,Pineapple Jam ,, 
+729,Bitter Gourd ,Karela,https://en.wikipedia.org/wiki/Bitter gourd 
+730,Lotus Stem ,, 
+731,Patra ,,https://en.wikipedia.org/wiki/Patra 
+732,Curd Dip ,, 
+733,Jeera Puri ,, 
+734,Peanut ,,https://en.wikipedia.org/wiki/Peanut 
+735,Wonton Wrappers ,, 
+736,Barbeque Sauce ,,https://en.wikipedia.org/wiki/Barbeque sauce 
+737,Cornflakes ,,https://en.wikipedia.org/wiki/Cornflakes 
+738,Sprite ,,https://en.wikipedia.org/wiki/Sprite 
+739,Chilli-Garlic ,, 
+740,Wine Vinegar ,,https://en.wikipedia.org/wiki/Wine vinegar 
+741,Vegetable Curry ,,https://en.wikipedia.org/wiki/Vegetable curry 
+742,Sprig Dill Leaf ,, 
+743,Custard Apple ,Sitaphal,https://en.wikipedia.org/wiki/Custard apple 
+744,Dabeli Masala ,, 
+745,Masala Peanuts ,, 
+746,Nylon Sev ,, 
+747,Homemade Dabeli Masala ,, 
+748,Teekha Phudina Chutney ,, 
+749,Meethi Soonth ,, 
+750,Idli ,,https://en.wikipedia.org/wiki/Idli 
+751,Moong ,,https://en.wikipedia.org/wiki/Moong 
+752,Masala ,,https://en.wikipedia.org/wiki/Masala 
+753,Onion Chutney ,,https://en.wikipedia.org/wiki/Onion chutney 
+754,Spit Gram ,Chilkewali Urad Dal, 
+755,Cashews ,,https://en.wikipedia.org/wiki/Cashews 
+756,Chillies Lengthwise ,, 
+757,Methia Keri ,, 
+758,Rotlas ,, 
+759,Salad ,,https://en.wikipedia.org/wiki/Salad 
+760,Sesame Chutney ,Til, 
+761,Achaar ,,https://en.wikipedia.org/wiki/Achaar 
+762,Dessicated Coconut ,, 
+763,Berries ,,https://en.wikipedia.org/wiki/Berries 
+764,Kalhua Liqueur ,, 
+765,Grater ,,https://en.wikipedia.org/wiki/Grater 
+766,Toothpick ,,https://en.wikipedia.org/wiki/Toothpick 
+767,Cookie Cutter ,,https://en.wikipedia.org/wiki/Cookie cutter 
+768,Pizza ,,https://en.wikipedia.org/wiki/Pizza 
+769,Browned Rice ,Chawal, 
+770,Sprig Coriander ,, 
+771,Chirongi Nuts ,Charoli, 
+772,Mushrooms Quarters ,Khumbh, 
+773,Ridge Gourd ,Turai,https://en.wikipedia.org/wiki/Ridge gourd 
+774,Idli Batter ,, 
+775,Milk Masala ,, 
+776,Garlic Mayonnaise ,, 
+777,Anjeer Barfi ,, 
+778,Pointed Gourd ,Parwal,https://en.wikipedia.org/wiki/Pointed gourd 
+779,Chilli-Ginger ,, 
+780,Milagai Podi ,,https://en.wikipedia.org/wiki/Milagai podi 
+781,Leftover Dosas ,, 
+782,Potato Bhaji ,, 
+783,Coconut Sauce ,, 
+784,Nozzle ,,https://en.wikipedia.org/wiki/Nozzle 
+785,Star Nozzle ,, 
+786,Roll Wrappers ,, 
+787,Peppers ,,https://en.wikipedia.org/wiki/Peppers 
+788,Fruit ,,https://en.wikipedia.org/wiki/Fruit 
+789,Kala Khatta ,,https://en.wikipedia.org/wiki/Kala khatta 
+790,Kacchi Kairi ,, 
+791,Gluten Free Pasta ,, 
+792,Naan ,,https://en.wikipedia.org/wiki/Naan 
+793,Demerara Sugar ,,https://en.wikipedia.org/wiki/Demerara sugar 
+794,Tutti-Frutti ,,https://en.wikipedia.org/wiki/Tutti-frutti 
+795,Gelatin ,,https://en.wikipedia.org/wiki/Gelatin 
+796,Plum Compote ,, 
+797,Wheat Pita Bread ,, 
+798,Baby Onions ,, 
+799,Chaas ,,https://en.wikipedia.org/wiki/Chaas 
+800,Lemon Or Lime ,, 
+801,Colouring ,,https://en.wikipedia.org/wiki/Colouring 
+802,Cherry ,,https://en.wikipedia.org/wiki/Cherry 
+803,Scooper ,,https://en.wikipedia.org/wiki/Scooper 
+804,Papad Khar ,, 
+805,Rotlis ,, 
+806,Tabbouleh ,,https://en.wikipedia.org/wiki/Tabbouleh 
+807,Pita Bread ,,https://en.wikipedia.org/wiki/Pita bread 
+808,Tahini Dip ,, 
+809,Falooda Sev ,, 
+810,Sanwa Millet ,Sama, 
+811,Sago ,Sabudana,https://en.wikipedia.org/wiki/Sago 
+812,Peanut Curd Chutney ,, 
+813,Faraali Chivda ,, 
+814,Farali Chivda ,, 
+815,Masala Salli ,, 
+816,Sweetened Curds ,, 
+817,Wheat Dog Rolls ,, 
+818,Vinaigrette ,,https://en.wikipedia.org/wiki/Vinaigrette 
+819,Champagne ,,https://en.wikipedia.org/wiki/Champagne 
+820,Vodka ,,https://en.wikipedia.org/wiki/Vodka 
+821,Blue Curacao ,,https://en.wikipedia.org/wiki/Blue curacao 
+822,Curacao ,,https://en.wikipedia.org/wiki/Curacao 
+823,Bread Toast Piece ,, 
+824,Fig ,,https://en.wikipedia.org/wiki/Fig 
+825,Seasonal Fruits ,, 
+826,Alphonso Mangoes ,, 
+827,Guava ,,https://en.wikipedia.org/wiki/Guava 
+828,Raspberry Crystals ,, 
+829,Prunes ,,https://en.wikipedia.org/wiki/Prunes 
+830,Vanilla Custard ,, 
+831,Can Peaches ,, 
+832,Pani Puri Masala ,, 
+833,Orange Tang ,, 
+834,Banana Roundles ,, 
+835,Chikoo ,,https://en.wikipedia.org/wiki/Chikoo 
+836,Ice-Cream ,,https://en.wikipedia.org/wiki/Ice-cream 
+837,Cream Wafer Biscuit ,, 
+838,Strawberry Jam ,,https://en.wikipedia.org/wiki/Strawberry jam 
+839,Brown Onion ,,https://en.wikipedia.org/wiki/Brown onion 
+840,Ganthia ,, 
+841,Tendli ,, 
+842,Tomato Concasse ,, 
+843,Gum ,Gaund,https://en.wikipedia.org/wiki/Gum 
+844,Cluster Beans ,Gavarfali,https://en.wikipedia.org/wiki/Cluster beans 
+845,Geela Lehsun Chutney ,, 
+846,Methia No Masala ,, 
+847,Arrowroot ,,https://en.wikipedia.org/wiki/Arrowroot 
+848,Ginger-Ale Squash ,, 
+849,Glace Cherry ,,https://en.wikipedia.org/wiki/Glace cherry 
+850,Drink ,,https://en.wikipedia.org/wiki/Drink 
+851,Kodri ,, 
+852,Ginger Ale ,,https://en.wikipedia.org/wiki/Ginger ale 
+853,Gluten-Free Pasta ,, 
+854,Stone Flower ,Dagad Phool,https://en.wikipedia.org/wiki/Stone flower 
+855,Fanta ,,https://en.wikipedia.org/wiki/Fanta 
+856,Gongura ,Ambada,https://en.wikipedia.org/wiki/Gongura 
+857,Coconut Ice-Cream ,, 
+858,Indian Jujube ,Bor,https://en.wikipedia.org/wiki/Indian jujube 
+859,Light Chillies ,, 
+860,Cumin Seed ,,https://en.wikipedia.org/wiki/Cumin seed 
+861,Mint Coriander Chutney ,, 
+862,Pea ,,https://en.wikipedia.org/wiki/Pea 
+863,Can Mushrooms ,Khumbh, 
+864,Peas Purée ,, 
+865,Spinach Pasta ,, 
+866,Bhujia ,,https://en.wikipedia.org/wiki/Bhujia 
+867,Nutella Spread ,, 
+868,Smoked Barbeque Sauce ,, 
+869,Pesto Sauce ,,https://en.wikipedia.org/wiki/Pesto sauce 
+870,Ripened Avocado ,, 
+871,Guavas ,,https://en.wikipedia.org/wiki/Guavas 
+872,Raspberry Food ,, 
+873,Rotli ,,https://en.wikipedia.org/wiki/Rotli 
+874,Puran Poli ,,https://en.wikipedia.org/wiki/Puran poli 
+875,Khichdi ,,https://en.wikipedia.org/wiki/Khichdi 
+876,Kachori ,,https://en.wikipedia.org/wiki/Kachori 
+877,Gulab Jamun Mava ,Hariyali Khoya, 
+878,Gulab Jamuns ,, 
+879,Gulkand ,,https://en.wikipedia.org/wiki/Gulkand 
+880,Gundas ,, 
+881,Soyabeans ,, 
+882,Chilli Garlic Fries ,, 
+883,Coconuts ,,https://en.wikipedia.org/wiki/Coconuts 
+884,Cheese Herb Potato ,, 
+885,Meethi Chutney ,, 
+886,Haricot Beans ,,https://en.wikipedia.org/wiki/Haricot beans 
+887,Nachni ,Ragi, 
+888,Chapati ,,https://en.wikipedia.org/wiki/Chapati 
+889,Snake Gourd ,Padwal,https://en.wikipedia.org/wiki/Snake gourd 
+890,Brown Rice Flour ,, 
+891,Firm Tofu ,, 
+892,Ginger-Ale Ice ,, 
+893,Brazilian Nuts ,,https://en.wikipedia.org/wiki/Brazilian nuts 
+894,Cocoa Nibs ,, 
+895,Puffed Cereals ,, 
+896,Cacao Nibs ,,https://en.wikipedia.org/wiki/Cacao nibs 
+897,Brown Rice Khichdi ,, 
+898,Khakhra ,,https://en.wikipedia.org/wiki/Khakhra 
+899,Homemade Peanut Butter ,, 
+900,Methi Muthias ,, 
+901,Soda-Bi-Carb ,, 
+902,Jada Poha ,, 
+903,Surti Papadi ,, 
+904,Toovar ,,https://en.wikipedia.org/wiki/Toovar 
+905,Wheat Laddi Pavs ,, 
+906,Sukhi Lehsun Chutney ,, 
+907,Herb Tortellini ,, 
+908,Maggi Tastemaker ,, 
+909,Toast ,,https://en.wikipedia.org/wiki/Toast 
+910,PeeledDeseeded Tomatoes ,, 
+911,Cheesy Bread ,,https://en.wikipedia.org/wiki/Cheesy bread 
+912,Ow-Fat Curds ,Dahi, 
+913,Organic Coconut Oil ,, 
+914,Hazelnuts ,,https://en.wikipedia.org/wiki/Hazelnuts 
+915,Hemp ,,https://en.wikipedia.org/wiki/Hemp 
+916,Kulfi ,,https://en.wikipedia.org/wiki/Kulfi 
+917,Horsegram ,Kulith,https://en.wikipedia.org/wiki/Horsegram 
+918,Button Mushrooms ,Khumbh,https://en.wikipedia.org/wiki/Button mushrooms 
+919,Carrot Thin ,, 
+920,Grand Marnier ,, 
+921,Bay ,Tejpatta,https://en.wikipedia.org/wiki/Bay 
+922,Amaranth ,Rajgira,https://en.wikipedia.org/wiki/Amaranth 
+923,Iceburg Lettuce ,,https://en.wikipedia.org/wiki/Iceburg lettuce 
+924,Peanut Sauce ,,https://en.wikipedia.org/wiki/Peanut sauce 
+925,Sago Wafers ,, 
+926,Idli Rawa ,, 
+927,Bhavnagari Chilli ,, 
+928,Whisky ,,https://en.wikipedia.org/wiki/Whisky 
+929,Vanilla Agar-Agar ,, 
+930,Pine Nuts ,,https://en.wikipedia.org/wiki/Pine nuts 
+931,Laadi Pavs ,, 
+932,Jal Jeera ,,https://en.wikipedia.org/wiki/Jal jeera 
+933,Fruit Jam ,, 
+934,Jamuns ,, 
+935,Crystals ,,https://en.wikipedia.org/wiki/Crystals 
+936,CowS Milk ,, 
+937,Coriander-Cumin Seed ,Dhania-Jeera, 
+938,Jowar Puffs ,Dhani, 
+939,Chana ,,https://en.wikipedia.org/wiki/Chana 
+940,Isabgol ,,https://en.wikipedia.org/wiki/Isabgol 
+941,Savoy Cabbage ,,https://en.wikipedia.org/wiki/Savoy cabbage 
+943,Kadhai ,,https://en.wikipedia.org/wiki/Kadhai 
+944,Ginger Garlic ,, 
+945,Tomato Purée ,, 
+946,Kaffir Lime ,,https://en.wikipedia.org/wiki/Kaffir lime 
+947,Gulab Jamun Mawa ,Hariyali Khoya, 
+948,Kolumbu ,, 
+949,Kand ,,https://en.wikipedia.org/wiki/Kand 
+950,Tutti Frutti ,,https://en.wikipedia.org/wiki/Tutti frutti 
+951,Kashmiri Tea ,,https://en.wikipedia.org/wiki/Kashmiri tea 
+952,Puranpoli ,, 
+953,Ker ,,https://en.wikipedia.org/wiki/Ker 
+954,Sangri ,Sanger,https://en.wikipedia.org/wiki/Sangri 
+955,Sandalwood ,Chandan,https://en.wikipedia.org/wiki/Sandalwood 
+956,Saffron Food ,, 
+957,Khaman Dhokla ,,https://en.wikipedia.org/wiki/Khaman dhokla 
+958,Gluten ,,https://en.wikipedia.org/wiki/Gluten 
+959,Lily Puff Margarine ,, 
+960,Dhokla ,,https://en.wikipedia.org/wiki/Dhokla 
+961,Khatta Dhokla Flour ,, 
+962,Sorrel ,Khatta Bhaji,https://en.wikipedia.org/wiki/Sorrel 
+963,Khatti-Meethi Chutney ,, 
+964,Valor Papdi ,, 
+965,Leftover Khichdi ,, 
+966,Khichiya Papad ,, 
+967,Kit-Kat Chocolate ,, 
+968,Kit-Kat Chocolates ,, 
+969,Kit-Kat ,, 
+970,Chocolate Walnut Brownie ,, 
+971,Cream Wafer Biscuits ,, 
+972,Kiwis ,,https://en.wikipedia.org/wiki/Kiwis 
+973,Cheesecake ,,https://en.wikipedia.org/wiki/Cheesecake 
+974,Glycerin ,,https://en.wikipedia.org/wiki/Glycerin 
+975,Semi Kokum ,, 
+976,Silver Foil ,,https://en.wikipedia.org/wiki/Silver foil 
+977,Pink ,,https://en.wikipedia.org/wiki/Pink 
+978,Cashewnuts Drained. ,, 
+979,Malai Kulfi ,, 
+980,Jalebis ,, 
+981,Horse Gram ,Kulith,https://en.wikipedia.org/wiki/Horse gram 
+982,Rounds Vegetables ,, 
+983,Raita ,,https://en.wikipedia.org/wiki/Raita 
+984,Lasagne ,,https://en.wikipedia.org/wiki/Lasagne 
+985,Baileys Irish Cream ,, 
+986,Amaretto ,,https://en.wikipedia.org/wiki/Amaretto 
+987,Chocolate Cream Wafer Biscuit ,, 
+988,Chocolate Cream Wafer Biscuits ,, 
+989,Coconut Biscuits ,, 
+990,Pineapple Tidbits ,, 
+992,Pickled Jalapenos ,, 
+993,Bean Spinach Rice ,, 
+994,Falafel ,,https://en.wikipedia.org/wiki/Falafel 
+995,Lemon Crystals ,, 
+996,Cheese Cake ,,https://en.wikipedia.org/wiki/Cheese cake 
+997,Lemon Zest ,,https://en.wikipedia.org/wiki/Lemon zest 
+998,Couscous ,,https://en.wikipedia.org/wiki/Couscous 
+999,Carrot Julienned ,, 
+1000,Bottles Lemonade ,, 
+1001,Emon Grass ,Hare Chai Ki Patti, 
+1002,Eggs Yolks ,, 
+1003,Lemon Tang ,, 
+1004,Muskmelon Purée ,Kharbooja, 
+1005,Plum Sauce ,,https://en.wikipedia.org/wiki/Plum sauce 
+1006,Garlic Sauce ,,https://en.wikipedia.org/wiki/Garlic sauce 
+1007,Onions The ,, 
+1008,Surti Vaal ,, 
+1009,Lychee ,,https://en.wikipedia.org/wiki/Lychee 
+1010,Rasgulla Squares ,, 
+1011,Rabdi Cream ,, 
+1012,Butter Naan ,, 
+1013,Angelica ,,https://en.wikipedia.org/wiki/Angelica 
+1014,Moong Dal Vadi ,, 
+1015,GingerGreen Chilli ,, 
+1016,Garlic-Tomato Chutney ,, 
+1017,Corncobs ,,https://en.wikipedia.org/wiki/Corncobs 
+1018,Corncobs Mm ,, 
+1019,Corn Kernel ,,https://en.wikipedia.org/wiki/Corn kernel 
+1020,Spinach Rotis ,Palak, 
+1021,Pahadi Marinade ,, 
+1022,Piece Cinnamon ,, 
+1023,Alum ,Phitkari,https://en.wikipedia.org/wiki/Alum 
+1024,Flat Noodles ,, 
+1025,Mango Purée ,, 
+1026,Mango Ice-Cream ,, 
+1027,Crystallized Ginger ,,https://en.wikipedia.org/wiki/Crystallized ginger 
+1028,Mango Pureed ,, 
+1029,Mango Cake ,, 
+1030,Moong Dal Mangodi ,, 
+1031,Tequila ,,https://en.wikipedia.org/wiki/Tequila 
+1032,Cointreau ,,https://en.wikipedia.org/wiki/Cointreau 
+1033,Table Salt ,,https://en.wikipedia.org/wiki/Table salt 
+1034,Dal ,,https://en.wikipedia.org/wiki/Dal 
+1035,Chai Masala ,,https://en.wikipedia.org/wiki/Chai masala 
+1036,Coke ,,https://en.wikipedia.org/wiki/Coke 
+1037,Khichiya Papads ,, 
+1038,Radish Pods ,Mogri, 
+1039,Chunda ,,https://en.wikipedia.org/wiki/Chunda 
+1040,Tendlis ,, 
+1041,Garlic Clove ,,https://en.wikipedia.org/wiki/Garlic clove 
+1042,Mawa Peda ,, 
+1043,Medu Vadas ,,https://en.wikipedia.org/wiki/Medu vadas 
+1044,Betel ,Paan,https://en.wikipedia.org/wiki/Betel 
+1045,Paan Katha ,, 
+1046,Paan Chutney ,, 
+1047,Dhana Dal ,, 
+1048,Honeydew Melon ,,https://en.wikipedia.org/wiki/Honeydew melon 
+1049,Papaya Scoops ,, 
+1050,Watermelon Scoops ,Tarbuj, 
+1051,Cherries Stem ,, 
+1052,Black-Eyed Beans ,Chawli, 
+1053,Wheat Bhakris ,, 
+1054,Toasts ,,https://en.wikipedia.org/wiki/Toasts 
+1055,Methi ,,https://en.wikipedia.org/wiki/Methi 
+1056,Cashewnuts ,Kaju, 
+1057,Corn Tortillas ,,https://en.wikipedia.org/wiki/Corn tortillas 
+1058,Taco Seasoning ,, 
+1059,Monterey Jack Cheese ,,https://en.wikipedia.org/wiki/Monterey jack cheese 
+1060,Chunky ,,https://en.wikipedia.org/wiki/Chunky 
+1061,Avocado Dip ,, 
+1062,Hummus ,,https://en.wikipedia.org/wiki/Hummus 
+1063,Baba Ganoush ,,https://en.wikipedia.org/wiki/Baba ganoush 
+1064,Capsicum Walnut Dip ,, 
+1065,Fattoush ,,https://en.wikipedia.org/wiki/Fattoush 
+1066,Pita Breads ,, 
+1067,Spinach Sambousik ,, 
+1068,Pickled Vegetables ,,https://en.wikipedia.org/wiki/Pickled vegetables 
+1069,Masala Cashewnuts ,, 
+1070,Bikaneri Bhujia ,,https://en.wikipedia.org/wiki/Bikaneri bhujia 
+1071,Brown Bread Burger Buns ,, 
+1072,Lentils Flour ,Urad Dal, 
+1073,Limca ,,https://en.wikipedia.org/wiki/Limca 
+1074,Yam Raita ,, 
+1075,Farsan ,,https://en.wikipedia.org/wiki/Farsan 
+1076,Chilli Garlic Chutney ,, 
+1077,Uncooked Rice ,Chawal, 
+1078,Sprout ,,https://en.wikipedia.org/wiki/Sprout 
+1079,Pastry ,,https://en.wikipedia.org/wiki/Pastry 
+1080,Grain Basmati Rice ,Chawal, 
+1081,Snow Peas ,,https://en.wikipedia.org/wiki/Snow peas 
+1082,Coffee Beans ,,https://en.wikipedia.org/wiki/Coffee beans 
+1083,Bamboo Shoots ,,https://en.wikipedia.org/wiki/Bamboo shoots 
+1084,Mooli ,Radish,https://en.wikipedia.org/wiki/Mooli 
+1085,Mango Chunda ,, 
+1086,Moong Dal ,,https://en.wikipedia.org/wiki/Moong dal 
+1087,Walnut Praline ,, 
+1088,Olive ,,https://en.wikipedia.org/wiki/Olive 
+1089,Herbed Pita ,, 
+1090,Apple Skins Swirls ,, 
+1091,Rice Vermicelli ,Seviyan,https://en.wikipedia.org/wiki/Rice vermicelli 
+1092,Chili Garlic Sauce ,, 
+1093,Wheat Grass ,,https://en.wikipedia.org/wiki/Wheat grass 
+1094,Amchur ,Mango Peel Powder,https://en.wikipedia.org/wiki/Amchur 
+1095,Grain Rice ,Chawal, 
+1096,Strawberry Sauce ,,https://en.wikipedia.org/wiki/Strawberry sauce 
+1097,Aloo Masala ,, 
+1098,Mysore Chutney ,, 
+1099,Millet Flour ,Ragi /Nachni, 
+1100,Tortilla ,,https://en.wikipedia.org/wiki/Tortilla 
+1101,Vanaspati ,,https://en.wikipedia.org/wiki/Vanaspati 
+1102,Clove Ginger ,Adrak, 
+1103,Neem ,,https://en.wikipedia.org/wiki/Neem 
+1104,Noodle ,,https://en.wikipedia.org/wiki/Noodle 
+1105,Wheat Spaghetti ,, 
+1106,Flat Rice Noodles ,, 
+1107,Ferrero Rocher ,, 
+1108,Ready-Made Samosa ,, 
+1109,Oatmeal Cookies ,,https://en.wikipedia.org/wiki/Oatmeal cookies 
+1110,Vegetable Oil ,,https://en.wikipedia.org/wiki/Vegetable oil 
+1111,Sun Tomatoes ,, 
+1112,Maggi Masala ,, 
+1113,Mango Pickle ,,https://en.wikipedia.org/wiki/Mango pickle 
+1114,Malta Orange ,, 
+1115,Khoya ,,https://en.wikipedia.org/wiki/Khoya 
+1116,Oreo Biscuits ,, 
+1117,Beetel ,Paan,https://en.wikipedia.org/wiki/Beetel 
+1118,Menthol ,,https://en.wikipedia.org/wiki/Menthol 
+1119,Colocasia ,,https://en.wikipedia.org/wiki/Colocasia 
+1120,Coconut Kadhi ,, 
+1121,Dahiwali Phudine Chutney ,, 
+1122,Soda- Bi Carb ,, 
+1123,Palak Methi Na Muthias ,, 
+1124,Tandoori Masala ,,https://en.wikipedia.org/wiki/Tandoori masala 
+1125,Onion Purée ,, 
+1126,Multigrain Bread ,,https://en.wikipedia.org/wiki/Multigrain bread 
+1127,Curly Lettuce ,, 
+1128,Chilli Coriander Rice ,, 
+1130,Piece Ginger ,, 
+1131,Flour Tortilla ,,https://en.wikipedia.org/wiki/Flour tortilla 
+1132,Herbed Hummus ,, 
+1133,Tandoori Paneer Tikas ,, 
+1134,Thai Vegetable ,, 
+1135,Limca Drink ,, 
+1136,Bikaneri Papad ,, 
+1137,Urad Dal Papad ,, 
+1138,Alphonso Mango ,, 
+1139,Papaya Purée ,, 
+1140,Mexican Blend ,, 
+1141,Farfalle Pasta ,, 
+1142,Wheat Fusilli ,, 
+1143,Fusillii ,, 
+1144,Carbonated Lemon Drink ,, 
+1145,Macaroons ,,https://en.wikipedia.org/wiki/Macaroons 
+1146,Herbed Pizza ,, 
+1147,Apricot Jam ,,https://en.wikipedia.org/wiki/Apricot jam 
+1148,Yogurt ,Dahi,https://en.wikipedia.org/wiki/Yogurt 
+1149,Ginger-Green Chill ,, 
+1150,Rajgira Paratha ,, 
+1151,Brie Cheese ,,https://en.wikipedia.org/wiki/Brie cheese 
+1152,Pomogranate ,, 
+1153,Can Pears ,, 
+1154,Arugula ,,https://en.wikipedia.org/wiki/Arugula 
+1155,Tomatoes Pesto ,, 
+1156,Tomato Soup ,,https://en.wikipedia.org/wiki/Tomato soup 
+1157,Coriander Coconut Chutney ,, 
+1158,Teabag ,,https://en.wikipedia.org/wiki/Teabag 
+1159,Conchiglie ,,https://en.wikipedia.org/wiki/Conchiglie 
+1160,Petha ,,https://en.wikipedia.org/wiki/Petha 
+1161,Phodshi ,, 
+1162,Gram Flour ,Coarse Besan,https://en.wikipedia.org/wiki/Gram flour 
+1163,Pearl Onions ,, 
+1164,Carrot Ka Achaar ,, 
+1165,Ginger Biscuits ,Adrak,https://en.wikipedia.org/wiki/Ginger biscuits 
+1166,Bread Tartlets ,, 
+1167,Pineapple Purée ,, 
+1168,Pineapple Wafer Biscuits ,, 
+1169,Aloe Vera ,,https://en.wikipedia.org/wiki/Aloe vera 
+1170,Tinned ,,https://en.wikipedia.org/wiki/Tinned 
+1171,Peled Pistachios ,, 
+1172,Bajra Roti ,,https://en.wikipedia.org/wiki/Bajra roti 
+1173,Gatte Ka Pulao ,, 
+1174,Shrikhand ,,https://en.wikipedia.org/wiki/Shrikhand 
+1175,Colorful Capsicum ,, 
+1176,Plums ,,https://en.wikipedia.org/wiki/Plums 
+1177,Plum ,,https://en.wikipedia.org/wiki/Plum 
+1178,Ginger Ale Squash ,, 
+1179,Plum Jam ,, 
+1180,Drinking Coconut ,, 
+1181,Vegetarian Oyster Sauce ,, 
+1182,Zucchini Thin ,, 
+1183,Tomato Thin ,, 
+1184,Peanut Chutney ,,https://en.wikipedia.org/wiki/Peanut chutney 
+1185,Laadi Pav ,, 
+1186,Harissa Sauce ,, 
+1187,Kachri ,, 
+1188,Kerala Papadum ,, 
+1189,Bhakarwadi ,,https://en.wikipedia.org/wiki/Bhakarwadi 
+1190,Butter Biscuit ,,https://en.wikipedia.org/wiki/Butter biscuit 
+1191,Honeydew Melon Purée ,Kharbooja, 
+1192,Coriander Onion Chutney ,, 
+1193,Rose Sherbet ,, 
+1194,Hide Seek Chocolate Biscuits ,, 
+1195,Wheat Pizza Base ,, 
+1196,Kabuli Channa ,, 
+1197,Beet Cheese Sauce ,, 
+1198,Lehsun Chutney ,, 
+1199,Samo Khichdi ,, 
+1200,Tomato Corn Chutney ,, 
+1201,Coriander- Cumin ,, 
+1202,Garlic-Ginger-Green Chilli ,, 
+1203,Sugar Rite ,, 
+1204,BuffaloS Milk ,, 
+1205,Rasgulla Logs ,, 
+1206,Radish Julliennes ,, 
+1207,Grenadine ,,https://en.wikipedia.org/wiki/Grenadine 
+1208,Apple Fans ,, 
+1209,Peppercorn ,,https://en.wikipedia.org/wiki/Peppercorn 
+1210,Kashmiri Chilles ,, 
+1211,Ricotta Cheese ,,https://en.wikipedia.org/wiki/Ricotta cheese 
+1212,Bread Toasts ,, 
+1213,Garlic Pod ,Lehsun, 
+1214,Squash ,,https://en.wikipedia.org/wiki/Squash 
+1215,Wafer Biscuits ,, 
+1216,Popcorn ,,https://en.wikipedia.org/wiki/Popcorn 
+1217,Rose Sherbat ,, 
+1218,Wheat Chapati ,, 
+1219,Nylon Sago ,Sabudana, 
+1220,Khatta Bhaji ,, 
+1221,Rajgira Kadhi ,, 
+1222,Sprinklers ,,https://en.wikipedia.org/wiki/Sprinklers 
+1223,Goa Port Wine ,, 
+1224,Makai Roti ,, 
+1225,Gatte Subzi ,, 
+1226,Kadala Curry ,, 
+1227,Ginger Patse ,, 
+1228,Rabadi ,,https://en.wikipedia.org/wiki/Rabadi 
+1229,Turnips ,Shalgam,https://en.wikipedia.org/wiki/Turnips 
+1230,Ginger-Ale ,, 
+1231,Shortbread Biscuits ,, 
+1232,Vanilla Butter Cream ,, 
+1233,Pink Food ,, 
+1234,Carrots Thin ,, 
+1235,Lemongrass Stem ,, 
+1236,Waterchestnut Flour ,, 
+1237,Soba Noodles ,,https://en.wikipedia.org/wiki/Soba noodles 
+1238,BirdS Eye Chilli ,, 
+1239,Garlics ,, 
+1240,Tomato Cream Sauce ,, 
+1241,Mexican Tomato Sauce ,, 
+1242,Masala Fries ,, 
+1243,Surti Bananas ,, 
+1244,Pretzel ,,https://en.wikipedia.org/wiki/Pretzel 
+1245,Wholemeal Pizza Base ,, 
+1246,Tomato Chunks ,, 
+1247,Lasagna ,,https://en.wikipedia.org/wiki/Lasagna 
+1248,Garlic -Tomato Chutney ,, 
+1249,Kashmiri Chillie ,, 
+1250,Misal Masala ,, 
+1251,Schezuan Peppercorns ,Tirphal, 
+1252,Knol Khol ,Navalkol, 
+1253,Chocolate Glace ,, 
+1254,Soufflés ,, 
+1255,Cakes ,,https://en.wikipedia.org/wiki/Cakes 
+1256,Puddings ,,https://en.wikipedia.org/wiki/Puddings 
+1257,Ice-Creams ,, 
+1258,Sundaes ,,https://en.wikipedia.org/wiki/Sundaes 
+1259,Nutties ,, 
+1260,Butter-Paper Piping Bag ,, 
+1261,Strawberry Crystals ,, 
+1262,Strawberries Purée ,, 
+1263,Rasmalais ,, 
+1264,Soda Bi-Carbonate ,, 
+1265,Strawberries Hulled ,, 
+1266,Rolls ,,https://en.wikipedia.org/wiki/Rolls 
+1267,Bitter Gourds ,Karela, 
+1268,Dahiwali Phudina Chutney ,, 
+1269,Zucchinis ,, 
+1270,Skim Milk ,,https://en.wikipedia.org/wiki/Skim milk 
+1271,Brown Vinegar ,,https://en.wikipedia.org/wiki/Brown vinegar 
+1272,Vanilla Butter ,, 
+1273,Lemon Butter Cream ,, 
+1274,Palak Methi Muthias ,, 
+1275,Polenta Base ,, 
+1276,Thai Curry ,,https://en.wikipedia.org/wiki/Thai curry 
+1277,Rumali Rotis ,, 
+1278,Thandai ,,https://en.wikipedia.org/wiki/Thandai 
+1279,Chana Dal Flour ,, 
+1280,Potato Snack ,, 
+1281,Cocktail Onions ,, 
+1282,Pickled Capsicum ,, 
+1283,Marsala ,,https://en.wikipedia.org/wiki/Marsala 
+1284,Marsala Wine ,,https://en.wikipedia.org/wiki/Marsala wine 
+1285,Herb Cheese ,, 
+1286,Soyabean ,,https://en.wikipedia.org/wiki/Soyabean 
+1287,Epsom Salts ,,https://en.wikipedia.org/wiki/Epsom salts 
+1288,Chili Coriander Rice ,, 
+1289,Ladies ,Bhindi,https://en.wikipedia.org/wiki/Ladies 
+1290,Marjoram ,,https://en.wikipedia.org/wiki/Marjoram 
+1291,Rasam ,,https://en.wikipedia.org/wiki/Rasam 
+1292,Sodium Benzoit ,, 
+1293,Olive Pesto ,, 
+1294,Rasawala Bateta Nu Shaak ,, 
+1295,Arhar Dal ,Toovar,https://en.wikipedia.org/wiki/Arhar dal 
+1296,Tomatoes Basil Pesto ,, 
+1297,Bhakhri ,,https://en.wikipedia.org/wiki/Bhakhri 
+1298,Paatra ,, 
+1299,Soda Bi- Carb ,, 
+1300,Coconut-Coriander Masala ,, 
+1301,Palak ,,https://en.wikipedia.org/wiki/Palak 
+1302,China Grass ,,https://en.wikipedia.org/wiki/China grass 
+1303,Komal ,,https://en.wikipedia.org/wiki/Komal 
+1304,Frankie Masala ,, 
+1305,Manchurian ,,https://en.wikipedia.org/wiki/Manchurian 
+1306,Yeast Marmite ,, 
+1307,Corn Sambhar ,, 
+1308,Kadai ,,https://en.wikipedia.org/wiki/Kadai 
+1309,Kolhapuri ,,https://en.wikipedia.org/wiki/Kolhapuri 
+1310,Bread Toast ,, 
+1311,Lemon Leaf ,,https://en.wikipedia.org/wiki/Lemon leaf 
+1312,Leeks ,,https://en.wikipedia.org/wiki/Leeks 
+1313,Carrot Jullienes ,, 
+1314,Shitake Mushroom ,,https://en.wikipedia.org/wiki/Shitake mushroom 
+1315,Celery Salt ,,https://en.wikipedia.org/wiki/Celery salt 
+1316,Cream Crackers Biscuits ,, 
+1317,Water Chestnut ,,https://en.wikipedia.org/wiki/Water chestnut 
+1318,Whey ,,https://en.wikipedia.org/wiki/Whey 
+1319,Cherry Liquor ,, 
+1320,Garlic Tomato Chutney ,, 
+1321,Ice Cream ,,https://en.wikipedia.org/wiki/Ice cream 
+1322,Chawal Bhakri ,, 
+1323,Mango , ,https://en.wikipedia.org/wiki/Mango 
+1325,Flour ,Maida,https://en.wikipedia.org/wiki/Flour 
+1326,Baking , ,https://en.wikipedia.org/wiki/Baking 
+1328,Butter , ,https://en.wikipedia.org/wiki/Butter 
+1329,Milk , ,https://en.wikipedia.org/wiki/Milk 
+1330,Vanilla , ,https://en.wikipedia.org/wiki/Vanilla 
+1332,Vegetables , ,https://en.wikipedia.org/wiki/Vegetables 
+1334,Mustard ,Rai Na Kuria,https://en.wikipedia.org/wiki/Mustard 
+1335,Chilli , ,https://en.wikipedia.org/wiki/Chilli 
+1336,Asafoetida ,Hing,https://en.wikipedia.org/wiki/Asafoetida 
+1337,Turmeric ,Haldi,https://en.wikipedia.org/wiki/Turmeric 
+1338,Broccoli , ,https://en.wikipedia.org/wiki/Broccoli 
+1340,Onions , ,https://en.wikipedia.org/wiki/Onions 
+1344,Onion Rings , ,https://en.wikipedia.org/wiki/Onion rings 
+1345,Capsicum Rings , , 
+1346,Garlic ,Lehsun,https://en.wikipedia.org/wiki/Garlic 
+1347,Tomatoes , ,https://en.wikipedia.org/wiki/Tomatoes 
+1350,Beans , ,https://en.wikipedia.org/wiki/Beans 
+1351,Macaroni , ,https://en.wikipedia.org/wiki/Macaroni 
+1352,Oregano , ,https://en.wikipedia.org/wiki/Oregano 
+1355,Cheese , ,https://en.wikipedia.org/wiki/Cheese 
+1356,Curds ,Dahi,https://en.wikipedia.org/wiki/Curds 
+1357,Wheat Flour ,Gehun Ka Atta,https://en.wikipedia.org/wiki/Wheat flour 
+1362,Carom ,Ajwain,https://en.wikipedia.org/wiki/Carom 
+1365,Toovar Dal ,Arhar,https://en.wikipedia.org/wiki/Toovar dal 
+1368,Lemon Juice , ,https://en.wikipedia.org/wiki/Lemon juice 
+1369,Jaggery ,Gur,https://en.wikipedia.org/wiki/Jaggery 
+1370,Ginger-Green Chilli , , 
+1372,Curry ,Kadi Patta,https://en.wikipedia.org/wiki/Curry 
+1376,Cumin ,Jeera,https://en.wikipedia.org/wiki/Cumin 
+1377,Mustard , Rai / Sarson,https://en.wikipedia.org/wiki/Mustard 
+1379,Chillies ,Boriya Mirch,https://en.wikipedia.org/wiki/Chillies 
+1380,Cinnamon ,Dalchini,https://en.wikipedia.org/wiki/Cinnamon 
+1381,Cloves ,Laung / Lavang,https://en.wikipedia.org/wiki/Cloves 
+1382,Coriander ,Dhania,https://en.wikipedia.org/wiki/Coriander 
+1385,Fusillii , , 
+1386,Tomatoes , ,https://en.wikipedia.org/wiki/Tomatoes 
+1388,Bayleaves ,Tejpatta, 
+1389,Peppercorns ,Kalimirch,https://en.wikipedia.org/wiki/Peppercorns 
+1392,Capsicum , ,https://en.wikipedia.org/wiki/Capsicum 
+1394,Tomato , ,https://en.wikipedia.org/wiki/Tomato 
+1397,Chilli ,Paprika,https://en.wikipedia.org/wiki/Chilli 
+1399,Cream , ,https://en.wikipedia.org/wiki/Cream 
+1403,Mango , ,https://en.wikipedia.org/wiki/Mango 
+1406,Marinade , ,https://en.wikipedia.org/wiki/Marinade 
+1407,Mustard Oil ,Rai / Sarson,https://en.wikipedia.org/wiki/Mustard oil 
+1408,Nigella ,Kalonji,https://en.wikipedia.org/wiki/Nigella 
+1409,Fennel ,Saunf,https://en.wikipedia.org/wiki/Fennel 
+1411,Spinach ,Palak,https://en.wikipedia.org/wiki/Spinach 
+1412,Rice ,Basmati,https://en.wikipedia.org/wiki/Rice 
+1413,Gram ,Yellow Moong Dal ,https://en.wikipedia.org/wiki/Gram 
+1417,Garlic ,Lehsun,https://en.wikipedia.org/wiki/Garlic 
+1418,Ginger ,Adrak,https://en.wikipedia.org/wiki/Ginger 
+1420,Tomatoes , ,https://en.wikipedia.org/wiki/Tomatoes 
+1425,Cardamom ,Elaichi,https://en.wikipedia.org/wiki/Cardamom 
+1428,Kashmiri Chilli , , 
+1430,Chillies , ,https://en.wikipedia.org/wiki/Chillies 
+1433,Fenugreek ,Methi,https://en.wikipedia.org/wiki/Fenugreek 
+1434,Chilli , ,https://en.wikipedia.org/wiki/Chilli 
+1439,Coriander-Cumin ,Dhania-Jeera, 
+1444,Sesame ,Til,https://en.wikipedia.org/wiki/Sesame 
+1445,Besan ,Bengal Gram Flour,https://en.wikipedia.org/wiki/Besan 
+1450,Millet ,Jowar  Flour,https://en.wikipedia.org/wiki/Millet 
+1452,Small Onion , ,https://en.wikipedia.org/wiki/Small onion 
+1453,Tomato , ,https://en.wikipedia.org/wiki/Tomato 
+1455,Chillies , ,https://en.wikipedia.org/wiki/Chillies 
+1458,Butter , ,https://en.wikipedia.org/wiki/Butter 
+1459,Bread , ,https://en.wikipedia.org/wiki/Bread 
+1460,Vegetables , ,https://en.wikipedia.org/wiki/Vegetables 
+1463,Coconut , ,https://en.wikipedia.org/wiki/Coconut 
+1469,Vegetables , ,https://en.wikipedia.org/wiki/Vegetables 
+1472,Canned Pineapple , , 
+1473,Potatoes , ,https://en.wikipedia.org/wiki/Potatoes 
+1479,Bengal Gram ,Chana Dal ,https://en.wikipedia.org/wiki/Bengal gram 
+1480,Lentils ,Urad Dal ,https://en.wikipedia.org/wiki/Lentils 
+1482,Kashmiri Chillies , , 
+1484,Garlic Cloves ,Lehsun, 
+1485,Tamarind ,Imli,https://en.wikipedia.org/wiki/Tamarind 
+1486,Peppercorns ,Kalimirch,https://en.wikipedia.org/wiki/Peppercorns 
+1497,Cardamoms ,Elaichi,https://en.wikipedia.org/wiki/Cardamoms 
+1505,Cashewnuts ,Kaju, 
+1513,Rice ,Chawal,https://en.wikipedia.org/wiki/Rice 
+1523,Chillies , ,https://en.wikipedia.org/wiki/Chillies 
+1530,Curd ,Dahi,https://en.wikipedia.org/wiki/Curd 
+1537,Fenugreek ,Kasuri Methi,https://en.wikipedia.org/wiki/Fenugreek 
+1546,Mint ,Phudina,https://en.wikipedia.org/wiki/Mint 
+1552,Ginger ,Adrak,https://en.wikipedia.org/wiki/Ginger 
+1556,Capsicum , ,https://en.wikipedia.org/wiki/Capsicum 
+1557,Cabbage , ,https://en.wikipedia.org/wiki/Cabbage 
+1558,Onions , ,https://en.wikipedia.org/wiki/Onions 
+1559,Onion Greens , , 
+1560,Carrot , ,https://en.wikipedia.org/wiki/Carrot 
+1564,Cheese , ,https://en.wikipedia.org/wiki/Cheese 
+1565,Lettuce , ,https://en.wikipedia.org/wiki/Lettuce 
+1566,Masala Fries , , 
+1567,Potatoes , ,https://en.wikipedia.org/wiki/Potatoes 
+1583,Wheat Laddi Pavs , , 
+1584,Sukhi Lehsun Ki Chutney , , 
+1587,Cabbage , ,https://en.wikipedia.org/wiki/Cabbage 
+1589,Cucumber , ,https://en.wikipedia.org/wiki/Cucumber 
+1592,Chutney , ,https://en.wikipedia.org/wiki/Chutney 
+1598,Carrot , ,https://en.wikipedia.org/wiki/Carrot 
+1605,Dahiwali Phudina Ki Chutney , , 
+1606,Potatoes , ,https://en.wikipedia.org/wiki/Potatoes 
+1614,Baby Corn , ,https://en.wikipedia.org/wiki/Baby corn 
+1616,Rice , ,https://en.wikipedia.org/wiki/Rice 
+1625,Banana , ,https://en.wikipedia.org/wiki/Banana 
+1626,Dark Chocolate , ,https://en.wikipedia.org/wiki/Dark chocolate 
+1630,Cocoa , ,https://en.wikipedia.org/wiki/Cocoa 
+1636,Walnuts ,Akhrot,https://en.wikipedia.org/wiki/Walnuts 
+1637,Chocolate , ,https://en.wikipedia.org/wiki/Chocolate 
+1639,Cardamoms , ,https://en.wikipedia.org/wiki/Cardamoms 
+1642,Ginger ,Soonth,https://en.wikipedia.org/wiki/Ginger 
+1643,Nutmeg ,Jaiphal,https://en.wikipedia.org/wiki/Nutmeg 
+1646,Sour Curds ,Khatta Dahi, 
+1649,Sugar , ,https://en.wikipedia.org/wiki/Sugar 
+1659,Beans , ,https://en.wikipedia.org/wiki/Beans 
+1660,Carrot , ,https://en.wikipedia.org/wiki/Carrot 
+1661,Peas , ,https://en.wikipedia.org/wiki/Peas 
+1662,Capsicum , ,https://en.wikipedia.org/wiki/Capsicum 
+1667,Raisins ,Kismis,https://en.wikipedia.org/wiki/Raisins 
+1669,Rice ,Chawal,https://en.wikipedia.org/wiki/Rice 
+1670,Noodles , ,https://en.wikipedia.org/wiki/Noodles 
+1672,Celery ,Ajmoda,https://en.wikipedia.org/wiki/Celery 
+1674,Onions , ,https://en.wikipedia.org/wiki/Onions 
+1676,Carrots , ,https://en.wikipedia.org/wiki/Carrots 
+1679,Food Colour , ,https://en.wikipedia.org/wiki/Food colour 
+1691,Pepper ,Kalimirch,https://en.wikipedia.org/wiki/Pepper 
+1693,Crispy Noodles , , 
+1694,Onions , ,https://en.wikipedia.org/wiki/Onions 
+1701,Peas , ,https://en.wikipedia.org/wiki/Peas 
+1713,Sukha Lehsun Ka Chutney , , 
+1714,Gram ,Moong ,https://en.wikipedia.org/wiki/Gram 
+1730,Coriander ,Dhania,https://en.wikipedia.org/wiki/Coriander 
+1741,Leek , ,https://en.wikipedia.org/wiki/Leek 
+1742,Potato , ,https://en.wikipedia.org/wiki/Potato 
+1745,Parsley , ,https://en.wikipedia.org/wiki/Parsley 
+1746,Rice ,Ukda Chawal,https://en.wikipedia.org/wiki/Rice 
+1751,Chillies , ,https://en.wikipedia.org/wiki/Chillies 
+1756,Curry ,Kadi Patta,https://en.wikipedia.org/wiki/Curry 
+1770,Herbs , ,https://en.wikipedia.org/wiki/Herbs 
+1775,Fenugreek ,Methi,https://en.wikipedia.org/wiki/Fenugreek 
+1776,Bottle Gourd ,Doodhi / Lauki,https://en.wikipedia.org/wiki/Bottle gourd 
+1779,Curds ,Dahi,https://en.wikipedia.org/wiki/Curds 
+1781,Cumin ,Jeera,https://en.wikipedia.org/wiki/Cumin 
+1795,Mango ,Amchur,https://en.wikipedia.org/wiki/Mango 
+1797,Peas , ,https://en.wikipedia.org/wiki/Peas 
+1799,Mint ,Phudina,https://en.wikipedia.org/wiki/Mint 
+1800,Noodles , ,https://en.wikipedia.org/wiki/Noodles 
+1804,Capsicum , ,https://en.wikipedia.org/wiki/Capsicum 
+1810,Onion , ,https://en.wikipedia.org/wiki/Onion 
+1815,Lentil ,Masoor ,https://en.wikipedia.org/wiki/Lentil 
+1819,Coriander ,Dhania,https://en.wikipedia.org/wiki/Coriander 
